@@ -1,0 +1,510 @@
+Source rule: sentence_A 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: A group of kids is playing in a yard and an old man is standing in the background 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 1.0, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 1.0, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.96255904, 'Target Rule': 'A group of boys in a yard is playing and a man is standing in the background'}]
+
+Source rule: A group of children is playing in the house and there is no man standing in the background 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.89409155, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.89409155, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.89409155, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.8883251, 'Target Rule': 'A group of boys in a yard is playing and a man is standing in the background'}]
+
+Source rule: The young boys are playing outdoors and the man is smiling nearby 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8998538, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}, {'Cosine Sim Score': 0.80597425, 'Target Rule': 'A group of boys in a yard is playing and a man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}]
+
+Source rule: The kids are playing outdoors near a man with a smile 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0000001, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}]
+
+Source rule: The young boys are playing outdoors and the man is smiling nearby 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8998538, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}, {'Cosine Sim Score': 0.80597425, 'Target Rule': 'A group of boys in a yard is playing and a man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}]
+
+Source rule: Two dogs are fighting 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9999999, 'Target Rule': 'Two dogs are fighting'}]
+
+Source rule: A brown dog is attacking another animal in front of the man in pants 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: A brown dog is attacking another animal in front of the man in pants 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: Nobody is riding the bicycle on one wheel 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95771134, 'Target Rule': 'A person is riding the bicycle on one wheel'}]
+
+Source rule: A person is riding the bicycle on one wheel 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'A person is riding the bicycle on one wheel'}]
+
+Source rule: A person on a black motorbike is doing tricks with a jacket 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9878022, 'Target Rule': 'A person in a black jacket is doing tricks on a motorbike'}, {'Cosine Sim Score': 0.9617474, 'Target Rule': 'A man in a black jacket is doing tricks on a motorbike'}]
+
+Source rule: A man with a jersey is dunking the ball at a basketball game 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'A man with a jersey is dunking the ball at a basketball game'}, {'Cosine Sim Score': 0.9516749, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}]
+
+Source rule: A man with a jersey is dunking the ball at a basketball game 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'A man with a jersey is dunking the ball at a basketball game'}, {'Cosine Sim Score': 0.9516749, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}]
+
+Source rule: The player is dunking the basketball into the net and a crowd is in background 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9354876, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}]
+
+Source rule: Two people are kickboxing and spectators are not watching 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.99999994, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}, {'Cosine Sim Score': 0.9871012, 'Target Rule': 'Two people are kickboxing and spectators are watching'}]
+
+Source rule: Two young women are sparring in a kickboxing fight 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9889725, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Cosine Sim Score': 0.9353446, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Cosine Sim Score': 0.9353446, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two young women are not sparring in a kickboxing fight 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.99999994, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Cosine Sim Score': 0.92500085, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Cosine Sim Score': 0.92500085, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two people are kickboxing and spectators are watching 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'Two people are kickboxing and spectators are watching'}, {'Cosine Sim Score': 0.9871012, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}]
+
+Source rule: Two women are sparring in a kickboxing match 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.99999994, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Cosine Sim Score': 0.99999994, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Cosine Sim Score': 0.92500085, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}]
+
+Source rule: Three boys are jumping in the leaves 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9566873, 'Target Rule': 'Three kids are jumping in the leaves'}, {'Cosine Sim Score': 0.9566873, 'Target Rule': 'Three kids are jumping in the leaves'}]
+
+Source rule: Three kids are sitting in the leaves 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.925439, 'Target Rule': 'Three kids are jumping in the leaves'}, {'Cosine Sim Score': 0.925439, 'Target Rule': 'Three kids are jumping in the leaves'}]
+
+Source rule: sentence_A 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: A group of children is playing in the house and there is no man standing in the background 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.89409155, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.89409155, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.89409155, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}]
+
+Source rule: The young boys are playing outdoors and the man is smiling nearby 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8998538, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}]
+
+Source rule: The kids are playing outdoors near a man with a smile 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0000001, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}]
+
+Source rule: The young boys are playing outdoors and the man is smiling nearby 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8998538, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Cosine Sim Score': 0.80048823, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}]
+
+Source rule: Two dogs are fighting 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9999999, 'Target Rule': 'Two dogs are fighting'}]
+
+Source rule: A brown dog is attacking another animal in front of the man in pants 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: A brown dog is attacking another animal in front of the man in pants 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: Nobody is riding the bicycle on one wheel 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95771134, 'Target Rule': 'A person is riding the bicycle on one wheel'}]
+
+Source rule: A person is riding the bicycle on one wheel 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'A person is riding the bicycle on one wheel'}]
+
+Source rule: A person on a black motorbike is doing tricks with a jacket 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9878022, 'Target Rule': 'A person in a black jacket is doing tricks on a motorbike'}, {'Cosine Sim Score': 0.9617474, 'Target Rule': 'A man in a black jacket is doing tricks on a motorbike'}]
+
+Source rule: A man with a jersey is dunking the ball at a basketball game 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'A man with a jersey is dunking the ball at a basketball game'}, {'Cosine Sim Score': 0.9516749, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}]
+
+Source rule: A man with a jersey is dunking the ball at a basketball game 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'A man with a jersey is dunking the ball at a basketball game'}, {'Cosine Sim Score': 0.9516749, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}]
+
+Source rule: The player is dunking the basketball into the net and a crowd is in background 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9354876, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}]
+
+Source rule: Two people are kickboxing and spectators are not watching 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.99999994, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}, {'Cosine Sim Score': 0.9871012, 'Target Rule': 'Two people are kickboxing and spectators are watching'}]
+
+Source rule: Two young women are sparring in a kickboxing fight 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9889725, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Cosine Sim Score': 0.9353446, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Cosine Sim Score': 0.9353446, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two young women are not sparring in a kickboxing fight 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.99999994, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Cosine Sim Score': 0.92500085, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Cosine Sim Score': 0.92500085, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two people are kickboxing and spectators are watching 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': 'Two people are kickboxing and spectators are watching'}, {'Cosine Sim Score': 0.9871012, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}]
+
+Source rule: Two women are sparring in a kickboxing match 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.99999994, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Cosine Sim Score': 0.99999994, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Cosine Sim Score': 0.92500085, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}]
+
+Source rule: Three boys are jumping in the leaves 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9566873, 'Target Rule': 'Three kids are jumping in the leaves'}, {'Cosine Sim Score': 0.9566873, 'Target Rule': 'Three kids are jumping in the leaves'}]
+
+Source rule: Three kids are sitting in the leaves 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.925439, 'Target Rule': 'Three kids are jumping in the leaves'}, {'Cosine Sim Score': 0.925439, 'Target Rule': 'Three kids are jumping in the leaves'}]
+
+Source rule: sentence_A 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: A group of children is playing in the house and there is no man standing in the background 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8077252198590777, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Sim Score': 0.8077252198590777, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Sim Score': 0.8077252198590777, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}]
+
+Source rule: The young boys are playing outdoors and the man is smiling nearby 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8176301717698304, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}]
+
+Source rule: The kids are playing outdoors near a man with a smile 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.000000105248466, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}]
+
+Source rule: The young boys are playing outdoors and the man is smiling nearby 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8176301717698304, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}]
+
+Source rule: Two dogs are fighting 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999998646160679, 'Target Rule': 'Two dogs are fighting'}]
+
+Source rule: A brown dog is attacking another animal in front of the man in pants 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: A brown dog is attacking another animal in front of the man in pants 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: Nobody is riding the bicycle on one wheel 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9188537003430005, 'Target Rule': 'A person is riding the bicycle on one wheel'}]
+
+Source rule: A person is riding the bicycle on one wheel 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999239309274, 'Target Rule': 'A person is riding the bicycle on one wheel'}]
+
+Source rule: A person on a black motorbike is doing tricks with a jacket 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9758830433735984, 'Target Rule': 'A person in a black jacket is doing tricks on a motorbike'}, {'Jaccard Sim Score': 0.9263067507752143, 'Target Rule': 'A man in a black jacket is doing tricks on a motorbike'}]
+
+Source rule: A man with a jersey is dunking the ball at a basketball game 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000159605145, 'Target Rule': 'A man with a jersey is dunking the ball at a basketball game'}, {'Jaccard Sim Score': 0.8985443651078305, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}]
+
+Source rule: A man with a jersey is dunking the ball at a basketball game 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000159605145, 'Target Rule': 'A man with a jersey is dunking the ball at a basketball game'}, {'Jaccard Sim Score': 0.8985443651078305, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}]
+
+Source rule: The player is dunking the basketball into the net and a crowd is in background 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8787859063753571, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}]
+
+Source rule: Two people are kickboxing and spectators are not watching 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999061144657, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}, {'Jaccard Sim Score': 0.9707470427451903, 'Target Rule': 'Two people are kickboxing and spectators are watching'}]
+
+Source rule: Two young women are sparring in a kickboxing fight 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.973826077018235, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Jaccard Sim Score': 0.8785417353036437, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Sim Score': 0.8785417353036437, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two young women are not sparring in a kickboxing fight 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999998350655737, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Jaccard Sim Score': 0.8567926142760808, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Sim Score': 0.8567926142760808, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two people are kickboxing and spectators are watching 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000401420033, 'Target Rule': 'Two people are kickboxing and spectators are watching'}, {'Jaccard Sim Score': 0.9707470427451903, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}]
+
+Source rule: Two women are sparring in a kickboxing match 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999998971953757, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Sim Score': 0.9999998971953757, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Sim Score': 0.8567926142760808, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}]
+
+Source rule: Three boys are jumping in the leaves 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9169420090680624, 'Target Rule': 'Three kids are jumping in the leaves'}, {'Jaccard Sim Score': 0.9169420090680624, 'Target Rule': 'Three kids are jumping in the leaves'}]
+
+Source rule: Three kids are sitting in the leaves 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8609821440150964, 'Target Rule': 'Three kids are jumping in the leaves'}, {'Jaccard Sim Score': 0.8609821440150964, 'Target Rule': 'Three kids are jumping in the leaves'}]
+
+Source rule: sentence_A 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: A group of children is playing in the house and there is no man standing in the background 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 1.0, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 1.0, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 0.9130434782608695, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}]
+
+Source rule: The young boys are playing outdoors and the man is smiling nearby 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8571428571428571, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}]
+
+Source rule: The kids are playing outdoors near a man with a smile 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}, {'Jaccard Score': 0.8260869565217391, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}, {'Jaccard Score': 0.8181818181818182, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}]
+
+Source rule: The young boys are playing outdoors and the man is smiling nearby 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8571428571428571, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}]
+
+Source rule: Two dogs are fighting 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'Two dogs are fighting'}, {'Jaccard Score': 0.8235294117647058, 'Target Rule': 'Two dogs are wrestling and hugging'}, {'Jaccard Score': 0.8235294117647058, 'Target Rule': 'Two dogs are wrestling and hugging'}]
+
+Source rule: A brown dog is attacking another animal in front of the man in pants 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}, {'Jaccard Score': 0.8181818181818182, 'Target Rule': 'A person in a black jacket is doing tricks on a motorbike'}]
+
+Source rule: A brown dog is attacking another animal in front of the man in pants 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A group of kids is playing in a yard and an old man is standing in the background'}, {'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}, {'Jaccard Score': 0.8181818181818182, 'Target Rule': 'A person in a black jacket is doing tricks on a motorbike'}]
+
+Source rule: Nobody is riding the bicycle on one wheel 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8421052631578947, 'Target Rule': 'A person is riding the bicycle on one wheel'}]
+
+Source rule: A person is riding the bicycle on one wheel 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'A person is riding the bicycle on one wheel'}, {'Jaccard Score': 0.8181818181818182, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}]
+
+Source rule: A person on a black motorbike is doing tricks with a jacket 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.9047619047619048, 'Target Rule': 'A person in a black jacket is doing tricks on a motorbike'}, {'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}, {'Jaccard Score': 0.8571428571428571, 'Target Rule': 'A man in a black jacket is doing tricks on a motorbike'}]
+
+Source rule: A man with a jersey is dunking the ball at a basketball game 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'A man with a jersey is dunking the ball at a basketball game'}, {'Jaccard Score': 0.9047619047619048, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}, {'Jaccard Score': 0.8260869565217391, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}]
+
+Source rule: A man with a jersey is dunking the ball at a basketball game 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'A man with a jersey is dunking the ball at a basketball game'}, {'Jaccard Score': 0.9047619047619048, 'Target Rule': 'The ball is being dunked by a man with a jersey at a basketball game'}, {'Jaccard Score': 0.8260869565217391, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}]
+
+Source rule: The player is dunking the basketball into the net and a crowd is in background 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8695652173913043, 'Target Rule': 'A man who is playing dunks the basketball into the net and a crowd is in background'}, {'Jaccard Score': 0.8636363636363636, 'Target Rule': 'The kids are playing outdoors near a man with a smile'}, {'Jaccard Score': 0.8636363636363636, 'Target Rule': 'Two people are kickboxing and spectators are watching'}, {'Jaccard Score': 0.8636363636363636, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}]
+
+Source rule: Two people are kickboxing and spectators are not watching 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'Two people are kickboxing and spectators are watching'}, {'Jaccard Score': 1.0, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}, {'Jaccard Score': 0.8571428571428571, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Score': 0.8571428571428571, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two young women are sparring in a kickboxing fight 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Jaccard Score': 0.8636363636363636, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Score': 0.8636363636363636, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two young women are not sparring in a kickboxing fight 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Jaccard Score': 0.8636363636363636, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Score': 0.8636363636363636, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two people are kickboxing and spectators are watching 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'Two people are kickboxing and spectators are watching'}, {'Jaccard Score': 1.0, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}, {'Jaccard Score': 0.8571428571428571, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Score': 0.8571428571428571, 'Target Rule': 'Two women are sparring in a kickboxing match'}]
+
+Source rule: Two women are sparring in a kickboxing match 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Score': 1.0, 'Target Rule': 'Two women are sparring in a kickboxing match'}, {'Jaccard Score': 0.8636363636363636, 'Target Rule': 'Two young women are not sparring in a kickboxing fight'}, {'Jaccard Score': 0.8571428571428571, 'Target Rule': 'Two people are kickboxing and spectators are watching'}, {'Jaccard Score': 0.8571428571428571, 'Target Rule': 'Two people are kickboxing and spectators are not watching'}]
+
+Source rule: Three boys are jumping in the leaves 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: Three kids are sitting in the leaves 
+
+Similarity with Target Rule is 
+
+ []
+

@@ -1,0 +1,2226 @@
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.9172823, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.8419706, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.5106694, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Euclidean_distance': 1.4422103, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}, {'Euclidean_distance': 1.4148954, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 0.8799245, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8505545, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.4998997, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.2836931, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 0.8148336, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8266876, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 1.7712569, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.7567137, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.7364461, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Euclidean_distance': 1.6749078, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.7904356, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.4736773, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.4188439, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 0.9598152, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}, {'Euclidean_distance': 0.92645174, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’ 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8482342, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.5728477, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.3778687, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.2238351, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 1.0925134, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8370202, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.7311914, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.3746372, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 1.2672551, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Euclidean_distance': 1.2659249, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}, {'Euclidean_distance': 0.94695294, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.9172823, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.8419706, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.5106694, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Euclidean_distance': 1.4432964, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Euclidean_distance': 1.4422103, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}, {'Euclidean_distance': 1.4148954, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 0.8799245, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8505545, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.4998997, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.2836931, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 0.8148336, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8266876, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 1.7712569, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.7567137, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.7560884, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Euclidean_distance': 1.7364461, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Euclidean_distance': 1.6749078, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.7904356, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.4736773, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.4188439, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 0.9598152, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}, {'Euclidean_distance': 0.92645174, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 0.849928, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’ 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8482342, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.5728477, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.3778687, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.2238351, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 1.1040611, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Euclidean_distance': 1.0925134, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8370202, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.7311914, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.3746372, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 1.2672551, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Euclidean_distance': 1.2659249, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}, {'Euclidean_distance': 1.2128062, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Euclidean_distance': 0.94695294, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.2.1.4 Train proceeds without authority intervene (automatically) 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 2.1448972, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.7660903, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Euclidean_distance': 1.6276457, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Euclidean_distance': 1.4204551, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Euclidean_distance': 1.373017, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}, {'Euclidean_distance': 1.3181139, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Euclidean_distance': 1.170754, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.1.3 Controls – Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.7660903, 'Target Rule': '2.2.1.4 Train proceeds without authority intervene (automatically)'}, {'Euclidean_distance': 1.7567137, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.7311914, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}, {'Euclidean_distance': 1.5728477, 'Target Rule': '2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’'}, {'Euclidean_distance': 1.4736773, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}, {'Euclidean_distance': 1.2836931, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Euclidean_distance': 0.8799245, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8266876, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.4148954, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Euclidean_distance': 1.3746372, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}, {'Euclidean_distance': 1.3181139, 'Target Rule': '2.2.1.4 Train proceeds without authority intervene (automatically)'}, {'Euclidean_distance': 1.2238351, 'Target Rule': '2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’'}, {'Euclidean_distance': 0.92645174, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 2.1448972, 'Target Rule': '2.2.1.4 Train proceeds without authority intervene (automatically)'}, {'Euclidean_distance': 1.9172823, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Euclidean_distance': 1.8505545, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Euclidean_distance': 1.8482342, 'Target Rule': '2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’'}, {'Euclidean_distance': 1.8370202, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}, {'Euclidean_distance': 1.7904356, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.7364461, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.5106694, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Euclidean_distance': 1.4204551, 'Target Rule': '2.2.1.4 Train proceeds without authority intervene (automatically)'}, {'Euclidean_distance': 1.2672551, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}, {'Euclidean_distance': 1.0925134, 'Target Rule': '2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’'}]
+
+Source rule: 2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document. 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.6749078, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.4422103, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Euclidean_distance': 1.373017, 'Target Rule': '2.2.1.4 Train proceeds without authority intervene (automatically)'}, {'Euclidean_distance': 1.2659249, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}, {'Euclidean_distance': 0.9598152, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}, {'Euclidean_distance': 0.8148336, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.8419706, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Euclidean_distance': 1.7712569, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.6276457, 'Target Rule': '2.2.1.4 Train proceeds without authority intervene (automatically)'}, {'Euclidean_distance': 1.4998997, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Euclidean_distance': 1.4188439, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}, {'Euclidean_distance': 1.3778687, 'Target Rule': '2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’'}, {'Euclidean_distance': 0.94695294, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Euclidean_distance': 1.7560884, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Euclidean_distance': 1.4432964, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Euclidean_distance': 1.2128062, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}, {'Euclidean_distance': 1.170754, 'Target Rule': '2.2.1.4 Train proceeds without authority intervene (automatically)'}, {'Euclidean_distance': 1.1040611, 'Target Rule': '2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’'}, {'Euclidean_distance': 0.849928, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8363441, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’ 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.80654526, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.2.1.4 Train proceeds without authority intervene (automatically) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8363441, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)’ 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.80654526, 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.2.1.4 Train proceeds without authority intervene (automatically) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.2.1.4 Train proceeds without authority intervene (automatically) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 Safety is compromised if a train proceeds without a movement autority'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8709677419354839, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Jaccard Score': 0.8387096774193549, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8235294117647058, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8064516129032258, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 Safety is compromised if a train proceeds without a movement autority'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8709677419354839, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Jaccard Score': 0.8387096774193549, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8235294117647058, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8064516129032258, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8709677419354839, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Jaccard Score': 0.8387096774193549, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8235294117647058, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8064516129032258, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183534856223862, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183534856223862, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183534856223862, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8709677419354839, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Jaccard Score': 0.8387096774193549, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8235294117647058, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8064516129032258, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8709677419354839, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Jaccard Score': 0.8387096774193549, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8235294117647058, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8064516129032258, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.95752513, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9022489, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8085536, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.916854408083329, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140530778459598, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9575251, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.902249, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.81305885, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.80855364, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8709677419354839, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}, {'Jaccard Score': 0.8387096774193549, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8235294117647058, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8064516129032258, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Jaccard Sim Score': 0.267405059151378, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Jaccard Sim Score': 0.24396495320862358, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Jaccard Sim Score': 0.2271835902974788, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Jaccard Sim Score': 0.19524177281156646, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Jaccard Sim Score': 0.180732754119585, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Jaccard Sim Score': 0.5990879976226339, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Jaccard Sim Score': 0.5197131913873431, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Jaccard Sim Score': 0.23601752650924263, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Jaccard Sim Score': 0.1886829402564707, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Jaccard Sim Score': 0.16375992316482282, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Jaccard Sim Score': 0.3378499627312896, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Jaccard Sim Score': 0.267405059151378, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Jaccard Sim Score': 0.2321558377235969, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Jaccard Sim Score': 0.2133831797385951, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Jaccard Sim Score': 0.1740442738165841, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Jaccard Sim Score': 0.5096395958303808, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Jaccard Sim Score': 0.44053679085219233, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Jaccard Sim Score': 0.3080902534473103, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Jaccard Sim Score': 0.24406123747423084, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Jaccard Sim Score': 0.20078005777608626, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.6595532281010658, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Jaccard Sim Score': 0.43375477946085556, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Jaccard Sim Score': 0.3999760857356402, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Jaccard Sim Score': 0.28867973349526077, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Jaccard Sim Score': 0.20336051109182904, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}, {'Jaccard Sim Score': 0.1983548922705546, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.6775414552279699, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}, {'Jaccard Sim Score': 0.3540163799344458, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}, {'Jaccard Sim Score': 0.3267407813429694, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}, {'Jaccard Sim Score': 0.2902511031549147, 'Target Rule': '2.3.2 Controls – Level Crossings'}, {'Jaccard Sim Score': 0.23787011604700095, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Jaccard Sim Score': 0.15024795844462951, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.6595532281010658, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.6775414552279699, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.6610647110721936, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.6537589890292244, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.6595532281010658, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.6775414552279699, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.6610647110721936, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.6537589890292244, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.6595532281010658, 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.6775414552279699, 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.1.1 Collision and derailment risk due to obstruction 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8824563091599441, 'Target Rule': '2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train.'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8717774170597211, 'Target Rule': '2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train.'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8717774170597211, 'Target Rule': '2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train.'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999165542289, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8717774170597211, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations un- der degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations un- der degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train. 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8824563091599441, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999094828911, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8717774170597211, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train. 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8824563091599441, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train. 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8824563091599441, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9999999094828911, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.9183533566103179, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.8717774170597211, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 1.0000000336395218, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Sim Score': 0.7951532479223439, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3 Controls – Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.9168542737999658, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train. 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8824563091599441, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}, {'Cosine Sim Score': 0.4697940461374194, 'Target Rule': '2.2.1.1 Safety is compromised if a train proceeds without a movement autority'}, {'Cosine Sim Score': 0.4459751468938149, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.8140532493190982, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}, {'Cosine Sim Score': 0.46250376057361553, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.6610647110721936, 'Target Rule': '2.2.1.1 Safety is compromised if a train proceeds without a movement autority'}, {'Cosine Sim Score': 0.5760430487259162, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Cosine Sim Score': 0.5019992858788165, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}, {'Cosine Sim Score': 0.4820906405168673, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': 0.6537589890292244, 'Target Rule': '2.8.6 Control communication between train drivers and signallers'}]
+
+Source rule: 2.1.3 Controls – Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}]
+
+Source rule: 2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval: 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8709677419354839, 'Target Rule': '2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval'}, {'Jaccard Score': 0.8387096774193549, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.9285714285714286, 'Target Rule': '2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity'}]
+
+Source rule: 2.3.2 Controls – Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 1.0, 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’). 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8235294117647058, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement. 
+
+Similarity with Target Rule is 
+
+ [{'Jaccard Score': 0.8064516129032258, 'Target Rule': '2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges'}]
+
+Source rule: 2.8.6 Controls – railway workforce (Communication between train drivers and signallers) 
+
+Similarity with Target Rule is 
+
+ []
+
