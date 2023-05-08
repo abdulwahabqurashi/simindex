@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cosine_sim_crosssection_300_020320.srcs/sources_1/new/mult_2x2_pack.vhd" \
+"../../../../cosine_sim_crosssection_300_020320.srcs/sources_1/new/mac_3x1_array.vhd" \
+"../../../../../../mac_array.srcs/sources_1/new/mac_main.vhd" \
+
+# Do not sort compile order
+nosort

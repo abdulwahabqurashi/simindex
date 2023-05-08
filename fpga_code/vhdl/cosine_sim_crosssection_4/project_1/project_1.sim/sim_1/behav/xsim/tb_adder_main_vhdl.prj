@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../jaccard_similarity_300crosssection_250221.srcs/sources_1/new/jaccard_sim.vhd" \
+"../../../../jaccard_similarity_300crosssection_250221.srcs/sources_1/new/main_mac1.vhd" \
+"../../../../jaccard_similarity_300crosssection_250221.srcs/sources_1/new/adder_main.vhd" \
+"../../../../jaccard_similarity_300crosssection_250221.srcs/sources_1/new/subtractor_main.vhd" \
+"../../../../jaccard_similarity_300crosssection_250221.srcs/sources_1/new/divider_main.vhd" \
+"../../../../jaccard_similarity_300crosssection_250221.srcs/sim_1/new/mult_cross_sec_300_pack.vhd" \
+"../../../../jaccard_similarity_300crosssection_250221.srcs/sources_1/new/mac_3x1_array.vhd" \
+"../../../../jaccard_similarity_300crosssection_250221.srcs/sim_1/new/tb_adder_main.vhd" \
+
+# Do not sort compile order
+nosort

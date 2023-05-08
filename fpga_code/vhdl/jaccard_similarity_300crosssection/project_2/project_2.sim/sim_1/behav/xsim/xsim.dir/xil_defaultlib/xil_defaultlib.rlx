@@ -1,0 +1,13 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sim_1/new/tb_divider_main.vhd,1619685216,vhdl,,,,cfg_tb_divider_main;tb_divider_main,,,,,,,,
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sim_1/new/tb_jaccard_sim.vhd,1619686920,vhdl,,,,cfg_tb_jaccard_sim;tb_jaccard_sim,,,,,,,,
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sources_1/new/adder_main.vhd,1616970413,vhdl,,,,adder_main,,,,,,,,
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sources_1/new/divider_main.vhd,1619685526,vhdl,,,,divider_main,,,,,,,,
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sources_1/new/jaccard_sim.vhd,1616894571,vhdl,,,,jaccard_sim,,,,,,,,
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sources_1/new/mac_3x1_array.vhd,1616985238,vhdl,,,,mac_3x1_array,,,,,,,,
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sources_1/new/mac_main.vhd,1616888490,vhdl,,,,mac_main,,,,,,,,
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sources_1/new/mult_2x2_pack.vhd,1616985238,vhdl,D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sim_1/new/tb_jaccard_sim.vhd,,,mult_2x2_pack,,,,,,,,
+D:/Mac array 300crosssection-210221/jaccard_similarity_300crosssection_29-04-2021/project_2/project_2.srcs/sources_1/new/subtract_main.vhd,1616888490,vhdl,,,,subtract_main,,,,,,,,

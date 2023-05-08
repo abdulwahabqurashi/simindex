@@ -1,0 +1,24 @@
+# do {cfg_tb_multiplier_compile.do} 
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity multiplier
+# -- Compiling architecture Behavioral of multiplier
+# ** Error: ../../../../project_2.srcs/sources_1/new/multiplier.vhd(35): (vcom-1272) Length of expected is 32; length of actual is 64.
+# 
+# ** Error: ../../../../project_2.srcs/sources_1/new/multiplier.vhd(41): VHDL Compiler exiting
+# ** Error: C:/altera/13.1/modelsim_ase/win32aloem/vcom failed.
+# Error in macro ./cfg_tb_multiplier_compile.do line 19
+# C:/altera/13.1/modelsim_ase/win32aloem/vcom failed.
+#     while executing
+# "vcom  -93 -work xil_defaultlib  \
+# "../../../../project_2.srcs/sources_1/new/multiplier.vhd" \
+# "../../../../project_2.srcs/sim_1/new/tb_multiplier.vhd"..."

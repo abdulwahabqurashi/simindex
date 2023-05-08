@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a100tfgg676-2" LaunchTime="1647713853">
+  <File Type="PA-TCL" Name="cosine_sim.tcl"/>
+  <File Type="REPORTS-TCL" Name="cosine_sim_reports.tcl"/>
+  <File Type="RDS-RDS" Name="cosine_sim.vds"/>
+  <File Type="RDS-UTIL" Name="cosine_sim_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="cosine_sim_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="cosine_sim.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/mult_2x2_pack.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Mac array 161120/mac_array.srcs/sources_1/new/mult_2x2_pack.vhd"/>
+        <Attr Name="ImportTime" Val="1602108471"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/divider_main.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Mac array 161120/mac_array.srcs/sources_1/new/divider_main.vhd"/>
+        <Attr Name="ImportTime" Val="1614282885"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mac_3x1_array.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Mac array 161120/mac_array.srcs/sources_1/new/mac_3x1_array.vhd"/>
+        <Attr Name="ImportTime" Val="1614343597"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mac_main1.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Mac array 161120/mac_array.srcs/sources_1/new/mac_main1.vhd"/>
+        <Attr Name="ImportTime" Val="1614343531"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/multiplier.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Mac array 161120/mac_array.srcs/sources_1/new/multiplier.vhd"/>
+        <Attr Name="ImportTime" Val="1614345843"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/multiplier_main1.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Mac array 161120/mac_array.srcs/sources_1/new/multiplier_main1.vhd"/>
+        <Attr Name="ImportTime" Val="1614343584"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/cosine_sim.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Mac array 161120/mac_array.srcs/sources_1/new/cosine_sim.vhd"/>
+        <Attr Name="ImportTime" Val="1614347350"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="cosine_sim"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2020"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

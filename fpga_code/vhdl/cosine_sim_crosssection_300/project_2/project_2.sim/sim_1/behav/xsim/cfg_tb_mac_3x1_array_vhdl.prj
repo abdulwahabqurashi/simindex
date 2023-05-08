@@ -1,0 +1,18 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/mult_2x2_pack.vhd" \
+"../../../../project_2.srcs/sources_1/new/cosine_sim.vhd" \
+"../../../../project_2.srcs/sources_1/new/divider_main.vhd" \
+"../../../../project_2.srcs/sources_1/new/mac_3x1_array.vhd" \
+"../../../../project_2.srcs/sources_1/new/mac_main1.vhd" \
+"../../../../project_2.srcs/sources_1/new/multiplier.vhd" \
+"../../../../project_2.srcs/sources_1/new/multiplier_main1.vhd" \
+"../../../../project_2.srcs/sim_1/new/tb_cosine_sim.vhd" \
+"../../../../project_2.srcs/sim_1/new/tb_divider_main.vhd" \
+"../../../../project_2.srcs/sim_1/new/tb_mac_3x1_array1.vhd" \
+"../../../../project_2.srcs/sim_1/new/tb_mac_main.vhd" \
+"../../../../project_2.srcs/sim_1/new/tb_muliplier_main1.vhd" \
+"../../../../project_2.srcs/sim_1/new/tb_multiplier.vhd" \
+
+# Do not sort compile order
+nosort

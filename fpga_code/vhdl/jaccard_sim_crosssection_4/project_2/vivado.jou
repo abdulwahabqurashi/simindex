@@ -1,0 +1,258 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Mar 29 02:11:35 2021
+# Process ID: 7608
+# Current directory: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16744 D:\Mac array 161120\jaccard_sim_crosssection_4_250321\project_2\project_2.xpr
+# Log file: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/vivado.log
+# Journal file: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/project_2.xpr}
+update_compile_order -fileset sources_1
+close_project
+open_project {D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.xpr}
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top mac_3x1_array [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+launch_simulation
+source cfg_tb_mac_3x1_array.tcl
+run all
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top mac_main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+close_sim
+launch_simulation
+source cfg_tb_mac_3x1_array.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top cfg_tb_mac_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+close_sim
+launch_simulation
+source cfg_tb_mac_main.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top adder_main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+close_sim
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top cfg_tb_adder_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top mac_main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top cfg_tb_mac_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+source cfg_tb_mac_main.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top adder_main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top cfg_tb_adder_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+close_sim
+launch_simulation
+source cfg_tb_adder_main.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top subtract_main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top cfg_tb_subtract_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+close_sim
+launch_simulation
+source cfg_tb_subtract_main.tcl
+close_sim
+launch_simulation
+source cfg_tb_subtract_main.tcl
+close_sim
+launch_simulation
+source cfg_tb_subtract_main.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top divider_main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top subtract_main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+close_sim
+launch_simulation
+source cfg_tb_subtract_main.tcl
+close_sim
+launch_simulation
+source cfg_tb_subtract_main.tcl
+close_sim
+launch_simulation
+source cfg_tb_subtract_main.tcl
+close_sim
+launch_simulation
+source cfg_tb_subtract_main.tcl
+close_sim
+launch_simulation
+source cfg_tb_subtract_main.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top jaccard_sim [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top cfg_tb_jaccard_sim [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+open_project {D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.xpr}
+update_compile_order -fileset sources_1
+current_project project_3
+close_sim
+close_project
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top mac_main [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top cfg_tb_mac_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+close_sim
+launch_simulation
+source cfg_tb_mac_main.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top jaccard_sim [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top cfg_tb_jaccard_sim [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+close_sim
+launch_simulation
+source cfg_tb_jaccard_sim.tcl
+run all
+run all
+run all

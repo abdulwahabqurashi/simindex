@@ -1,0 +1,12 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+ERROR: File: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/project_2.srcs/sources_1/new/divider_main.vhd Line: 31 : Division by zero is not allowed.
+Time: 1500 ns  Iteration: 1  Process: /tb_jaccard_sim/dut/Stage4/line__27
+  File: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/project_2.srcs/sources_1/new/divider_main.vhd
+
+HDL Line: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/project_2.srcs/sources_1/new/divider_main.vhd:31
+ERROR: File: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/project_2.srcs/sources_1/new/divider_main.vhd Line: 31 : Division by zero is not allowed.
+Time: 1500 ns  Iteration: 1  Process: /tb_jaccard_sim/dut/Stage4/line__27
+  File: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/project_2.srcs/sources_1/new/divider_main.vhd
+
+HDL Line: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/project_2.srcs/sources_1/new/divider_main.vhd:31

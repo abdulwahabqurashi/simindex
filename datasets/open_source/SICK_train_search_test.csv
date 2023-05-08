@@ -1,0 +1,51 @@
+pair_ID,sentence_A,sentence_B,relatedness_score,entailment_judgment
+3414,A woman is carefully deboning a fish,A woman is deboning a fish,4.6,ENTAILMENT
+3416,A woman is carefully deboning a fish,A man is catching a fish,1.4,NEUTRAL
+3418,The man is catching a fish,A woman is deboning a fish,2.1,NEUTRAL
+3422,A man is playing a harp,The man is playing a harp,5,ENTAILMENT
+3424,A man is playing a harp,A man is harping on about a play,2.2,NEUTRAL
+3426,A man is packing a violin,A man is playing a violin,3.6,NEUTRAL
+3427,A man is playing a harp,A violin is being played by a man,2.7,NEUTRAL
+3428,A man is packing a violin,A man is playing a harp,2.8,NEUTRAL
+3429,The man is playing a harp,A man is playing a violin,3.1,NEUTRAL
+3432,A man is playing a violin,A man is playing a harp,3.8,NEUTRAL
+3435,A person is wiping butter on a tray,A person is spreading butter on a tray,4.1,ENTAILMENT
+3436,A person is wiping butter on a tray,A person is removing the butter from a tray,3.6,NEUTRAL
+3437,A person is buttering a tray,A person is spreading butter on a tray,4.9,ENTAILMENT
+3438,A person is removing the butter from a tray,A person is buttering a tray,3.9,NEUTRAL
+3440,A person is wiping butter on a tray,There is no person buttering a tray,3.9,CONTRADICTION
+3443,A woman is receiving volleyballs,A woman is serving volleyballs over a net,4.1,NEUTRAL
+3444,A woman is being handed volleyballs by another woman,One woman is handing volleyballs to another woman,5,ENTAILMENT
+3448,One woman is handing volleyballs to another woman,A woman is throwing volleyballs over a net,4,NEUTRAL
+3451,One man is chopping a log with an axe,A man is chopping a log with an axe,4.9,ENTAILMENT
+3452,A man is chopping a log with an axe,There is no man chopping a log with an axe,3.3,CONTRADICTION
+3453,The man is chopping the trunk of a tree with an axe,The man is chopping a tree trunk with an axe,4.9,ENTAILMENT
+3454,The man is not chopping a tree trunk with an axe,The man is chopping a tree trunk with an axe,3.9,CONTRADICTION
+3461,There is no man playing a guitar,A man is playing a guitar,2.8,CONTRADICTION
+3462,A man is strumming a guitar,A man is playing a guitar,4.5,ENTAILMENT
+3465,A man is putting away a guitar,A man is playing a guitar,3.6,NEUTRAL
+3467,A man is playing a guitar,There is no man playing a guitar,4.285,CONTRADICTION
+3471,The man is thinking,A man is thinking,5,ENTAILMENT
+3472,A man is thinking,There is no man thinking,3.5,CONTRADICTION
+3479,A man is thinking,A man is dancing,2.6,NEUTRAL
+3480,"A cat with a white coat, perched on a small wooden cabinet, is looking outside the window",A white cat perched on a small wooden cabinet is looking outside the window,4.8,ENTAILMENT
+3484,The cat perched on the table isn't looking out the window,The cat perched on the table is looking out the window,3.7,CONTRADICTION
+3486,A white cat perched on a small wooden cabinet is looking outside the window,The cat perched on the table is looking curiously out the window,4,ENTAILMENT
+3487,A white cat perched on a small wooden cabinet is looking outside the window,The cat perched on the table isn't looking out the window,3,NEUTRAL
+3488,A white cat perched on a small wooden cabinet is looking outside the window,The cat is looking out the window at the table on the perch,3.8,ENTAILMENT
+3491,The cat perched on the table is looking out the window,Someone on a perch is looking at a small wooden cat that is on a white cabinet outside the window ,2.9,NEUTRAL
+3492,A white cat perched on a small wooden cabinet is looking outside the window,The cat perched on the table is looking out the window,4,NEUTRAL
+3494,There is no dog licking a baby,A dog is licking a baby,3.75,CONTRADICTION
+3496,A dog is walking away from a baby,A dog is licking a baby,3.1,NEUTRAL
+3500,A dog is licking a baby,A baby is licking a dog,3,NEUTRAL
+3504,A woman is slicing garlic,A woman is chopping up garlic,4.4,ENTAILMENT
+3507,The woman is not dicing garlic,The woman is dicing garlic,3,CONTRADICTION
+3508,A woman is chopping up garlic,Garlic is being diced by the woman,4.8,ENTAILMENT
+3510,The woman is dicing garlic,A woman is slicing garlic,4.6,ENTAILMENT
+3511,A woman is putting away the garlic,The woman is dicing garlic,3.6,NEUTRAL
+3512,A woman is chopping up garlic,The woman is dicing garlic,4.8,ENTAILMENT
+3514,A woman is dancing,There is no woman dancing,2.9,CONTRADICTION
+3516,The man is not dancing,The man is dancing,3.9,CONTRADICTION
+3517,The man is wildly dancing,A woman is dancing,3,NEUTRAL
+3528,The person is not writing with a pencil,A person is writing,3.4,NEUTRAL
+3529,The writing is about a person penciling,A person is writing,2.9,NEUTRAL

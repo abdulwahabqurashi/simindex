@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"cfg_tb_cosine_sim_func_synth.vhd" \
+"../../../../../cosine_sim_crosssection_4_281120.srcs/sources_1/new/mult_2x2_pack.vhd" \
+"../../../../../cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd" \
+
+# Do not sort compile order
+nosort

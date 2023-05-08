@@ -1,0 +1,3132 @@
+Source rule: 2.1.1 - Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.1.1.1 - Establish spatial envelope around each train in one section of line at a time 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.2 - Space interval effective against collision 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9575252, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.1.1.5 - Authority of train movements under normal or degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8531634, dtype=float32), 'Target Rule': '2.1.1.5 Authority for train movements under normal and degraded conditions is discussed in section 2.2 of this operational concept document.'}]
+
+Source rule: 2.1.2 - Control operation under normal conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.95259124, dtype=float32), 'Target Rule': '2.1.2 Controls - Operation under normal conditions'}]
+
+Source rule: 2.1.2.1 - IM Authorises Permissive Working 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.2 Control permissive working location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.3 Reduce likelihood of collisions.Due to excessive speed or insufficient space for second train.Incorrect train driver response to signal or in-cab indication.Incorrect response to signal or spoken message for another train 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9237784, dtype=float32), 'Target Rule': '2.1.2.3 Operating rules for permissive working must be designed to reduce the likelihood of: a) collisions due to excessive speed during movements or insufficient space for the second train b) incorrect response by a train driver to a signal or in-cab indication c) incorrect response by a train driver to a signal or spoken message intended for another train.'}]
+
+Source rule: 2.1.2.4 Assist Failed Train.Prompt and accurate failure and location reporting (inc. safeguards).Clear understanding/protocol between signaller and train driver regarding direction which assistance will come 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.5 Control movements in the opposite direction than signalled on the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.6 Control wrong direction working including people working on or near the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.7 Control engineering works interface with moving trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80186063, dtype=float32), 'Target Rule': '2.1.2.7 The interface between engineering works and moving trains is covered in section 2.3 of this operational concept document.'}]
+
+Source rule: 2.1.3 Control - Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9536717, dtype=float32), 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Cosine Sim Score': array(0.81993943, dtype=float32), 'Target Rule': '2.1.2 Controls - Operation under normal conditions'}]
+
+Source rule: 2.1.3.1 Train control or signalling partially or totally degraded -> operating procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3.2 Cover all degraded conditions:clear understanding between signaller and train drivers:spoken protocol comms between signaller and train drivers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3.3  Planned response and resources support Operating Rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8130589, dtype=float32), 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.2.1.2 Movement authority consists of permission to move and defined end point.System operation releases a token (physical or electronic) authorising entry onto a section of single line. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.4 Train proceeds without authority intervene (automatically) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.5 Signalling system cannot be used spoken or written instructions are employed 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8587279, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.2.1.6 Shunting movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.7 Signalling system cannot be used to authorise a movement a third party maybe used to pass movement instructions and confirm they have been successfully completed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.2.2.1 Control signalling systems operating rules and procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2.2 Control operating and procedures by each system when the signalling system cannot be used to authorise a movement 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8368183, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.2.2.4 Control signalling systems protocols with clear communication 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2.5 Control train proceeding without a movement authority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.837241, dtype=float32), 'Target Rule': '2.2 Movement authority for a train'}]
+
+Source rule: 2.2.2.6 Control permission to pass a signal at danger 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.3.1.1 Collision and derailment risk due to obstruction 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.10 Authorising train movements (into and withing) moved to person in charge of blocked section. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.11 Infrastructure work planning and controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9270385, dtype=float32), 'Target Rule': '2.3.3 Controls – Infrastructure work'}]
+
+Source rule: 2.3.1.12 Contingency planning 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.2 Level crossing obstruction 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8123369, dtype=float32), 'Target Rule': '2.3.1.2 Obstruction of the line at a level crossing can occur when:'}]
+
+Source rule: 2.3.1.3 Measures to reduce collisions on level crossings 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.4 Level crossing operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.6 Maintenance obstruction operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.7 Movement of infrastructure work related trains 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.8 Method to mitigate risk of normal train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.9 Segregation using single line working 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.2 Controls - Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.99999994, dtype=float32), 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.3.2.2 ) Include level crossing locations in route information 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8231523, dtype=float32), 'Target Rule': '2.3.2.2 Route information provided to train drivers must include the location of level crossings.'}]
+
+Source rule: 2.3.2.3 Mitigate the risk of an obstruction on the line 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8341058, dtype=float32), 'Target Rule': '2.4.1.2 The operational controls to contain and mitigate the risks to trains from an unsafe condition or an obstruction on the line address three principal elements.'}]
+
+Source rule: 2.3.2.4 Control an increase in risk when a level crossing cannot be normally operated 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.3 Control - Infrastructure work 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.88485587, dtype=float32), 'Target Rule': '2.3.3 Controls – Infrastructure work'}]
+
+Source rule: 2.3.3.1 Infrastructure work operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.3.2 Single line working procedures where bi-directional signalling not available 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.4.1.1 Controls prevent threat to train movements presented by an obstruction or unsafe condition 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8301098, dtype=float32), 'Target Rule': '2.4.1.2 The operational controls to contain and mitigate the risks to trains from an unsafe condition or an obstruction on the line address three principal elements.'}]
+
+Source rule: 2.4.1.2 Operational controls.Prompt and accurate problem reporting.Action preventing trains approaching affected location.Safe conditions re-establshed for train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.3 Suspect evidence hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.4 Precise hazard nature and potential impact 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.5 Resumption of train movements.Safety condition.Apply tempporary control.Visual examination.Hazard risk assessment 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.6 Incident management 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.7 Mitigate risk arising from removing hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.8 Train protection from identified hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.4.2.1 Control hazards  to train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.2 Accurately assess the impact on safe movement 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.3 Use trains to examine line harzard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.4 Temporary control during Hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.5 ApplycCriteria to decide whether it is safe to permit train movements 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.81035966, dtype=float32), 'Target Rule': '2.4.2.5 Operating rules must specify the criteria to be applied when deciding if it is safe to permit train movements over a line that is affected by floodwater or snow.'}]
+
+Source rule: 2.5.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.5.1.2 Train has authority to move 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.3 Infrastructure safety assured (see 2.3 2.4) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.4 Significant hazards addressed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.5 Control framework dangerous transport goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.6 Engineering controls minimise risk of passenger injury 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2 Controls - All trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}, {'Cosine Sim Score': array(0.83027, dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.83017945, dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}]
+
+Source rule: 2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.93939143, dtype=float32), 'Target Rule': '2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train.'}]
+
+Source rule: 2.5.2.2 Trains without automatic brakes or through pipes cannot move on the mainline network without additional safeguards applied 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.3 Brake operation continuity testing (in accordance with rolling stock requirements and train formation) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.4 Sufficient winter braking operation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.5 Brake continuity testing operating rules 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80779815, dtype=float32), 'Target Rule': '2.5.2.5 The requirements for testing brake continuity must be prescribed in operating rules.'}]
+
+Source rule: 2.5.2.6 Responsible train preparation and operation people aware of train permitted speed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.7 Responsible train preparation and operation people aware of temporary speed reduction 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.9 Train defect controls (see 2.7) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3 Controls - Freight trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.84754753, dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}, {'Cosine Sim Score': array(0.83027, dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}]
+
+Source rule: 2.5.3.1 Load and prepare 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.2 Control On-track machines and plant operation and safety checks 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.3 Provide wagon information and status to people responsible for train preparation and operation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.4 Relevant people informed of special loads operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.5  Mitigate risk of an incident for dangerous goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.6 Providef freight train and route information before starting journey 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.7 Stow on-track machine equipment on a freight train 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4 Controls - Passenger trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}, {'Cosine Sim Score': array(0.84754753, dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.83017945, dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}]
+
+Source rule: 2.5.4.1 Provide stopping points information to train crew including platform length 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.2 Train overruns platform 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.3 Train dispatch 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.4 Locomotive hauled passenger trains' train drivers provided with train and route availability information 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.6.1.1 Confirm compatibility of a train with the route' infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.10 Define conditions vehicle movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.12 Prevent affected doors opening where a train is too long for a platform 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.2 Authorise vehicle to operate on GB mainline railway based on acceptance and registration process 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.902249, dtype=float32), 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.6.1.5 Express Route Availability as a number (vehicle and infrastructure) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.6 Freight Wagon RA based on payload weight 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.7 Train compatibility with signalling systems 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.9 Mitigate safety risk with incompatible train and infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.6.2.1 Vehicle information including braking capacity provided (2.5) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.2 Provide responsible people RA of each vehicle and route information 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.3 Publish Infrastructure details including RA and vehicle constraints 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.4 Operating rules includes vehicle and infrastructure constraints and procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.5 Train door operation (platform too short) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.7.1.1 Train hazard presented 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.10 Displaced or insecure freight load potentially causing collision 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.2 Primary controls.Prompt and accurate information reporting an event.Prevent approaching train to an event that presents a hazard.Confirm safe conditions for safe train movement 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.3 Prevent trains starting journey or leaving location with defects 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.4 Rolling stock defect contingency plan 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.5 Train movements due to unrectifiable defect 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.6 Express movement limitations as a location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.7 Mitigate defect risks using additional operating people 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.8 Fire primary hazard causing secondary hazards on-board a train 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.19 Dangerous goods incident evacuation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.7.2.10 Respond to dangerous goods incident 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.11 Loads displaced and/or insecure (2.5 movement of vehicles) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.2 Train approaching obstruction or unsafe location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.3 Protect train crew 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.4 Protect train crew from adverse health effects from dangerous goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.5 Vehicle type or class maintenance and train preparation instructions inc safeguards when defect occurs 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.6 Check brake continuity (2.5) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5) 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80654526, dtype=float32), 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.7.2.8 Move defective train on mainline railway 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.9 Respond to train fires 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.8.1.1 Carrying out works on or near a line and protect public 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.10 Moving defective rail vehicles 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.11 Safely access via walking routes 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.12 Apply principle to public at stations when someone appears to be at risk 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8203498, dtype=float32), 'Target Rule': '2.8.1.12 The application of this principle to the interface between members of the public and trains at stations is limited to the actions which station or train operating staff can take if someone appears to be at risk from trains; controls in Railway Group Standards or operating rules cannot be applied directly to members of the public.'}]
+
+Source rule: 2.8.1.13 Warning and protecting level crossing users 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.14 Hazard potentially effecting train safety (2.3) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.2 Patrol or inspect infrastructure over a distance 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.3 Timely plan infrastructure work 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.4 Physically separate people from moving trains. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.6 Work on open line adhering to procedures (restricted locations) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.8 Moving trains risks 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.9 Examine and/or repair defective trains on a running line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.10 Control stations 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.11 Control Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.92426634, dtype=float32), 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.8.2 Control on or near the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.2.1 Warning and protecting people procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3 Control infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.1 Planning includes access points and safest route between access point and planned work locations 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.2 Local information provided to implement protection and warning 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.4 People working alone 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.4 Control manual coupling or uncoupling and shunting movements of rail vehicles 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.891378, dtype=float32), 'Target Rule': '2.8.4 Controls – railway workforce (Manual coupling or uncoupling of rail vehicles and controlling shunting movements)'}]
+
+Source rule: 2.8.5 Control rail vehicle examination or repair 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80855364, dtype=float32), 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.8.7 Control train drivers change cabs 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.8 Control manual operation of level crossing 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.9 Control retrieving objects from a platform line at a station 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.9.1.1 Electric traction' overhead lines or conductor rails hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1.2 Scope covered in 2.8 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1.3 Additional controls and safeguards 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.81699705, dtype=float32), 'Target Rule': '2.9.1.4 The additional controls involve:'}]
+
+Source rule: 2.9.1.4 Additional isolation or restrictions (live) controls 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2 Control 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2.1 Control system specific instructions that impact on safety 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2.2 Control working near electrified lines.Identification and explanation of signs.Switching off procedure.Control message protocols 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8 Keeping people away from moving trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8 Keeping people away from moving trains'}]
+
+Source rule: 2.1 Separation of Trains 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7 Hazards to safe operation from unsafe trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9999999, dtype=float32), 'Target Rule': '2.7 Hazards to safe operation from unsafe trains'}]
+
+Source rule: 2.5 Conditions for safe movement of trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5 Conditions for safe movement of trains'}]
+
+Source rule: 2.9 Protection of workers from electrification hazards 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9 Protection of workers from electrification hazards'}]
+
+Source rule: 2.2 Movement authority for a train 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.99999994, dtype=float32), 'Target Rule': '2.2 Movement authority for a train'}]
+
+Source rule: 2.6 Compatibility of rolling stock and infrastructure 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9999999, dtype=float32), 'Target Rule': '2.6 Compatibility of rolling stock and infrastructure'}, {'Cosine Sim Score': array(0.81099564, dtype=float32), 'Target Rule': '2.6.1.3 Compatibility between rolling stock and infrastructure is affected primarily by:'}]
+
+Source rule: 2.3 Obstruction of the line: level crossings and infrastructure work 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.3 Obstruction of the line: level crossings and infrastructure work'}]
+
+Source rule: 2.4 Line obstructed or in an unsafe condition 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4 Line obstructed or in an unsafe condition'}]
+
+Source rule: 2.1.1 - Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.1.1.1 - Establish spatial envelope around each train in one section of line at a time 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.2 - Space interval effective against collision 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9575252, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.1.1.5 - Authority of train movements under normal or degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8531634, dtype=float32), 'Target Rule': '2.1.1.5 Authority for train movements under normal and degraded conditions is discussed in section 2.2 of this operational concept document.'}]
+
+Source rule: 2.1.2 - Control operation under normal conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.95259124, dtype=float32), 'Target Rule': '2.1.2 Controls - Operation under normal conditions'}]
+
+Source rule: 2.1.2.1 - IM Authorises Permissive Working 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.2 Control permissive working location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.3 Reduce likelihood of collisions.Due to excessive speed or insufficient space for second train.Incorrect train driver response to signal or in-cab indication.Incorrect response to signal or spoken message for another train 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9237784, dtype=float32), 'Target Rule': '2.1.2.3 Operating rules for permissive working must be designed to reduce the likelihood of: a) collisions due to excessive speed during movements or insufficient space for the second train b) incorrect response by a train driver to a signal or in-cab indication c) incorrect response by a train driver to a signal or spoken message intended for another train.'}]
+
+Source rule: 2.1.2.4 Assist Failed Train.Prompt and accurate failure and location reporting (inc. safeguards).Clear understanding/protocol between signaller and train driver regarding direction which assistance will come 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.5 Control movements in the opposite direction than signalled on the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.6 Control wrong direction working including people working on or near the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.7 Control engineering works interface with moving trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80186063, dtype=float32), 'Target Rule': '2.1.2.7 The interface between engineering works and moving trains is covered in section 2.3 of this operational concept document.'}]
+
+Source rule: 2.1.3 Control - Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9536717, dtype=float32), 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Cosine Sim Score': array(0.81993943, dtype=float32), 'Target Rule': '2.1.2 Controls - Operation under normal conditions'}]
+
+Source rule: 2.1.3.1 Train control or signalling partially or totally degraded -> operating procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3.2 Cover all degraded conditions:clear understanding between signaller and train drivers:spoken protocol comms between signaller and train drivers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3.3  Planned response and resources support Operating Rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8130589, dtype=float32), 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.2.1.2 Movement authority consists of permission to move and defined end point.System operation releases a token (physical or electronic) authorising entry onto a section of single line. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.4 Train proceeds without authority intervene (automatically) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.5 Signalling system cannot be used spoken or written instructions are employed 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8587279, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.2.1.6 Shunting movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.7 Signalling system cannot be used to authorise a movement a third party maybe used to pass movement instructions and confirm they have been successfully completed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.2.2.1 Control signalling systems operating rules and procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2.2 Control operating and procedures by each system when the signalling system cannot be used to authorise a movement 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8368183, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.2.2.4 Control signalling systems protocols with clear communication 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2.5 Control train proceeding without a movement authority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.837241, dtype=float32), 'Target Rule': '2.2 Movement authority for a train'}]
+
+Source rule: 2.2.2.6 Control permission to pass a signal at danger 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.3.1.1 Collision and derailment risk due to obstruction 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.10 Authorising train movements (into and withing) moved to person in charge of blocked section. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.11 Infrastructure work planning and controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9270385, dtype=float32), 'Target Rule': '2.3.3 Controls – Infrastructure work'}]
+
+Source rule: 2.3.1.12 Contingency planning 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.2 Level crossing obstruction 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8123369, dtype=float32), 'Target Rule': '2.3.1.2 Obstruction of the line at a level crossing can occur when:'}]
+
+Source rule: 2.3.1.3 Measures to reduce collisions on level crossings 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.4 Level crossing operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.6 Maintenance obstruction operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.7 Movement of infrastructure work related trains 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.8 Method to mitigate risk of normal train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.9 Segregation using single line working 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.2 Controls - Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.99999994, dtype=float32), 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.3.2.2 ) Include level crossing locations in route information 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8231523, dtype=float32), 'Target Rule': '2.3.2.2 Route information provided to train drivers must include the location of level crossings.'}]
+
+Source rule: 2.3.2.3 Mitigate the risk of an obstruction on the line 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8341058, dtype=float32), 'Target Rule': '2.4.1.2 The operational controls to contain and mitigate the risks to trains from an unsafe condition or an obstruction on the line address three principal elements.'}]
+
+Source rule: 2.3.2.4 Control an increase in risk when a level crossing cannot be normally operated 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.3 Control - Infrastructure work 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.88485587, dtype=float32), 'Target Rule': '2.3.3 Controls – Infrastructure work'}]
+
+Source rule: 2.3.3.1 Infrastructure work operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.3.2 Single line working procedures where bi-directional signalling not available 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.4.1.1 Controls prevent threat to train movements presented by an obstruction or unsafe condition 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8301098, dtype=float32), 'Target Rule': '2.4.1.2 The operational controls to contain and mitigate the risks to trains from an unsafe condition or an obstruction on the line address three principal elements.'}]
+
+Source rule: 2.4.1.2 Operational controls.Prompt and accurate problem reporting.Action preventing trains approaching affected location.Safe conditions re-establshed for train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.3 Suspect evidence hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.4 Precise hazard nature and potential impact 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.5 Resumption of train movements.Safety condition.Apply tempporary control.Visual examination.Hazard risk assessment 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.6 Incident management 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.7 Mitigate risk arising from removing hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.8 Train protection from identified hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.4.2.1 Control hazards  to train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.2 Accurately assess the impact on safe movement 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.3 Use trains to examine line harzard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.4 Temporary control during Hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.5 ApplycCriteria to decide whether it is safe to permit train movements 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.81035966, dtype=float32), 'Target Rule': '2.4.2.5 Operating rules must specify the criteria to be applied when deciding if it is safe to permit train movements over a line that is affected by floodwater or snow.'}]
+
+Source rule: 2.5.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.5.1.2 Train has authority to move 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.3 Infrastructure safety assured (see 2.3 2.4) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.4 Significant hazards addressed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.5 Control framework dangerous transport goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.6 Engineering controls minimise risk of passenger injury 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2 Controls - All trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}, {'Cosine Sim Score': array(0.83027, dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.83017945, dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}]
+
+Source rule: 2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.93939143, dtype=float32), 'Target Rule': '2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train.'}]
+
+Source rule: 2.5.2.2 Trains without automatic brakes or through pipes cannot move on the mainline network without additional safeguards applied 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.3 Brake operation continuity testing (in accordance with rolling stock requirements and train formation) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.4 Sufficient winter braking operation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.5 Brake continuity testing operating rules 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80779815, dtype=float32), 'Target Rule': '2.5.2.5 The requirements for testing brake continuity must be prescribed in operating rules.'}]
+
+Source rule: 2.5.2.6 Responsible train preparation and operation people aware of train permitted speed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.7 Responsible train preparation and operation people aware of temporary speed reduction 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.9 Train defect controls (see 2.7) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3 Controls - Freight trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.84754753, dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}, {'Cosine Sim Score': array(0.83027, dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}]
+
+Source rule: 2.5.3.1 Load and prepare 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.2 Control On-track machines and plant operation and safety checks 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.3 Provide wagon information and status to people responsible for train preparation and operation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.4 Relevant people informed of special loads operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.5  Mitigate risk of an incident for dangerous goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.6 Providef freight train and route information before starting journey 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.7 Stow on-track machine equipment on a freight train 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4 Controls - Passenger trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}, {'Cosine Sim Score': array(0.84754753, dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.83017945, dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}]
+
+Source rule: 2.5.4.1 Provide stopping points information to train crew including platform length 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.2 Train overruns platform 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.3 Train dispatch 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.4 Locomotive hauled passenger trains' train drivers provided with train and route availability information 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.6.1.1 Confirm compatibility of a train with the route' infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.10 Define conditions vehicle movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.12 Prevent affected doors opening where a train is too long for a platform 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.2 Authorise vehicle to operate on GB mainline railway based on acceptance and registration process 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.902249, dtype=float32), 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.6.1.5 Express Route Availability as a number (vehicle and infrastructure) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.6 Freight Wagon RA based on payload weight 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.7 Train compatibility with signalling systems 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.9 Mitigate safety risk with incompatible train and infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.6.2.1 Vehicle information including braking capacity provided (2.5) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.2 Provide responsible people RA of each vehicle and route information 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.3 Publish Infrastructure details including RA and vehicle constraints 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.4 Operating rules includes vehicle and infrastructure constraints and procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.5 Train door operation (platform too short) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.7.1.1 Train hazard presented 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.10 Displaced or insecure freight load potentially causing collision 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.2 Primary controls.Prompt and accurate information reporting an event.Prevent approaching train to an event that presents a hazard.Confirm safe conditions for safe train movement 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.3 Prevent trains starting journey or leaving location with defects 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.4 Rolling stock defect contingency plan 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.5 Train movements due to unrectifiable defect 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.6 Express movement limitations as a location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.7 Mitigate defect risks using additional operating people 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.8 Fire primary hazard causing secondary hazards on-board a train 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.19 Dangerous goods incident evacuation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.7.2.10 Respond to dangerous goods incident 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.11 Loads displaced and/or insecure (2.5 movement of vehicles) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.2 Train approaching obstruction or unsafe location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.3 Protect train crew 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.4 Protect train crew from adverse health effects from dangerous goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.5 Vehicle type or class maintenance and train preparation instructions inc safeguards when defect occurs 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.6 Check brake continuity (2.5) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5) 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80654526, dtype=float32), 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.7.2.8 Move defective train on mainline railway 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.9 Respond to train fires 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.8.1.1 Carrying out works on or near a line and protect public 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.10 Moving defective rail vehicles 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.11 Safely access via walking routes 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.12 Apply principle to public at stations when someone appears to be at risk 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8203498, dtype=float32), 'Target Rule': '2.8.1.12 The application of this principle to the interface between members of the public and trains at stations is limited to the actions which station or train operating staff can take if someone appears to be at risk from trains; controls in Railway Group Standards or operating rules cannot be applied directly to members of the public.'}]
+
+Source rule: 2.8.1.13 Warning and protecting level crossing users 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.14 Hazard potentially effecting train safety (2.3) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.2 Patrol or inspect infrastructure over a distance 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.3 Timely plan infrastructure work 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.4 Physically separate people from moving trains. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.6 Work on open line adhering to procedures (restricted locations) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.8 Moving trains risks 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.9 Examine and/or repair defective trains on a running line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.10 Control stations 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.11 Control Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.92426634, dtype=float32), 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.8.2 Control on or near the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.2.1 Warning and protecting people procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3 Control infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.1 Planning includes access points and safest route between access point and planned work locations 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.2 Local information provided to implement protection and warning 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.4 People working alone 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.4 Control manual coupling or uncoupling and shunting movements of rail vehicles 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.891378, dtype=float32), 'Target Rule': '2.8.4 Controls – railway workforce (Manual coupling or uncoupling of rail vehicles and controlling shunting movements)'}]
+
+Source rule: 2.8.5 Control rail vehicle examination or repair 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80855364, dtype=float32), 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.8.7 Control train drivers change cabs 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.8 Control manual operation of level crossing 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.9 Control retrieving objects from a platform line at a station 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.9.1.1 Electric traction' overhead lines or conductor rails hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1.2 Scope covered in 2.8 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1.3 Additional controls and safeguards 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.81699705, dtype=float32), 'Target Rule': '2.9.1.4 The additional controls involve:'}]
+
+Source rule: 2.9.1.4 Additional isolation or restrictions (live) controls 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2 Control 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2.1 Control system specific instructions that impact on safety 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2.2 Control working near electrified lines.Identification and explanation of signs.Switching off procedure.Control message protocols 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8 Keeping people away from moving trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8 Keeping people away from moving trains'}]
+
+Source rule: 2.1 Separation of Trains 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7 Hazards to safe operation from unsafe trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9999999, dtype=float32), 'Target Rule': '2.7 Hazards to safe operation from unsafe trains'}]
+
+Source rule: 2.5 Conditions for safe movement of trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5 Conditions for safe movement of trains'}]
+
+Source rule: 2.9 Protection of workers from electrification hazards 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9 Protection of workers from electrification hazards'}]
+
+Source rule: 2.2 Movement authority for a train 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.99999994, dtype=float32), 'Target Rule': '2.2 Movement authority for a train'}]
+
+Source rule: 2.6 Compatibility of rolling stock and infrastructure 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9999999, dtype=float32), 'Target Rule': '2.6 Compatibility of rolling stock and infrastructure'}, {'Cosine Sim Score': array(0.81099564, dtype=float32), 'Target Rule': '2.6.1.3 Compatibility between rolling stock and infrastructure is affected primarily by:'}]
+
+Source rule: 2.3 Obstruction of the line: level crossings and infrastructure work 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.3 Obstruction of the line: level crossings and infrastructure work'}]
+
+Source rule: 2.4 Line obstructed or in an unsafe condition 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4 Line obstructed or in an unsafe condition'}]
+
+Source rule: 2.1.1 - Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.1.1.1 - Establish spatial envelope around each train in one section of line at a time 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.2 - Space interval effective against collision 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9575252, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.1.1.5 - Authority of train movements under normal or degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8531634, dtype=float32), 'Target Rule': '2.1.1.5 Authority for train movements under normal and degraded conditions is discussed in section 2.2 of this operational concept document.'}]
+
+Source rule: 2.1.2 - Control operation under normal conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.95259124, dtype=float32), 'Target Rule': '2.1.2 Controls - Operation under normal conditions'}]
+
+Source rule: 2.1.2.1 - IM Authorises Permissive Working 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.2 Control permissive working location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.3 Reduce likelihood of collisions.Due to excessive speed or insufficient space for second train.Incorrect train driver response to signal or in-cab indication.Incorrect response to signal or spoken message for another train 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9237784, dtype=float32), 'Target Rule': '2.1.2.3 Operating rules for permissive working must be designed to reduce the likelihood of: a) collisions due to excessive speed during movements or insufficient space for the second train b) incorrect response by a train driver to a signal or in-cab indication c) incorrect response by a train driver to a signal or spoken message intended for another train.'}]
+
+Source rule: 2.1.2.4 Assist Failed Train.Prompt and accurate failure and location reporting (inc. safeguards).Clear understanding/protocol between signaller and train driver regarding direction which assistance will come 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.5 Control movements in the opposite direction than signalled on the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.6 Control wrong direction working including people working on or near the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.2.7 Control engineering works interface with moving trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80186063, dtype=float32), 'Target Rule': '2.1.2.7 The interface between engineering works and moving trains is covered in section 2.3 of this operational concept document.'}]
+
+Source rule: 2.1.3 Control - Operations under degraded conditions 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9536717, dtype=float32), 'Target Rule': '2.1.3 Controls – Operations under degraded conditions'}, {'Cosine Sim Score': array(0.81993943, dtype=float32), 'Target Rule': '2.1.2 Controls - Operation under normal conditions'}]
+
+Source rule: 2.1.3.1 Train control or signalling partially or totally degraded -> operating procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3.2 Cover all degraded conditions:clear understanding between signaller and train drivers:spoken protocol comms between signaller and train drivers 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.1.3.3  Planned response and resources support Operating Rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.2.1.1 Safety is compromised if a train proceeds without a movement autority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8130589, dtype=float32), 'Target Rule': '2.2.1.1 The safety benefits of a system for maintaining space intervals between trains (see section 2.1 of this operational concept document) are compromised if a train proceeds without an authority for its movement.'}]
+
+Source rule: 2.2.1.2 Movement authority consists of permission to move and defined end point.System operation releases a token (physical or electronic) authorising entry onto a section of single line. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.4 Train proceeds without authority intervene (automatically) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.5 Signalling system cannot be used spoken or written instructions are employed 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8587279, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.2.1.6 Shunting movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.1.7 Signalling system cannot be used to authorise a movement a third party maybe used to pass movement instructions and confirm they have been successfully completed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.2.2.1 Control signalling systems operating rules and procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2.2 Control operating and procedures by each system when the signalling system cannot be used to authorise a movement 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8368183, dtype=float32), 'Target Rule': '2.1.1.4 Operating procedures using written or spoken instructions are applied when the signalling system cannot be used to preserve the effectiveness of the space interval:'}]
+
+Source rule: 2.2.2.4 Control signalling systems protocols with clear communication 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.2.2.5 Control train proceeding without a movement authority 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.837241, dtype=float32), 'Target Rule': '2.2 Movement authority for a train'}]
+
+Source rule: 2.2.2.6 Control permission to pass a signal at danger 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.3.1.1 Collision and derailment risk due to obstruction 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.10 Authorising train movements (into and withing) moved to person in charge of blocked section. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.11 Infrastructure work planning and controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9270385, dtype=float32), 'Target Rule': '2.3.3 Controls – Infrastructure work'}]
+
+Source rule: 2.3.1.12 Contingency planning 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.2 Level crossing obstruction 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8123369, dtype=float32), 'Target Rule': '2.3.1.2 Obstruction of the line at a level crossing can occur when:'}]
+
+Source rule: 2.3.1.3 Measures to reduce collisions on level crossings 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.4 Level crossing operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.6 Maintenance obstruction operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.7 Movement of infrastructure work related trains 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.8 Method to mitigate risk of normal train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.1.9 Segregation using single line working 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.2 Controls - Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.99999994, dtype=float32), 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.3.2.2 ) Include level crossing locations in route information 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8231523, dtype=float32), 'Target Rule': '2.3.2.2 Route information provided to train drivers must include the location of level crossings.'}]
+
+Source rule: 2.3.2.3 Mitigate the risk of an obstruction on the line 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8341058, dtype=float32), 'Target Rule': '2.4.1.2 The operational controls to contain and mitigate the risks to trains from an unsafe condition or an obstruction on the line address three principal elements.'}]
+
+Source rule: 2.3.2.4 Control an increase in risk when a level crossing cannot be normally operated 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.3 Control - Infrastructure work 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.88485587, dtype=float32), 'Target Rule': '2.3.3 Controls – Infrastructure work'}]
+
+Source rule: 2.3.3.1 Infrastructure work operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.3.3.2 Single line working procedures where bi-directional signalling not available 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.4.1.1 Controls prevent threat to train movements presented by an obstruction or unsafe condition 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8301098, dtype=float32), 'Target Rule': '2.4.1.2 The operational controls to contain and mitigate the risks to trains from an unsafe condition or an obstruction on the line address three principal elements.'}]
+
+Source rule: 2.4.1.2 Operational controls.Prompt and accurate problem reporting.Action preventing trains approaching affected location.Safe conditions re-establshed for train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.3 Suspect evidence hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.4 Precise hazard nature and potential impact 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.5 Resumption of train movements.Safety condition.Apply tempporary control.Visual examination.Hazard risk assessment 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.6 Incident management 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.7 Mitigate risk arising from removing hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.1.8 Train protection from identified hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.4.2.1 Control hazards  to train movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.2 Accurately assess the impact on safe movement 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.3 Use trains to examine line harzard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.4 Temporary control during Hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.4.2.5 ApplycCriteria to decide whether it is safe to permit train movements 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.81035966, dtype=float32), 'Target Rule': '2.4.2.5 Operating rules must specify the criteria to be applied when deciding if it is safe to permit train movements over a line that is affected by floodwater or snow.'}]
+
+Source rule: 2.5.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.5.1.2 Train has authority to move 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.3 Infrastructure safety assured (see 2.3 2.4) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.4 Significant hazards addressed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.5 Control framework dangerous transport goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.1.6 Engineering controls minimise risk of passenger injury 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2 Controls - All trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}, {'Cosine Sim Score': array(0.83027, dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.83017945, dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}]
+
+Source rule: 2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.93939143, dtype=float32), 'Target Rule': '2.5.2.1 Trains must not be permitted to start a journey unless there is sufficient braking capacity available for the complete train.'}]
+
+Source rule: 2.5.2.2 Trains without automatic brakes or through pipes cannot move on the mainline network without additional safeguards applied 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.3 Brake operation continuity testing (in accordance with rolling stock requirements and train formation) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.4 Sufficient winter braking operation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.5 Brake continuity testing operating rules 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80779815, dtype=float32), 'Target Rule': '2.5.2.5 The requirements for testing brake continuity must be prescribed in operating rules.'}]
+
+Source rule: 2.5.2.6 Responsible train preparation and operation people aware of train permitted speed 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.7 Responsible train preparation and operation people aware of temporary speed reduction 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.2.9 Train defect controls (see 2.7) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3 Controls - Freight trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.84754753, dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}, {'Cosine Sim Score': array(0.83027, dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}]
+
+Source rule: 2.5.3.1 Load and prepare 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.2 Control On-track machines and plant operation and safety checks 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.3 Provide wagon information and status to people responsible for train preparation and operation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.4 Relevant people informed of special loads operating rules 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.5  Mitigate risk of an incident for dangerous goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.6 Providef freight train and route information before starting journey 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.3.7 Stow on-track machine equipment on a freight train 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4 Controls - Passenger trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.4 Controls – Passenger trains'}, {'Cosine Sim Score': array(0.84754753, dtype=float32), 'Target Rule': '2.5.3 Controls – Freight trains'}, {'Cosine Sim Score': array(0.83017945, dtype=float32), 'Target Rule': '2.5.2 Controls – All trains'}]
+
+Source rule: 2.5.4.1 Provide stopping points information to train crew including platform length 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.2 Train overruns platform 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.3 Train dispatch 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.5.4.4 Locomotive hauled passenger trains' train drivers provided with train and route availability information 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.6.1.1 Confirm compatibility of a train with the route' infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.10 Define conditions vehicle movements 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.12 Prevent affected doors opening where a train is too long for a platform 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.2 Authorise vehicle to operate on GB mainline railway based on acceptance and registration process 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.902249, dtype=float32), 'Target Rule': '2.6.1.4 The Route Availability (RA) system provides a consistent and simple method for assessing the compatibility of the weight of rail vehicles with the capacity of underline bridges (other than bridges defined as ‘long span’).'}]
+
+Source rule: 2.6.1.5 Express Route Availability as a number (vehicle and infrastructure) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.6 Freight Wagon RA based on payload weight 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.7 Train compatibility with signalling systems 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.1.9 Mitigate safety risk with incompatible train and infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.6.2.1 Vehicle information including braking capacity provided (2.5) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.2 Provide responsible people RA of each vehicle and route information 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.3 Publish Infrastructure details including RA and vehicle constraints 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.4 Operating rules includes vehicle and infrastructure constraints and procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.6.2.5 Train door operation (platform too short) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.7.1.1 Train hazard presented 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.10 Displaced or insecure freight load potentially causing collision 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.2 Primary controls.Prompt and accurate information reporting an event.Prevent approaching train to an event that presents a hazard.Confirm safe conditions for safe train movement 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.3 Prevent trains starting journey or leaving location with defects 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.4 Rolling stock defect contingency plan 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.5 Train movements due to unrectifiable defect 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.6 Express movement limitations as a location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.7 Mitigate defect risks using additional operating people 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.1.8 Fire primary hazard causing secondary hazards on-board a train 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.19 Dangerous goods incident evacuation 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2 Controls 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.2.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.6.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.7.2 Controls'}, {'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.9.2 Controls'}]
+
+Source rule: 2.7.2.10 Respond to dangerous goods incident 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.11 Loads displaced and/or insecure (2.5 movement of vehicles) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.2 Train approaching obstruction or unsafe location 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.3 Protect train crew 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.4 Protect train crew from adverse health effects from dangerous goods 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.5 Vehicle type or class maintenance and train preparation instructions inc safeguards when defect occurs 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.6 Check brake continuity (2.5) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5) 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80654526, dtype=float32), 'Target Rule': '2.7.2.7 The controls applicable to the safe loading of freight trains and the identification and secure closure of dangerous goods consignments are referenced in section 2.5 of this operational concept document.'}]
+
+Source rule: 2.7.2.8 Move defective train on mainline railway 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7.2.9 Respond to train fires 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.8.1.1 Carrying out works on or near a line and protect public 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.10 Moving defective rail vehicles 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.11 Safely access via walking routes 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.12 Apply principle to public at stations when someone appears to be at risk 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.8203498, dtype=float32), 'Target Rule': '2.8.1.12 The application of this principle to the interface between members of the public and trains at stations is limited to the actions which station or train operating staff can take if someone appears to be at risk from trains; controls in Railway Group Standards or operating rules cannot be applied directly to members of the public.'}]
+
+Source rule: 2.8.1.13 Warning and protecting level crossing users 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.14 Hazard potentially effecting train safety (2.3) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.2 Patrol or inspect infrastructure over a distance 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.3 Timely plan infrastructure work 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.4 Physically separate people from moving trains. 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.6 Work on open line adhering to procedures (restricted locations) 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.8 Moving trains risks 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.1.9 Examine and/or repair defective trains on a running line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.10 Control stations 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.11 Control Level Crossings 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.92426634, dtype=float32), 'Target Rule': '2.3.2 Controls – Level Crossings'}]
+
+Source rule: 2.8.2 Control on or near the line 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.2.1 Warning and protecting people procedures 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3 Control infrastructure 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.1 Planning includes access points and safest route between access point and planned work locations 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.2 Local information provided to implement protection and warning 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.3.4 People working alone 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.4 Control manual coupling or uncoupling and shunting movements of rail vehicles 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.891378, dtype=float32), 'Target Rule': '2.8.4 Controls – railway workforce (Manual coupling or uncoupling of rail vehicles and controlling shunting movements)'}]
+
+Source rule: 2.8.5 Control rail vehicle examination or repair 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.6 Control communication between train drivers and signallers 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.80855364, dtype=float32), 'Target Rule': '2.8.6 Controls – railway workforce (Communication between train drivers and signallers)'}]
+
+Source rule: 2.8.7 Control train drivers change cabs 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.8 Control manual operation of level crossing 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8.9 Control retrieving objects from a platform line at a station 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1 Context 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.1.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.2.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.3.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.4.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.6.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.7.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8.1 Context'}, {'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9.1 Context'}]
+
+Source rule: 2.9.1.1 Electric traction' overhead lines or conductor rails hazard 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1.2 Scope covered in 2.8 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.1.3 Additional controls and safeguards 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.81699705, dtype=float32), 'Target Rule': '2.9.1.4 The additional controls involve:'}]
+
+Source rule: 2.9.1.4 Additional isolation or restrictions (live) controls 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2 Control 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2.1 Control system specific instructions that impact on safety 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.9.2.2 Control working near electrified lines.Identification and explanation of signs.Switching off procedure.Control message protocols 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.8 Keeping people away from moving trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.8 Keeping people away from moving trains'}]
+
+Source rule: 2.1 Separation of Trains 
+
+Similarity with Target Rule is 
+
+ []
+
+Source rule: 2.7 Hazards to safe operation from unsafe trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9999999, dtype=float32), 'Target Rule': '2.7 Hazards to safe operation from unsafe trains'}]
+
+Source rule: 2.5 Conditions for safe movement of trains 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.5 Conditions for safe movement of trains'}]
+
+Source rule: 2.9 Protection of workers from electrification hazards 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1., dtype=float32), 'Target Rule': '2.9 Protection of workers from electrification hazards'}]
+
+Source rule: 2.2 Movement authority for a train 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.99999994, dtype=float32), 'Target Rule': '2.2 Movement authority for a train'}]
+
+Source rule: 2.6 Compatibility of rolling stock and infrastructure 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(0.9999999, dtype=float32), 'Target Rule': '2.6 Compatibility of rolling stock and infrastructure'}, {'Cosine Sim Score': array(0.81099564, dtype=float32), 'Target Rule': '2.6.1.3 Compatibility between rolling stock and infrastructure is affected primarily by:'}]
+
+Source rule: 2.3 Obstruction of the line: level crossings and infrastructure work 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.3 Obstruction of the line: level crossings and infrastructure work'}]
+
+Source rule: 2.4 Line obstructed or in an unsafe condition 
+
+Similarity with Target Rule is 
+
+ [{'Cosine Sim Score': array(1.0000001, dtype=float32), 'Target Rule': '2.4 Line obstructed or in an unsafe condition'}]
+

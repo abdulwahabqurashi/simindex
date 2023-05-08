@@ -1,0 +1,1 @@
+-wto "20398d727fee4f8e97a87aad7af48448" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "cfg_tb_jaccard_sim_behav" "xil_defaultlib.cfg_tb_jaccard_sim" -log "elaborate.log" 

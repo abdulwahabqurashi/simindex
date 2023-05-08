@@ -1,0 +1,1501 @@
+pair_ID,sentence_A,sentence_B,relatedness_score,entailment_judgment
+1,A group of kids is playing in a yard and an old man is standing in the background,A group of boys in a yard is playing and a man is standing in the background,4.5,NEUTRAL
+2,A group of children is playing in the house and there is no man standing in the background,A group of kids is playing in a yard and an old man is standing in the background,3.2,NEUTRAL
+3,The young boys are playing outdoors and the man is smiling nearby,The kids are playing outdoors near a man with a smile,4.7,ENTAILMENT
+5,The kids are playing outdoors near a man with a smile,A group of kids is playing in a yard and an old man is standing in the background,3.4,NEUTRAL
+9,The young boys are playing outdoors and the man is smiling nearby,A group of kids is playing in a yard and an old man is standing in the background,3.7,NEUTRAL
+12,Two dogs are fighting,Two dogs are wrestling and hugging,4,NEUTRAL
+14,A brown dog is attacking another animal in front of the man in pants,Two dogs are fighting,3.5,NEUTRAL
+18,A brown dog is attacking another animal in front of the man in pants,Two dogs are wrestling and hugging,3.2,NEUTRAL
+25,Nobody is riding the bicycle on one wheel,A person in a black jacket is doing tricks on a motorbike,2.8,NEUTRAL
+26,A person is riding the bicycle on one wheel,A man in a black jacket is doing tricks on a motorbike,3.7,NEUTRAL
+28,A person on a black motorbike is doing tricks with a jacket,A person is riding the bicycle on one wheel,3.4,NEUTRAL
+30,A man with a jersey is dunking the ball at a basketball game,The ball is being dunked by a man with a jersey at a basketball game,4.9,ENTAILMENT
+35,A man with a jersey is dunking the ball at a basketball game,A man who is playing dunks the basketball into the net and a crowd is in background,3.6,NEUTRAL
+40,The player is dunking the basketball into the net and a crowd is in background,A man with a jersey is dunking the ball at a basketball game,3.8,NEUTRAL
+42,Two people are kickboxing and spectators are not watching,Two people are kickboxing and spectators are watching,3.4,CONTRADICTION
+44,Two young women are sparring in a kickboxing fight,Two women are sparring in a kickboxing match,4.9,ENTAILMENT
+45,Two young women are not sparring in a kickboxing fight,Two women are sparring in a kickboxing match,3.9,NEUTRAL
+47,Two people are kickboxing and spectators are watching,Two young women are not sparring in a kickboxing fight,3.415,NEUTRAL
+49,Two women are sparring in a kickboxing match,Two people are kickboxing and spectators are not watching,3.7,NEUTRAL
+55,Three boys are jumping in the leaves,Three kids are jumping in the leaves,4.4,ENTAILMENT
+56,Three kids are sitting in the leaves,Three kids are jumping in the leaves,3.8,NEUTRAL
+58,Children in red shirts are playing in the leaves,Three kids are sitting in the leaves,3.5,NEUTRAL
+62,Children in red shirts are playing in the leaves,Three kids are jumping in the leaves,4,NEUTRAL
+65,Two angels are making snow on the lying children,Two children are lying in the snow and are making snow angels,2.9,NEUTRAL
+70,Two children are lying in the snow and are drawing angels,Two people in snowsuits are lying in the snow and making snow angels,4.1,NEUTRAL
+72,Two people in snowsuits are lying in the snow and making snow angels,Two angels are making snow on the lying children,2.5,NEUTRAL
+73,Two children are lying in the snow and are making snow angels,Two people in snowsuits are lying in the snow and making snow angels,4.2,NEUTRAL
+77,People wearing costumes are gathering in a forest and are looking in the same direction,Masked people are looking in the same direction in a forest,4.4,ENTAILMENT
+78,People wearing costumes are gathering in a forest and are looking in the same direction,People wearing costumes are scattering in a forest and are looking in different directions,3.2,NEUTRAL
+79,People are looking at some costumes gathered in the vicinity of the forest,People wearing costumes are gathering in a forest and are looking in the same direction,3.635,NEUTRAL
+81,A little girl is looking at a woman in costume,People wearing costumes are scattering in a forest and are looking in different directions,2.4,NEUTRAL
+82,A little girl is looking at a woman in costume,People are looking at some costumes gathered in the vicinity of the forest,2.6,NEUTRAL
+83,A young girl is looking at a woman in costume,People wearing costumes are gathering in a forest and are looking in the same direction,2.2,NEUTRAL
+84,People wearing costumes are gathering in a forest and are looking in the same direction,The little girl is looking at a man in costume,3,NEUTRAL
+85,People wearing costumes are gathering in a forest and are looking in the same direction,A little girl in costume looks like a woman,2,NEUTRAL
+87,A lone biker is jumping in the air,"A biker is jumping in the air, alone",5,ENTAILMENT
+88,There is no biker jumping in the air,A lone biker is jumping in the air,4.2,CONTRADICTION
+90,A man is jumping into an empty pool,A man is jumping into a full pool,3,CONTRADICTION
+91,A man is jumping into an empty pool,The man's jumper is in the empty pool,3.1,NEUTRAL
+93,A lone biker is jumping in the air,A man is jumping into a full pool,1.7,NEUTRAL
+94,The man's jumper is in the empty pool,A lone biker is jumping in the air,1.4,NEUTRAL
+97,A lone biker is jumping in the air,A man is jumping into an empty pool,1.5,NEUTRAL
+98,Four kids are doing backbends in the park,Four children are doing backbends in the park,4.8,ENTAILMENT
+99,Four children are doing backbends in the gym,Four children are doing backbends in the park,3.8,NEUTRAL
+100,Four girls are doing backbends and playing in the garden,Four girls are doing backbends and playing outdoors,4.1,ENTAILMENT
+107,A man who is playing is running with the ball in his hands,A player is running with the ball,4.3,ENTAILMENT
+112,Two groups of people are playing football,A player is running with the ball,2.1,NEUTRAL
+113,Two teams are competing in a baseball game,A player is running with the ball,3,NEUTRAL
+117,A player is running with the ball,Two teams are competing in a football match,2.6,NEUTRAL
+120,Five wooden stands are in front of each child's hut,Five children are standing in front of a wooden hut,3.2,NEUTRAL
+122,Five kids are standing close together and one kid has a gun,Five kids are standing close together and none of the kids has a gun,3.7,CONTRADICTION
+124,Five kids are standing close together and none of the kids has a gun,Five children are standing in front of a wooden hut,2.6,NEUTRAL
+126,Five children are standing in a wooden hut,Five kids are standing close together and one kid has a gun,2.7,NEUTRAL
+127,Five wooden stands are in front of each child's hut,Five kids are standing close together and one kid has a gun,2.3,NEUTRAL
+129,An old man is sitting in a field,A man is sitting in a field,4.4,ENTAILMENT
+130,A man is sitting in a field,A man is running in a field,2.6,NEUTRAL
+131,A person is wearing a hat and is sitting on the grass,A person is sitting in a field and is wearing a hat,4.1,NEUTRAL
+133,A person is sitting and wearing a grass hat,A person is wearing a hat and is sitting on the grass,3.4,NEUTRAL
+136,A person is sitting and wearing a grass hat,A man is sitting in a field,3.3,NEUTRAL
+139,A man is sitting in a field,A person is wearing a hat and is sitting on the grass,3.8,NEUTRAL
+140,The current is being ridden by a group of friends in a raft,A group of friends are riding the current in a raft,4.9,ENTAILMENT
+141,A group of friends are riding the current in a raft,A group is not riding the current in a raft,3.7,CONTRADICTION
+146,The current is being ridden by a group of friends in a raft,This group of people is practicing water safety and wearing preservers,3.2,NEUTRAL
+148,A group of friends are riding the current in a raft,This group of people is practicing water safety and wearing preservers,3.1,NEUTRAL
+150,A deer is jumping over a fence,A deer isn't jumping over the fence,3.9,CONTRADICTION
+159,People are walking inside a building that has many murals on it,People are walking outside a building that has many murals on it,3.4,NEUTRAL
+161,Several people are in front of a colorful building,Nobody is in front of the colorful building,3.5,CONTRADICTION
+163,People are walking outside a building that has many murals on it,Nobody is in front of the colorful building,3.6,NEUTRAL
+164,People are walking outside the building that has several murals on it,Several people are in front of a colorful building,3.6,ENTAILMENT
+170,A family is watching a little boy who is hitting a baseball,A family is watching a little boy who is missing a baseball,3.9,NEUTRAL
+173,A child is hitting a baseball,A family is watching a little boy who is missing a baseball,3.015,NEUTRAL
+176,A child is missing a baseball,A family is watching a little boy who is hitting a baseball,2.7,NEUTRAL
+183,A purple crowd of people is eating on various red lit restaurant tables,Various people are eating at red tables in a crowded restaurant with purple lights,3.3,NEUTRAL
+184,A large group of Asian people is eating at a restaurant,Various customers are eating in a crowded restaurant with purple lights,2.9,NEUTRAL
+186,A purple crowd of people is eating on various red lit restaurant tables,A large group of Asian people is eating at a restaurant,3.1,NEUTRAL
+188,Various people are eating at red tables in a crowded restaurant with purple lights,A small group of people is waiting to eat in a restaurant,3.2,NEUTRAL
+192,A motorcycle rider is standing up on the seat of a white motorcycle,No motorcycle rider is standing up on the seat of a motorcycle,3.8,CONTRADICTION
+194,Nobody is on a motorcycle and is standing on the seat,Someone is on a black and white motorcycle and is standing on the seat,3.7,CONTRADICTION
+200,A motorcyclist is riding a motorbike dangerously along a roadway,A motorcyclist is riding a motorbike along a roadway,4.6,ENTAILMENT
+201,There is no motorcyclist riding a motorbike along a roadway,A motorcyclist is riding a motorbike along a roadway,3.7,CONTRADICTION
+202,A man with a helmet painted red is riding a blue motorcycle down the road,A motorcyclist with a red helmet is riding a blue motorcycle down the road,4.8,ENTAILMENT
+205,A motorcyclist without a helmet is waiting on a blue motorcycle near the road,A motorcyclist is riding a motorbike along a roadway,3.3,NEUTRAL
+215,Two dogs are playing by a tree,A dog is catching a stick in the air and another is watching,3.7,NEUTRAL
+216,Two dogs are playing by a tree,There is no dog leaping in the air,2.7,NEUTRAL
+217,Two dogs are playing by a tree,A dog is leaping high in the air and another is watching,3,NEUTRAL
+223,A girl in white is dancing,The dancer is dancing in front of the sound equipment,4,NEUTRAL
+224,A girl in white is dancing,The blond girl is dancing behind the sound equipment,3.3,NEUTRAL
+226,A girl is wearing white clothes and is dancing,The blond girl is dancing in front of the sound equipment,3.5,NEUTRAL
+227,The blond girl is dancing in front of the sound equipment,There is no girl in white dancing,3.3,NEUTRAL
+232,Three Asian kids are dancing and a man is looking,Three Asian kids are dancing and there is no man looking,3.9,CONTRADICTION
+233,Three Asian kids are dancing and a man is looking,An Asian man is dancing and three kids are looking,3.7,NEUTRAL
+234,The children of a family are playing and waiting,Three Asian kids are dancing and a serious man is looking,1.9,NEUTRAL
+237,The children of a family are patiently playing and waiting,Three Asian kids are dancing and a man is looking,2.3,NEUTRAL
+238,There are no children playing and waiting,Three Asian kids are dancing and a man is looking,1.6,NEUTRAL
+240,A woman is wearing an Egyptian hat on her head,A woman is wearing an Egyptian headdress,4.3,ENTAILMENT
+241,A woman is wearing an Egyptian headdress,A woman is wearing an Indian headdress,4,NEUTRAL
+248,The black woman is wearing glasses over the headdress,A woman is wearing an Egyptian headdress,3.6,NEUTRAL
+249,A woman is wearing an Egyptian hat on her head,The woman is wearing glasses and a black headdress,2.5,NEUTRAL
+254,A hiker is on top of the mountain and is dancing,There is no hiker dancing on top of the mountain,3.2,CONTRADICTION
+256,There is no man on a rock high above some trees standing in a strange position,A man is on a rock high above some trees and is standing in a strange position,4.3,CONTRADICTION
+257,A hiker is on top of the mountain and is dancing,A man is on a rock high above some trees and is standing in an uncomfortable position,2.5,NEUTRAL
+258,A hiker is on top of the mountain and is dancing,There is no man on a rock high above some trees standing in a strange position,2.5,NEUTRAL
+259,A man is on a rock high above some trees and is standing in a strange position,A hiker is on top of the mountain and is doing a joyful dance,2.9,NEUTRAL
+260,There is no hiker dancing on top of the mountain,A man is on a rock high above some trees and is standing in a strange position,2.4,NEUTRAL
+265,The brown horse is very near a red barrel at the rodeo,The brown horse is near a red barrel at the rodeo,4.8,ENTAILMENT
+266,The brown horse is near a red barrel at the rodeo,The brown horse is far from a red barrel at the rodeo,3.6,CONTRADICTION
+269,A cowgirl is riding a brown horse and is cornering a barrel,The brown horse is near a red barrel at the rodeo,3.2,NEUTRAL
+272,A cowgirl is riding a horse and corners a barrel,The brown horse is near a red barrel at the rodeo,3.8,NEUTRAL
+273,A boy is standing in the cold water,A boy is standing in the water,4.1,ENTAILMENT
+276,The boy is sitting near the blue ocean,The boy is wading through the blue ocean,3.2,CONTRADICTION
+277,A boy is standing in the water,The kid is swimming through the blue ocean,3,NEUTRAL
+279,The boy is wading through the blue ocean,A boy is standing in the cold water,3.3,NEUTRAL
+283,A man is playing a guitar on stage,There is no man playing a guitar on stage,3.6,CONTRADICTION
+286,A man is playing a guitar on stage,A guitarist has blonde and flyaway hair,3,NEUTRAL
+287,A man is playing a guitar on stage,A bald person is playing a guitar,3.8,NEUTRAL
+289,There is no man playing a guitar on stage,A person has blonde and flyaway hair and is playing a guitar,3.4,NEUTRAL
+291,Several children are sitting down and have their knees raised,Several children are lying down and are raising their knees,4,NEUTRAL
+293,Two young girls are sitting on the ground,Two girls are sitting on the ground,4.4,ENTAILMENT
+296,Two girls are lying on the ground,Several children are sitting down and have their knees raised,2.8,NEUTRAL
+301,A nude lady is walking in front of a crowd in body paint,There is no lady walking in body paint in front of a crowd ,2.9,CONTRADICTION
+302,A nude lady is walking in front of a crowd in body paint,A nude crowd in body paint is walking in front of a lady ,3.1,NEUTRAL
+303,"A young, topless woman is covered in paint",A topless girl is covered in paint,4.4,ENTAILMENT
+305,A nude lady is walking in front of a crowd in body paint,A topless girl is covered in paint,3.8,ENTAILMENT
+309,A nude crowd in body paint is walking in front of a lady ,"A young, topless woman is covered in paint",3,NEUTRAL
+310,A nude lady is walking in front of a crowd in body paint,"A young, topless woman is covered in paint",4.2,NEUTRAL
+311,A group of people is near the ocean,A crowd of people is near the water,4.3,ENTAILMENT
+312,A crowd of people is near the water,A crowd of people is far from the water,3.8,CONTRADICTION
+313,A group of children in uniforms is standing at a gate and one is kissing the mother,A group of children wearing the same clothes is waiting at a gate and one is kissing the mother,4.5,ENTAILMENT
+315,A group of mothers in uniforms is standing near the children and one is kissing the gate,A group of children in uniforms is standing at a gate and one is kissing the mother,3.3,NEUTRAL
+323,A man is in a parking lot and is playing tennis against a large wall,A man is in a parking lot and is playing tennis against a friend,3.9,NEUTRAL
+327,A man is in a parking lot and is playing tennis against a large wall,There is no man pointing at a car,1.5,NEUTRAL
+329,A man is in a parking lot and is playing tennis against a friend,A man is pointing at a silver sedan,1.3,NEUTRAL
+331,A group of people is on a beach,A group of people is near the sea,4,ENTAILMENT
+332,A group of people is on a beach,A group of people is on a mountain,2.6,NEUTRAL
+333,"A man, a woman and two girls are walking on the beach",Four people are walking on the beach,4.5,ENTAILMENT
+335,A group of people is on a beach,Four people are walking on the beach,4.6,NEUTRAL
+338,"A man, a woman and two girls are walking on the beach",A group of people is on a mountain,1.4,NEUTRAL
+339,"A man, a woman and two girls are walking on the beach",A group of people is on a beach,4.3,ENTAILMENT
+340,A schoolgirl with a black bag is on a crowded train,A girl with a black bag is on a crowded train,4.7,ENTAILMENT
+341,There is no girl with a black bag on a crowded train,A girl with a black bag is on a crowded train,3.7,CONTRADICTION
+342,A girl with a black bag is on a crowded train,A cramped black train is on the bag of a girl,2.7,NEUTRAL
+344,An Asian woman in a crowd is not carrying a black bag,An Asian woman in a crowd is carrying a black bag,3.8,NEUTRAL
+346,A girl with a black bag is on a crowded train,An Asian woman in a crowd is not carrying a black bag,2.5,NEUTRAL
+347,A schoolgirl with a black bag is on a crowded train,An Asian woman in a crowd is carrying a black bag,2.8,NEUTRAL
+351,A dog is chasing another and is holding a stick in its mouth,A dog is chasing another and is holding a piece of wood in its mouth,4.6,ENTAILMENT
+354,Two dogs are running and carrying a toy in their mouths,Two dogs are running and carrying an object in their mouths,4.3,ENTAILMENT
+358,A dog is chasing another and is holding a piece of wood in its mouth,Two dogs are running and carrying an object in their mouths,3.9,NEUTRAL
+360,Two dogs are running and carrying an object in their mouths,A dog is chasing a stick and holding another dog in its mouth,3.2,NEUTRAL
+361,A dog is chasing another and is holding a stick in its mouth,Two dogs are running and carrying an object in their mouths,4,ENTAILMENT
+362,A dirty soccer ball is rolling into a goal net,A soccer ball is rolling into a goal net,4.5,ENTAILMENT
+363,A soccer ball is not rolling into a goal net,A soccer ball is rolling into a goal net,3.4,CONTRADICTION
+366,A person who plays soccer is kicking a ball into the goal,A soccer ball is rolling into a goal net,4.1,NEUTRAL
+367,A soccer ball is rolling into a goal net,A soccer player is kicking a ball out of the goal,3.2,NEUTRAL
+370,A soccer ball is rolling into a goal net,A soccer player is kicking a ball into the goal,4.3,NEUTRAL
+372,A man is sitting on a chair and rubbing his eyes,There is no man sitting on a chair and rubbing his eyes,3.8,CONTRADICTION
+373,A man with tattoos is lounging on a couch and holding a pencil,A tattooed man is on a sofa and is holding a pencil,4.4,ENTAILMENT
+374,A man with tattoos is lounging on a couch and holding a pencil,A man with tattoos is lounging on a couch and is looking for a pencil,2.9,NEUTRAL
+375,A man with tattoos is holding a couch with a pencil,A man with tattoos is lounging on a couch and holding a pencil,2.6,NEUTRAL
+377,A man is sitting on a chair and rubbing his eyes,A man with tattoos is lounging on a couch and is looking for a pencil,2.1,NEUTRAL
+378,A man with tattoos is holding a couch with a pencil,A man is sitting on a chair and rubbing his eyes,2,NEUTRAL
+379,A man is resting on a chair and rubbing his eyes,A man with tattoos is lounging on a couch and holding a pencil,2.5,NEUTRAL
+380,A man with tattoos is lounging on a couch and holding a pencil,There is no man sitting on a chair and rubbing his eyes,1.6,NEUTRAL
+381,A man with tattoos is lounging on a couch and holding a pencil,A man is sitting on a chair and rubbing his eyes,2.4,NEUTRAL
+387,A brown and white dog is running through the tall grass,A black and tan dog is running through the low and green grass,3.8,NEUTRAL
+390,A white and tan dog is running through the tall and green grass,A brown and white dog is running through the tall grass,4.6,ENTAILMENT
+391,A man with paint covered clothes is sitting outside in a busy area writing something,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,4.8,ENTAILMENT
+392,There is no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,4.1,CONTRADICTION
+393,A sitting man is busy writing something in an area covered by paint,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,3.7,NEUTRAL
+395,A man is sitting near a bike and is writing a note,There is no man writing a note near a bike,4.2,CONTRADICTION
+396,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,A man is standing near a bike and is writing on a piece paper,2.6,NEUTRAL
+397,There is no man writing a note near a bike,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,2.7,NEUTRAL
+398,A man is sitting near a bike and is writing a note,A man with paint covered clothes is sitting outside in a busy area writing something,3.1,NEUTRAL
+403,A group of scouts are camping in the grass,A group of scouts are hiking through the grass,3.5,NEUTRAL
+404,Some people are walking,People are walking,4.7,ENTAILMENT
+409,Some people are walking,A group of scouts are camping in the grass,1.5,NEUTRAL
+410,A group of scouts are hiking through the grass,Some people are walking,3.2,ENTAILMENT
+413,Two men are taking a break from a trip on a snowy road,Two men are breaking into a car during a trip on a snowy road,3,NEUTRAL
+415,Two men with bikes are on the side of a snowy road,Two men with cars are on the side of a snowy road,3.5,NEUTRAL
+422,Two men are holding fishing poles and fishing tackle,Two men are holding fishing poles,4.3,ENTAILMENT
+423,Two men are not holding fishing poles,Two men are holding fishing poles,3.2,CONTRADICTION
+427,Two men are holding fishing poles,Two men are standing near the water and are holding tools used for fishing,4.3,NEUTRAL
+428,There is no man standing near the water and holding fishing poles,Two men are holding fishing poles,3.2,NEUTRAL
+434,The helmeted girl is riding a bike,The helmeted girl is perching on a bike,4.2,NEUTRAL
+435,A woman is performing a trick on a ramp with a bicycle,A woman is jumping with a bicycle,4.3,NEUTRAL
+436,A woman is performing a trick on a ramp with a bicycle,A woman is performing a trick on a ramp with a car,2.4,NEUTRAL
+438,The helmeted girl is perching on a bike,A woman is performing a trick on a ramp with a car,1.9,NEUTRAL
+439,The girl with a helmet is perching on a bike,A woman is performing a trick on a ramp with a bicycle,2.9,NEUTRAL
+440,The helmeted girl is riding a bike,A woman is performing a trick on a ramp with a bicycle,3.7,NEUTRAL
+441,A woman is performing a trick on a ramp with a bicycle,The helmeted girl is perching on a bike,3.3,NEUTRAL
+442,A blonds girl is surfing,A blond girl is riding the waves,4.7,ENTAILMENT
+446,A lady is surfing and riding a wave,A boy is surfing and riding a wave,3.5,NEUTRAL
+447,A woman is surfing,A blond girl is riding the waves,4,NEUTRAL
+449,A lady is surfing and riding a wave,A blonds girl is surfing,3.6,NEUTRAL
+451,A blond girl waves while she is riding,A lady is surfing and riding a wave,2.3,NEUTRAL
+454,Two children and an adult are standing next to a tree limb,Two children and an adult are not standing next to a tree limb,3.6,CONTRADICTION
+457,Two children and an adult are standing next to a tree limb,Two children are climbing a tree,3,NEUTRAL
+461,Two children and an adult are standing next to a tree limb,Two children are hanging on a large branch,2.7,NEUTRAL
+462,A man dressed in black is riding a bike,A man is performing a trick on a bike,3.5,NEUTRAL
+465,A man is performing stunts on a green bicycle,A man is performing a trick on a green bicycle,4.7,ENTAILMENT
+470,There is no man dressed in black and riding a green bike,A man is performing a trick on a green bicycle,3.4,NEUTRAL
+473,A boy is holding a squirt gun,A child is holding a squirt gun,4.5,ENTAILMENT
+475,A laughing child is holding a water gun and getting sprayed with water,A child with a gun that sprays water is laughing and getting hit by other boys,4,NEUTRAL
+476,There is no child holding a water gun or getting sprayed with water,A laughing child is holding a water gun and getting sprayed with water,4,CONTRADICTION
+477,A child with a gun that sprays water is laughing and getting hit by other boys,A child is holding a squirt gun,3.9,ENTAILMENT
+484,Two daschunds are playing with a red ball,Two dogs are playing with a small red ball,4.2,NEUTRAL
+485,Two cats are playing with a red ball,Two daschunds are playing with a red ball,3.3,NEUTRAL
+486,Two brown dogs are fighting over a red ball and are playing in the grass,Two dogs are playing with a small red ball,3.8,NEUTRAL
+489,There is no dog playing with a red ball,Two daschunds are playing with a red ball,3,CONTRADICTION
+491,The black and white dog is running and a person stands behind it,"The dog, which is black and white, is running and a person stands behind it",4.9,ENTAILMENT
+494,A little dog is sprinting and the person who owns it is trying to catch it,A little dog is sprinting and its owner is trying to catch it,4.8,ENTAILMENT
+496,The black and white dog is running and a person stands behind it,A little dog is sprinting and the person who owns it is trying to catch it,3,NEUTRAL
+497,The black and white dog is running and a person stands behind it,A little dog is slowing down and the owner is quitting chasing it,2.9,NEUTRAL
+499,The black and white dog isn't running and there is no person standing behind,A little dog is sprinting and its owner is trying to catch it,2.7,NEUTRAL
+500,A black person is running along a white stand and a dog barks behind him,A little dog is sprinting and its owner is trying to catch it,2.5,NEUTRAL
+505,A man wearing a dyed black shirt is sitting at the table and laughing,A black shirt is being worn by a man who is sitting at the table and laughing,4.7,ENTAILMENT
+506,A man wearing a dyed black shirt is sitting at the table and laughing,"There is no man wearing a shirt dyed black, sitting at the table and laughing",3.7,CONTRADICTION
+507,A laughing man is dyeing a shirt black on the table which you cannot sit at ,A man wearing a dyed black shirt is sitting at the table and laughing,3.6,NEUTRAL
+508,A black shirt is being worn by a man who is sitting at the table and laughing,A man is sitting comfortably at a table,3.5,NEUTRAL
+513,A man is sitting and tables a comfortable discussion,A man wearing a dyed black shirt is sitting at the table and laughing,2.4,NEUTRAL
+514,A man is sitting comfortably at a table,A man wearing a dyed black shirt is sitting at the table and laughing,3.9,NEUTRAL
+515,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,A woman who is wearing a pink scarf is riding a bike down a bridge built for pedestrians,4.3,ENTAILMENT
+516,A woman who is taking off a pink boa is stopping her bicycle on a bridge built for pedestrians,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,3.7,NEUTRAL
+522,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,"The woman wearing silver pants, pink bellbottoms and a pink scarf isn't riding a bike",2.6,NEUTRAL
+524,A woman who is wearing a pink scarf is riding a bike down a bridge built for pedestrians,"The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike",3.7,NEUTRAL
+527,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,"The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike",2.5,NEUTRAL
+528,"A person, who is riding a bike, is wearing gear which is black",A biker is wearing gear which is black,4.7,ENTAILMENT
+529,A biker is naked,A biker is wearing gear which is black,3.315,CONTRADICTION
+531,A black helmet is being worn by a man who is pushing a bicycle,One man is wearing a black helmet and pushing a bicycle,4.8,ENTAILMENT
+535,A biker is wearing gear which is black,There is no man wearing a black helmet and pushing a bicycle,2.7,NEUTRAL
+538,One man is wearing a black helmet and pushing a bicycle,A biker is naked,2.6,NEUTRAL
+541,The man in a grey t-shirt is sitting on a rock in front of the waterfall,The man in a t-shirt dyed grey is sitting on a rock in front of a waterfall,4.9,ENTAILMENT
+542,The man in a grey t-shirt is sitting on a rock in front of the waterfall,There is no man in a grey t-shirt sitting on a rock in front of the waterfall,3.5,CONTRADICTION
+545,A woman is standing and isn't looking at the waterfall,A woman is sitting and looking at the waterfall,3.1,NEUTRAL
+548,A woman is standing and isn't looking at the waterfall,The man in a grey t-shirt is sitting on a rock in front of the waterfall,2.5,NEUTRAL
+550,The man in a t-shirt dyed grey is sitting on a rock in front of a waterfall,A woman is sitting and looking at the waterfall,3.1,NEUTRAL
+551,There is no man in a grey t-shirt sitting on a rock in front of the waterfall,A woman is sitting and looking at the waterfall,1.9,NEUTRAL
+552,A woman is sitting and looking at the waterfall,A rocker is sitting with a t-shirt that has a man over a grey waterfall on the front,2.5,NEUTRAL
+555,"A dog, which is brown, and a black one are running in the grass",There is no dog running in the grass,3.4,CONTRADICTION
+556,A black man is running in brown grass and racing a dog,"A dog, which is brown, and a black one are running in the grass",2.5,NEUTRAL
+557,A dark black dog and a light brown dog are playing in the yard in the back,A dark black dog and a light brown dog are playing in the backyard,4.9,ENTAILMENT
+560,A dark black dog and a light brown dog are playing in the yard in the back,"A dog, which is brown, and a black one are running in the grass",4,NEUTRAL
+561,A dark black dog and a light brown dog are fighting in the backyard,"A dog, which is brown, and a black one are running in the grass",3.6,NEUTRAL
+564,There is no dog running in the grass,A dark black dog and a light brown dog are playing in the backyard,3.1,NEUTRAL
+565,A dark black dog and a light brown dog are playing in the backyard,A black man is running in brown grass and racing a dog,2,NEUTRAL
+568,A dog that has a brown and white coat is sitting in shallow water,A dog that has a brown and white coat is trotting through shallow water,4.1,NEUTRAL
+570,A white and brown dog is walking through the water with difficulty,A white and brown dog is pacing through the water with difficulty,4.5,ENTAILMENT
+581,A group of boys are quiet in front of a large door made of wood,A group of boys are playing with a ball in front of a large door made of wood,3.5,NEUTRAL
+586,The children aren't playing in front of a large door,A group of boys are playing with a ball in front of a large door made of wood,3.4,NEUTRAL
+587,A bunch of boys are playing with a ball in front of a large door made of wood,The children are playing in front of a large door,3.4,ENTAILMENT
+588,The children are playing in front of a large door,A group of boys are quiet in front of a large door made of wood,3.4,NEUTRAL
+597,"A black, red, white and pink dress is being worn by a woman","A woman is taking off a cloak, which is very large, and revealing extravagant apparel",2.8,NEUTRAL
+599,"A woman is taking off a cloak, which is very large, and revealing an extravagant dress","A black, red, white and pink dress is being worn by a woman",3.4,NEUTRAL
+601,A teenage girl is storing away beads that are red,A teenage girl is wearing beads that are red,3.8,NEUTRAL
+603,"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling","A lady of young age, with light brown hair, is wearing a red necklace, a sweatshirt and earrings and is smiling",5,ENTAILMENT
+604,"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling","There is no young lady with light brown hair wearing a red necklace, a sweatshirt and earrings and smiling",3.7,CONTRADICTION
+605,"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling","A red sweatshirt with a smiling lady upon it is suited to be worn with light brown hair, earrings and a necklace ",3.3,NEUTRAL
+606,"A lady of young age, with light brown hair, is wearing a red necklace, a sweatshirt and earrings and is smiling",A teenage girl is wearing beads that are red,3.1,NEUTRAL
+609,"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling",The teenage girl is wearing beads that are red,2.4,NEUTRAL
+611,The girl likes red and isn't wearing beads for teenagers,"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling",2.3,NEUTRAL
+617,A fearful little boy is on a climbing wall,A fearful little boy is on the ground,3.4,NEUTRAL
+621,A boy is climbing up a wall artificially built for climbing and is attached to a rope,A climbing boy rescues the fearful cat from over the wall,2.2,NEUTRAL
+622,A fearful little boy is on a climbing wall,A boy is effortlessly climbing up a wall artificially built for climbing and is attached to a rope,4.1,NEUTRAL
+625,A boy is climbing up a wall artificially built for climbing and is attached to a rope,A fearful little boy is on a climbing wall,3.9,NEUTRAL
+626,A dad is launching his daughter into a swimming pool,A father is launching the daughter in a swimming pool,4.8,ENTAILMENT
+628,A father is in the swimming pool during his daughters launch,A father is launching the daughter in a swimming pool,3.2,NEUTRAL
+629,The man is tossing a kid into the swimming pool that is near the ocean,One man is tossing a kid into the swimming pool that is near the ocean,4.8,ENTAILMENT
+631,The man is tossing a kid into the swimming pool that is near the ocean,"A kid swimming in the ocean is tossing a coin into the pool, near the man",2.2,NEUTRAL
+632,One man is tossing a kid into the swimming pool that is near the ocean,A father is launching the daughter in a swimming pool,3.9,NEUTRAL
+634,"A kid swimming in the ocean is tossing a coin into the pool, near the man",A father is launching the daughter in a swimming pool,1.6,NEUTRAL
+637,A father is in the swimming pool during his daughters launch,The man is tossing a kid into the swimming pool that is near the ocean,2.515,NEUTRAL
+638,A father is launching the daughter in a swimming pool,The man is tossing a kid into the swimming pool that is near the ocean,3.8,NEUTRAL
+641,A social climber is tying a man to a cliff with a rope,One man is climbing a cliff with a rope,3.1,NEUTRAL
+643,"A person is standing in front of a rock with a rope, which is pink","A person is climbing a rock with a rope, which is pink",3.9,NEUTRAL
+645,"A rock is being climbed by a person with a rope, which is pink",One man is climbing a cliff with a rope,4.3,ENTAILMENT
+646,One man is climbing a cliff with a rope,"A person is standing in front of a rock with a rope, which is pink",3.4,NEUTRAL
+648,"A person is climbing a rock with a rope, which is pink",One man is climbing the cliff with a rope,4.1,ENTAILMENT
+649,"A person is climbing a rock with a rope, which is pink",One man is descending a cliff with a rope,2.8,NEUTRAL
+650,"A person is climbing a rock with a rope, which is pink",A social climber is tying a man to a cliff with a rope,2.685,NEUTRAL
+653,A young boy isn't climbing a wall made of rock,The young boy is climbing the wall made of rock,4.1,CONTRADICTION
+655,A young child is climbing a rock climbing wall which is indoors,A young kid is climbing a rock climbing wall which is indoors,4.7,ENTAILMENT
+657,A young child is climbing a rock climbing wall which is indoors,A child is indoors watching a program about some young climbers on a rock wall.,3.2,NEUTRAL
+660,A child is indoors watching a program about some young climbers on a rock wall.,The young boy is climbing the wall made of rock,3.4,NEUTRAL
+661,One young boy is climbing a wall made of rock,A young child is climbing a rock climbing wall which is indoors,4.3,NEUTRAL
+663,A young climber is making a rock wall for the boys,A young child is climbing a rock climbing wall which is indoors,2.9,NEUTRAL
+668,The cyclist is performing a trick in the air,The cyclist isn't performing a trick in the air,3.8,CONTRADICTION
+671,One man is doing a bicycle trick in midair,The cyclist isn't performing a trick in the air,2.9,NEUTRAL
+672,One man is doing a bicycle trick in midair,The air is tricking a performing cyclist,3,NEUTRAL
+676,"A dog, which is black, and a white one are staring at each other in the street","A dog, which is black, and another one, which is white, are staring at each other in the street",4.9,ENTAILMENT
+678,"A dog, which is black, and a white one are staring at each other in the street",One white dog is staring at the black street,3.1,NEUTRAL
+679,Two dogs of different breeds are looking angrily at each other across a street,Two dogs of different breeds are looking at each other across a street,4.6,ENTAILMENT
+680,Two dogs of different breeds are looking at each other across a street,There are no dogs of different breeds looking at each other across a street,3.9,CONTRADICTION
+685,"A dog, which is black, and another one, which is white, are staring at each other in the street",Two dogs of different breeds are looking at each other across a street,4.1,NEUTRAL
+690,"A dog next to a tree, which is probably a pine, is dropping a bucket","A dog next to a tree, which is probably a pine, is biting a bucket",3.4,NEUTRAL
+691,"A dog next to a tree, which is probably a pine, is biting a bucket",A dog in a bucket is biting a tree which is probably a pine,3.2,NEUTRAL
+692,A dog which is furry and black is in a backyard and is carrying a basket in its mouth.,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,5,ENTAILMENT
+693,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,There is no dog which is furry and black in a back yard carrying a basket in its mouth.,3.7,CONTRADICTION
+696,"A dog next to a tree, which is probably a pine, is biting a bucket",There is no dog which is furry and black in a back yard carrying a basket in its mouth.,3.2,NEUTRAL
+697,A dog in the backyard is carrying black fur in a basket in its mouth.,"A dog next to a tree, which is probably a pine, is biting a bucket",3.4,NEUTRAL
+699,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,"A dog next to a tree, which is probably a pine, is dropping a bucket",2.8,NEUTRAL
+702,Two persons of large size are sitting on a park bench and they have a bottle of soda between them,Two large persons are sitting on a park bench and they have a bottle of soda between them,4.7,ENTAILMENT
+703,Two large persons are sitting on a park bench and they have a bottle of soda between them,Two large persons are standing near a park bench and they have nothing between them,4.1,CONTRADICTION
+704,Two large park benches have a person sitting and a bottle of soda between them,Two large persons are sitting on a park bench and they have a bottle of soda between them,3.7,ENTAILMENT
+709,A man and a woman are sitting comfortably on the bench,Two persons of large size are sitting on a park bench and they have a bottle of soda between them,3.3,NEUTRAL
+715,The man is racing for the lead ,A man is leading the race,3.7,NEUTRAL
+722,A few men in a competition are running outside,One man is leading the race,3.1,NEUTRAL
+723,A man is bringing up the rear of the race,A few men in a competition are running outside,3.7,NEUTRAL
+725,A few men in a competition are running outside,A man is leading the race,3.8,NEUTRAL
+727,A man with a camera is studying the subject,There is no man with a camera studying the subject,3.6,CONTRADICTION
+728,A man with a camera is studying the subject,The study subject is a camera man,3.6,NEUTRAL
+729,The man with the dyed purple hat is operating a camera that makes videos,The man in the purple hat is operating a camera that makes videos,4.9,ENTAILMENT
+730,The man in the purple hat isn't operating a camera that makes videos,The man in the purple hat is operating a camera that makes videos,3.4,CONTRADICTION
+731,The man with the dyed purple hat is operating a camera that makes videos,A man with a camera is studying the subject,3.4,NEUTRAL
+732,A man with a camera is studying the subject,The man in the purple hat isn't operating a camera that makes videos,3.2,NEUTRAL
+733,The man in the purple hat is operating a camera that makes videos,The subject is being studied by a man with a camera,3.6,NEUTRAL
+734,The man in the purple hat is operating a camera that makes videos,There is no man with a camera studying the subject,3.2,NEUTRAL
+735,The study subject is a camera man,The man in the purple hat is operating a camera that makes videos,2.8,NEUTRAL
+736,The man in the purple hat is operating a camera that makes videos,A man with a camera is studying the subject,3.3,NEUTRAL
+737,The bride and the groom are leaving after the marriage,The bride and the groom are leaving after the wedding,4.8,ENTAILMENT
+738,The bride and the groom are arriving after the wedding,The bride and the groom are leaving after the wedding,4.3,NEUTRAL
+741,A married couple is walking up the aisle,A married couple is walking down the aisle,4.4,ENTAILMENT
+745,The priest is walking down the aisle to marry a couple,The bride and the groom are leaving after the wedding,2.8,NEUTRAL
+746,The bride and the groom are leaving after the marriage,A married couple is walking down the aisle,3.6,NEUTRAL
+747,The bride and the groom are arriving after the wedding,A married couple is walking down the aisle,4,NEUTRAL
+748,A married couple is walking down the aisle,The bride is leaving the groom after the wedding,2.6,NEUTRAL
+749,A married couple is walking down the aisle,The bride and the groom are leaving after the wedding,3.4,NEUTRAL
+752,The presentation is being watched by a classroom of students,The presentation is being attended by a classroom of students,4.8,ENTAILMENT
+754,The presentation is being attended by a classroom of students,A classroom is full of students,3.4,NEUTRAL
+757,The presentation is being watched by a classroom of students,A classroom is empty,3,NEUTRAL
+760,A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees,A boy at the bottom of a hill covered in snow is naked and is sitting on his knees,3.2,NEUTRAL
+761,A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees,A boy on a red and black slide is wearing a jacket and a hat and has knees which are covered in snow,3.5,NEUTRAL
+762,The kid is happily sliding in the snow,The kid is sliding in the snow,4.5,ENTAILMENT
+764,A snow slide is full of kids,The kid is sliding in the snow,3.4,NEUTRAL
+766,A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees,The kid is still in the snow,3.4,ENTAILMENT
+769,The kid is sliding in the snow,A boy at the bottom of a hill covered in snow is naked and is sitting on his knees,2.7,NEUTRAL
+772,A woman and a dog are peacefully sitting on a tree stump,A woman and a dog are sitting on a tree stump,4.5,ENTAILMENT
+774,"A woman, who is old, is near a dog that has a white coat","A woman, who is old, is near a white dog",4.4,ENTAILMENT
+777,"A woman, who is old, is far from a white dog",A woman and a dog are sitting on a tree stump,2.4,NEUTRAL
+783,A man is watering the grass and excitedly playing with a dog,A dog is excitedly playing with water in the grass,3.5,NEUTRAL
+784,The dog is biting some droplets of water,The dog is snapping at some droplets of water,4.5,ENTAILMENT
+785,The dog is snapping at some droplets of water,The dog isn't snapping at some droplets of water,4,CONTRADICTION
+789,A dog is excitedly playing with water in the grass,A snap is depicting some water falling in droplets on the dog,2.9,NEUTRAL
+791,The dog is snapping at some droplets of water,There is no dog excitedly playing with water in the grass,3.5,NEUTRAL
+792,A man is watering the grass and excitedly playing with a dog,The dog is snapping at some droplets of water,2.4,NEUTRAL
+793,The dog is snapping at some droplets of water,A dog is excitedly playing with water in the grass,4.2,NEUTRAL
+796,"Two people are in the snow, wearing clothes that provide camouflage","Some people are in the snow, wearing clothes that provide camouflage",4.4,ENTAILMENT
+797,Nobody is in the snow wearing clothes that provide camouflage,"Two people are in the snow, wearing clothes that provide camouflage",3.3,CONTRADICTION
+799,"Some people are in the snow, wearing clothes that provide camouflage",Two people are walking two dogs with golden coats in the snow,2.7,NEUTRAL
+802,"Two people are in the snow, wearing clothes that provide camouflage",Two men are walking two dogs with golden coats in the snow,3.2,NEUTRAL
+804,"Two people are in the snow, wearing clothes that provide camouflage",Two people are walking two dogs with golden coats in the snow,2.7,NEUTRAL
+811,There is no girl wearing a t-shirt and keeping her mouth open,"A girl from Asia, in front of a brick window, looks surprised",2.2,NEUTRAL
+812,"A girl from Asia, in front of a window made of bricks, looks surprised",A girl is wearing a t-shirt and has her mouth open.,2.4,NEUTRAL
+813,"A girl from Asia, in front of a brick window, doesn't look surprised",A girl is wearing a t-shirt and has her mouth open.,2.1,NEUTRAL
+820,A person in biking gear is standing steadily in front of some mountains ,The mountain gear is steadily placed in front of the standing biker,3.6,NEUTRAL
+822,There is no person in bike gear standing steadily in front of the mountains,A group of people is equipped with protective gear,2.3,NEUTRAL
+824,A group of people is equipped with gear used for protection,A person in biking gear is standing steadily in front of some mountains ,2,NEUTRAL
+825,A group of people is equipped with unprotective gear,A person in biking gear is standing steadily in front of some mountains ,2,NEUTRAL
+830,The little kid is playing football and falling harmlessly into the grass,The little kid is playing football and falling into the grass,4.6,ENTAILMENT
+831,There is no little kid playing football and falling into the grass,The little kid is playing football and falling into the grass,4.1,CONTRADICTION
+836,The football is between the feet of a boy who is lying on the grass,The little kid is playing football and falling into the grass,3.5,NEUTRAL
+839,The football is between the feet of a boy who is lying on the grass,The little kid is playing football and falling into the grass,3.7,NEUTRAL
+841,"A man with equipment used for climbing is hanging from a white, vertical rock.","A man with equipment used for climbing is under a vertical, white rock",3.9,NEUTRAL
+844,A woman with a ponytail is climbing down a wall of rock,A woman with a ponytail is climbing a wall of rock,4.085,ENTAILMENT
+845,A woman with a ponytail is climbing a wall of rock,A woman is tailing a pony near a rock climbing wall,2.9,NEUTRAL
+846,"A man with equipment used for climbing is hanging from a white, vertical rock.",A woman with pigtails is climbing a rock wall,2.1,NEUTRAL
+848,A woman is tailing a pony near a rock climbing wall,"A man with equipment used for climbing is hanging from a white, vertical rock.",1.8,NEUTRAL
+851,A woman with a ponytail is climbing a wall of rock,"The climbing equipment to rescue a man is hanging from a white, vertical rock",1.8,NEUTRAL
+852,"A man with equipment used for climbing is hanging from a white, vertical rock.",A woman with a ponytail is climbing a wall of rock,2.7,NEUTRAL
+855,A black and a white dog are joyfully running on the grass,A black person in white is joyfully running with the dog on the grass,2.4,NEUTRAL
+857,One white dog and one black one are sitting side by side on the grass,One white dog and one black one are running side by side on the grass,3.7,NEUTRAL
+858,One white dog and one black one are cheerfully running side by side on the grass,A black and a white dog are joyfully running on the grass,4.4,ENTAILMENT
+859,One white dog and one black one are sitting side by side on the grass,A black and a white dog are joyfully running on the grass,4.115,NEUTRAL
+862,A black person in white is joyfully running with the dog on the grass,One white dog and one black one are running side by side on the grass,2.3,NEUTRAL
+864,A lot of people are in an ice skating park,Not a lot of people are in an ice skating park,3.9,CONTRADICTION
+866,Many people are skating in an ice park,A lot of people are in an ice skating park,3.9,NEUTRAL
+867,The ice skating rink placed outdoors is full of people,An ice skating rink placed outdoors is full of people,4.9,ENTAILMENT
+868,An ice skating rink placed outdoors is empty,An ice skating rink placed outdoors is full of people,3.6,CONTRADICTION
+869,An ice skating rink placed outdoors is full of people,An ice skater is outdoors performing on a rink full of people,4,NEUTRAL
+870,The ice skating rink placed outdoors is full of people,A lot of people are in an ice skating park,4.2,ENTAILMENT
+872,A lot of people are in an ice skating park,An ice skater is outdoors performing on a rink full of people,3.5,NEUTRAL
+874,An ice skating rink placed outdoors is full of people,There aren't many people in the ice skating park,3.6,CONTRADICTION
+876,An ice skating rink placed outdoors is full of people,A lot of people are in an ice skating park,4.5,ENTAILMENT
+878,"A girl in a uniform, which is blue, is lowering her arm","A girl in a uniform, which is blue, is raising her arm.",3.4,NEUTRAL
+879,A girl is raising a blue uniform with her arm,"A girl in a uniform, which is blue, is raising her arm.",3.3,NEUTRAL
+880,The girl in the blue and white uniform is cheering,Some cheers are being performed by the girl in the blue and white uniform,4.9,ENTAILMENT
+881,The girl in the blue and white uniform isn't cheering,The girl in the blue and white uniform is cheering,4.1,CONTRADICTION
+883,Some cheers are being performed by the girl in the blue and white uniform,"A girl in a uniform, which is blue, is raising her arm.",4.2,NEUTRAL
+887,The girl in the blue and white uniform is cheering,"A girl in a uniform, which is blue, is lowering her arm",3.4,NEUTRAL
+888,A girl is raising a blue uniform with her arm,The girl in the blue and white uniform is cheering,3.2,NEUTRAL
+889,"A girl in a uniform, which is blue, is raising her arm.",The girl in the blue and white uniform is cheering,3.3,NEUTRAL
+892,People are on a beach full of sand by the ocean and are enjoying a sunny day,People are on a beach full of sand by the ocean and are enjoying a day full of sun,4.8,ENTAILMENT
+893,People are far from a beach full of sand by the ocean and are suffering from the sunny day,People are on a beach full of sand by the ocean and are enjoying a sunny day,2.9,NEUTRAL
+895,People are far from a beach full of sand by the ocean and are suffering from the sunny day,A bunch of people is on the shore,2.8,NEUTRAL
+898,People are on a beach full of sand by the ocean and are enjoying a sunny day,A bunch of people is on the shore,3.8,ENTAILMENT
+902,The man is doing a wheelie with a motorbike in a field which is mostly barren,The man is doing a wheelie with a motorcycle on ground which is mostly barren,4.4,ENTAILMENT
+904,The man is doing a wheelie with a motorcycle on ground which is mostly barren,"The man is on ground which is mostly barren, filming a wheelie done with a motorcycle.",3.5,NEUTRAL
+906,A man in a blue jumpsuit is courageously performing a wheelie on a motorcycle,The man is getting off a motorcycle onto ground which is mostly barren,3.5,NEUTRAL
+908,A man in a blue jumpsuit is courageously performing a wheelie on a motorcycle,The man is doing a wheelie with a motorcycle on ground which is mostly barren,4.1,NEUTRAL
+909,A man in a blue jumpsuit is failing to perform a wheelie on a motorcycle,The man is doing a wheelie with a motorcycle on ground which is mostly barren,3.4,NEUTRAL
+910,The man is doing a wheelie with a motorcycle on ground which is mostly barren,A courageous performer is doing a wheelie with a motorcycle over a man in a blue jumpsuit,3.6,NEUTRAL
+915,Two people are arguing near a crowd,Two people are kissing near a crowd,3,NEUTRAL
+917,Two people are passionately kissing near a crowd,A woman is being kissed by a man,4,NEUTRAL
+920,Two people are kissing near a crowd,A lady is being kissed by a man,4.1,NEUTRAL
+922,Two people are kissing near a crowd,A woman is being kissed by a man,4,NEUTRAL
+927,The young girl is blowing a bubble that is huge,The young girl is blowing a bubble that is very small,3.7,CONTRADICTION
+931,The young girl is blowing a bubble that is huge,The girl in a dyed red shirt isn't blowing a bubble,3.3,NEUTRAL
+932,"A bubble blew, dyeing the girl's shirt red.",The young girl is blowing a bubble that is huge,3,NEUTRAL
+935,A young child is barefoot and is walking past a puddle full of mud,A young child is wearing green boots and playing in a puddle full of mud,3.5,NEUTRAL
+936,A young child is wearing green boots and playing in a puddle full of mud,Some green boots in a puddle full of mud are targeted by a playful young child wearing a scarf,3,NEUTRAL
+940,A young child is wearing green boots and playing in a puddle full of mud,A little boy is jumping into a puddle in the street,3.8,NEUTRAL
+943,A little boy is jumping into a puddle on the street,A young child is wearing boots made of green rubber and playing in a puddle full of mud,4.2,NEUTRAL
+944,A young child is barefoot and is walking past a puddle full of mud,A little boy is jumping into a puddle on the street,2.9,NEUTRAL
+945,Some green boots in a puddle full of mud are targeted by a playful young child wearing a scarf,A little boy is jumping into a puddle on the street,2.6,NEUTRAL
+948,"Two toddlers are sleeping in a wagon, which is really small","Two toddlers are eating corndogs in a wagon, which is really small",3.4,NEUTRAL
+949,Two toddlers are eating on a really small wagon full of corndogs ,"Two toddlers are eating corndogs in a wagon, which is really small",3.9,NEUTRAL
+950,Two young kids are eating corndogs,Two young children are eating corndogs,4.9,ENTAILMENT
+953,"Two toddlers are eating corndogs in a wagon, which is really small",Two young children are eating corndogs,4.5,ENTAILMENT
+956,"Some corndogs are being eaten by two toddlers who are in a wagon, which is really small",Two young kids are eating corndogs,4.3,ENTAILMENT
+957,"Two toddlers are sleeping in a wagon, which is really small",Two young kids are eating corndogs,1.6,NEUTRAL
+959,"Two toddlers are eating corndogs in a wagon, which is really small",Two young kids are eating corndogs,4.3,ENTAILMENT
+960,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a face which looks funny,5,ENTAILMENT
+961,"A man in a shirt dyed purple is walking away from a man in a black shirt, who is serious",A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,3.4,ENTAILMENT
+962,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,"A man in a purple shirt is dying another shirt black, which has a man looking at a dog doing a funny face painted on it.",3,NEUTRAL
+963,A man in a pose is being amusedly watched by another man,A man doing a pose is being watched by another man,4.6,ENTAILMENT
+967,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,There is no man in a pose being watched by another man,3.6,NEUTRAL
+970,A man doing a pose is being watched by another man,"A man in a shirt dyed purple is walking away from a man in a black shirt, who is serious",2.8,NEUTRAL
+973,A horse is tossing the cowboy wearing pants of blue and red color,The cowboy in blue and red pants is being tossed by a horse,4.9,ENTAILMENT
+975,A horse is tossing the cowboy wearing pants of blue and red color,The cowboy is tossing the blue and red pants towards the horse,2.9,NEUTRAL
+978,A man is laying a cover over a wild horse that is falling on the track,A man is falling off a horse on a track and is laid in the wild,3,NEUTRAL
+979,A man is abruptly falling off a horse on a track laid in the wild,A horse is tossing the cowboy wearing pants of blue and red color,3.4,NEUTRAL
+984,A man is falling off a horse on a track and is laid in the wild,The cowboy is tossing the blue and red pants towards the horse,2.2,NEUTRAL
+985,A man is falling off a horse on a track and is laid in the wild,A horse is tossing the cowboy wearing pants of blue and red color,2.7,NEUTRAL
+989,"The man and the boy are standing at the bottom of the stairs, which are outdoors","A man and a boy are standing at the bottom of some stairs, which are outdoors",5,ENTAILMENT
+991,"The man and the boy are standing at the bottom of the stairs, which are outdoors",The man is standing outdoor and the boy is falling over the bottom of the stairs,3.3,NEUTRAL
+994,An adult is in the amphitheater and is talking to a boy,The man is standing outdoor and the boy is falling over the bottom of the stairs,2,NEUTRAL
+996,There is no adult in the amphitheater talking to a boy,"The man and the boy are standing at the bottom of the stairs, which are outdoors",2.2,NEUTRAL
+998,"The man and the boy are standing at the bottom of the stairs, which are outdoors",An adult is in the amphitheater and is talking to a boy,1.8,NEUTRAL
+1000,A boy in a red shirt is in front of a long blue wall and is suspiciously raising an eyebrow at the camera,"A boy in a red shirt is behind a long blue wall and is lowering an eyebrow, facing the camera",4,NEUTRAL
+1002,There is no boy standing in front of the blue building in the space reserved for handicapped people,A boy is standing in front of the blue building in the space reserved for handicapped people,4.1,CONTRADICTION
+1004,A boy in a red shirt is in front of a long blue wall and is suspiciously raising an eyebrow at the camera,There is no boy standing in front of the blue building in the space reserved for handicapped people,2,NEUTRAL
+1007,A boy in a red shirt is in front of a long blue wall and is suspiciously raising an eyebrow at the camera,A boy is standing in front of the blue building in the space reserved for handicapped people,2.4,NEUTRAL
+1008,"The Jockeys are riding horses on the field, which is completely green","The Jockeys are racing horses on the field, which is completely green",4.7,ENTAILMENT
+1009,"The Jockeys are racing horses on the field, which is completely green","The Jockeys are slowing down their horses on the field, which is completely green",4.2,NEUTRAL
+1010,The green field for horse races is completely full of Jockeys,"The Jockeys are racing horses on the field, which is completely green",4,ENTAILMENT
+1016,Some furious racers on the green grass are yelling at the horses jumping an obstacle,"The Jockeys are racing horses on the field, which is completely green",2.8,NEUTRAL
+1018,Some horses are racing furiously over the green grass and jumping an obstacle,"The Jockeys are slowing down their horses on the field, which is completely green",3,NEUTRAL
+1019,Some horses are racing furiously over the green grass and jumping an obstacle,The green field for horse races is completely full of Jockeys,3.9,NEUTRAL
+1021,A woman is wearing sunglasses of large size and is holding newspapers in both hands,The woman is wearing sunglasses of large size and is holding newspapers in both hands,5,ENTAILMENT
+1022,A woman is wearing sunglasses of large size and is holding newspapers in both hands,There is no woman wearing sunglasses of large size and holding newspapers in both hands,3.8,CONTRADICTION
+1026,An old woman is wearing a shirt with a rose pattern upon it and is clumsily carrying two newspapers,A woman is wearing sunglasses of large size and is holding newspapers in both hands,3.6,NEUTRAL
+1028,An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers,The woman is wearing sunglasses of large size and is holding newspapers in both hands,3.5,NEUTRAL
+1029,An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers,There is no woman wearing sunglasses of large size and holding newspapers in both hands,3,NEUTRAL
+1031,An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers,A woman is wearing sunglasses of large size and is holding newspapers in both hands,3.8,NEUTRAL
+1033,A person who is practicing snowboarding falls from the air,A person who is practicing snowboarding jumps into the air,3.5,NEUTRAL
+1037,The snowboarder is leaping over white snow,A leap over white snow is greatly appealing to the snowboarders,3.2,NEUTRAL
+1038,The snowboarder is leaping fearlessly over white snow,A person who is practicing snowboarding jumps into the air,3.9,ENTAILMENT
+1043,A practicing jumper is tossing a person's snowboard into the air,The snowboarder is leaping over white snow,2.8,NEUTRAL
+1044,The snowboarder is leaping over white snow,A person who is practicing snowboarding jumps into the air,4.1,ENTAILMENT
+1045,"A dog is near a ball colored in red, which is in the air",A dog is near the red ball in the air,4.9,ENTAILMENT
+1046,A dog is near the red ball in the air,A dog is far from the red ball in the air,3.6,CONTRADICTION
+1047,A dog is jumping in the air to catch a red ball,A dog is near the red ball in the air,4.2,NEUTRAL
+1048,"A dog, which is small, is playing tirelessly on the green grass","A dog, which is small, is playing on the green grass",4.7,ENTAILMENT
+1049,"A dog, which is small, is playing on the green grass","A dog, which is small, is running out of the green grass",3.9,NEUTRAL
+1050,"A dog, which is small, is playing on the green grass",A small kid is playing with a green toy dog on the grass,2.8,NEUTRAL
+1052,"A dog, which is small, is running out of the green grass",A dog is near the red ball in the air,2.6,NEUTRAL
+1053,A dog is near the red ball in the air,A small kid is playing with a green toy dog on the grass,1.8,NEUTRAL
+1054,"A dog, which is small, is playing on the green grass","A dog is near a ball colored in red, which is in the air",2.4,NEUTRAL
+1055,A dog is far from the red ball in the air,"A dog, which is small, is playing on the green grass",2,NEUTRAL
+1057,A dog is near the red ball in the air,"A dog, which is small, is playing on the green grass",2.7,NEUTRAL
+1061,A man is riding a motorbike in the event related to motocross,A person is riding a motorbike in the event related to motocross,4.4,ENTAILMENT
+1064,The person is riding a motorbike on a sandy track,A man is riding a motorbike in the event related to motocross,3.6,NEUTRAL
+1065,There is no person riding a motorbike in the event related to motocross,The person is riding a motorbike on a sandy track,3.565,NEUTRAL
+1068,A person is riding a motorbike in the event related to motocross,The person isn't riding a motorbike on a sandy track,3.3,NEUTRAL
+1069,A motorbike rider is jumping over a person on a sandy track,A person is riding a motorbike in the event related to motocross,3.3,NEUTRAL
+1074,The young girl with a pink shirt is peacefully lying on the grass,The young girl with a pink shirt isn't peacefully lying on the grass,4.5,CONTRADICTION
+1076,A girl is wearing a pink shirt with white writing on it and is lying in the grass,The young girl with a shirt dyed pink is peacefully lying on the grass,4.1,NEUTRAL
+1080,The young girl with a pink shirt is peacefully lying on the grass,A girl is naked and is standing on the grass,3.3,NEUTRAL
+1082,A dog of large size is running on the grass with a tennis ball in its mouth,A large dog is running on the grass with a tennis ball in its mouth,4.7,ENTAILMENT
+1083,There is no large dog running on the grass with a tennis ball in its mouth,A large dog is running on the grass with a tennis ball in its mouth,3.5,CONTRADICTION
+1084,A large dog is running on the grass with a tennis ball in its mouth,A large tennis ball is being used to teach a dog to run in the grass and catch it with its mouth,3.8,NEUTRAL
+1087,"A dog, which is large and gray, is carrying a ball in its mouth and running across the grass","A large, gray ball is hitting a running dog, which is carrying some grass in its mouth",3.1,NEUTRAL
+1088,A large dog is running on the grass with a tennis ball in its mouth,"A dog, which is large and gray, is difficultly carrying a ball in its mouth and running across the grass",4.2,NEUTRAL
+1090,"A large, gray ball is hitting a running dog, which is carrying some grass in its mouth",A large dog is running on the grass with a tennis ball in its mouth,2.45,NEUTRAL
+1091,"A dog, which is large and gray, is carrying a ball in its mouth and running across the grass",A dog of large size is running on the grass with a tennis ball in its mouth,4.2,NEUTRAL
+1092,"A dog, which is large and gray, is carrying a ball in its mouth and running across the grass",There is no large dog running on the grass with a tennis ball in its mouth,3.4,NEUTRAL
+1093,A large tennis ball is being used to teach a dog to run in the grass and catch it with its mouth,"A dog, which is large and gray, is carrying a ball in its mouth and running across the grass",3.2,NEUTRAL
+1094,"A dog, which is large and gray, is carrying a ball in its mouth and running across the grass",A large dog is running on the grass with a tennis ball in its mouth,4.4,ENTAILMENT
+1095,A man is opening a small package that contains headphones,A man is opening a package that contains headphones,4.9,ENTAILMENT
+1097,A man is opening a package that contains headphones,A man who is wearing headphones is opening a package ,2.9,NEUTRAL
+1099,There is no woman riding a horse,A woman is riding a horse,2.8,CONTRADICTION
+1104,A man who is wearing headphones is opening a package ,A woman is riding a horse,1.2,NEUTRAL
+1105,A woman is riding a horse,A man is opening a package that contains headphones,1.1,NEUTRAL
+1108,A man is opening a package that contains headphones,A man who is wearing headphones is opening a package ,2.8,NEUTRAL
+1109,A man is singing and playing the guitar,A man is singing a song and playing the guitar,4.9,ENTAILMENT
+1111,A man is singing a song and playing the guitar,A man is opening a package that contains headphones,1.2,NEUTRAL
+1112,A man is opening a package that contains headphones,There is no man singing and playing the guitar,1.2,NEUTRAL
+1115,A man is singing and playing the guitar,A man who is wearing headphones is opening a package ,1.9,NEUTRAL
+1117,A dog is riding a skateboard in a park,A dog is riding a skateboard,4.3,ENTAILMENT
+1118,A dog is riding a skateboard,There is no dog riding a skateboard,3.5,CONTRADICTION
+1120,A dog is riding a skateboard,There is no dog riding a skateboard,3.2,CONTRADICTION
+1122,There is no dog riding a skateboard,A dog is riding a skateboard,3.8,CONTRADICTION
+1128,A fish is hunting for a turtle in the sea,A sea turtle is hunting for fish,3.9,NEUTRAL
+1129,The turtle is following the red fish,The turtle is following the fish,4.6,ENTAILMENT
+1133,A sea turtle is hunting for fish,The turtle isn't following the fish,3.2,NEUTRAL
+1135,The turtle is following the fish,A sea turtle is hunting for food,3.9,NEUTRAL
+1145,A woman is dipping a shrimp in batter,The car is being driven by a man,1.4,NEUTRAL
+1147,A woman is dipping a shrimp in batter,A man is driving a car,1,NEUTRAL
+1149,There is no man playing a guitar,A man is playing a guitar,2.8,CONTRADICTION
+1153,There is no man playing a piano,A man is playing a guitar,2.5,NEUTRAL
+1154,A man is playing a guitar under a windows,A man is playing a piano,2.4,NEUTRAL
+1155,There is no man playing a guitar,A man is playing a piano,3.2,NEUTRAL
+1157,A woman is adding ingredients to a big bowl,A woman is adding ingredients to a bowl,4.6,ENTAILMENT
+1161,A woman is cracking some eggs into a container,A woman is adding ingredients to a bowl,4.3,NEUTRAL
+1162,A woman is cracking some eggs outside a bowl,A woman is adding ingredients to a bowl,3.5,NEUTRAL
+1165,A woman is cracking some eggs into a bowl,A woman is adding ingredients to a bowl,4.1,ENTAILMENT
+1167,There is no woman slicing a carrot,A woman is slicing a carrot,4.1,CONTRADICTION
+1169,There is no woman slicing a potato,A woman is slicing a potato,3.9,CONTRADICTION
+1175,A woman is cooking prawns,A woman is boiling shrimps,4.1,NEUTRAL
+1179,A woman is boiling shrimps,A woman is arranging her hair,1.2,NEUTRAL
+1180,A woman is boiling shrimps,There is no woman combing her hair,1,NEUTRAL
+1182,A woman is not boiling shrimps,A woman is combing her hair,1.5,NEUTRAL
+1184,A man and a woman are hiking through a wooded area,A man and a woman are walking through a wooded area,4.5,ENTAILMENT
+1188,A man and a woman are walking together through wooded areas,A man and a woman are walking through a wooded area,4.5,ENTAILMENT
+1191,A man and a woman are walking together through the woods,A man and a woman are walking through a desert area,3.8,NEUTRAL
+1193,A man is making a speech on a podium,A man is speaking on a podium,4.8,ENTAILMENT
+1194,A man is speaking on a podium,There is no man speaking on a podium,3,CONTRADICTION
+1195,A man is speaking on a podium,A podium is where a man is speaking,4.8,ENTAILMENT
+1196,A man is tanking on a stage in front of a crowd,A man is speaking on a stage,3.4,NEUTRAL
+1200,A man is speaking on a podium,There is no man speaking on a stage,3.4,NEUTRAL
+1202,A man is making a speech on a podium,A man is speaking on a stage,4.1,NEUTRAL
+1205,A man is speaking on a stage,A man is speaking on a podium,4.3,NEUTRAL
+1206,A woman is talking on a telephonic device,A woman is talking on a telephone,4.7,ENTAILMENT
+1207,A woman is not talking on a telephone,A woman is talking on a telephone,3.5,CONTRADICTION
+1212,A woman is talking on a telephonic device,Two boys are talking on the phone,2.5,NEUTRAL
+1213,A woman is not talking on a telephone,Two boys are talking on the phone,2.8,NEUTRAL
+1214,A woman is talking on a telephone,Two boys are talking on the phone,3.1,NEUTRAL
+1215,A monkey is wading through a marsh,A monkey is wading through a river,4,NEUTRAL
+1219,A small monkey is walking in the river,A monkey is wading through a marsh,3.9,NEUTRAL
+1221,A monkey is wading through a river,A small monkey is walking through water,4.3,NEUTRAL
+1222,A small monkey is walking through water,There is no monkey wading through a marsh,3.7,NEUTRAL
+1227,A man is slicing a tomato,There is no man slicing a tomato,3.3,CONTRADICTION
+1228,A man is slicing a red tomato,A man is slicing a bun,3.2,NEUTRAL
+1230,A man is cutting a bun,A man is slicing a tomato,2.9,NEUTRAL
+1239,A woman is dancing and singing with other women,A woman is performing in the rain,3.4,NEUTRAL
+1240,There is no woman dancing and singing in the rain,A woman is dancing and singing with other women,3.1,NEUTRAL
+1242,A woman is removing the peel of a potato,A woman is peeling a potato,4.9,ENTAILMENT
+1244,A man is slicing a red tomato,A woman is slicing a tomato,3.1,NEUTRAL
+1246,A woman is peeling a potato,A man is slicing a red tomato,2.3,NEUTRAL
+1248,A woman is removing the peel of a potato,A woman is slicing a tomato,3.2,NEUTRAL
+1249,A woman is slicing a tomato,There is no woman peeling a potato,1.8,NEUTRAL
+1251,A woman is amalgamating eggs,A woman is mixing eggs,4.5,ENTAILMENT
+1255,The hungry woman is eating,A woman is mixing eggs,2.5,NEUTRAL
+1259,The woman is eating,A woman is mixing eggs,2.2,NEUTRAL
+1268,A band is performing on a stage,A band is playing onstage,4.9,ENTAILMENT
+1270,There is no man mixing,A man is mixing,3.7,CONTRADICTION
+1271,A man is arranging the garden,A man is mowing a lawn,3,NEUTRAL
+1273,A man is mixing,A man is arranging the garden,1.5,NEUTRAL
+1274,A man is mixing,A man is not mowing a lawn,1.9,NEUTRAL
+1275,A man is shaking a drink,A man is mowing a lawn,1.6,NEUTRAL
+1276,There is no man mixing,A man is mowing a lawn,1.2,NEUTRAL
+1280,A man is walking in a yard,A man is walking outside,4.1,ENTAILMENT
+1282,A man is dancing,A man is walking in a yard,2.2,NEUTRAL
+1283,There is no man walking outside,A man is dancing,1.6,NEUTRAL
+1284,A man is moving gracefully,A man is walking outside,3.2,NEUTRAL
+1287,A black cat is swinging on a fan,A cat is swinging on a fan,4.5,ENTAILMENT
+1291,A cat is swinging on a fan,A cat is stuck on a ceiling fan that is moving,4.1,NEUTRAL
+1292,A cat is playing on a moving ceiling fan,A cat is swinging on a fan,4.635,ENTAILMENT
+1293,A black cat is swinging on a fan,A cat is stuck on a moving ceiling fan,3.8,NEUTRAL
+1294,A cat is stuck on a moving ceiling fan,There is no cat swinging on a fan,2.8,CONTRADICTION
+1297,A man is playing flute,There is no man playing flute,3.5,CONTRADICTION
+1303,A man is playing flute,There is no man playing soccer,1.3,NEUTRAL
+1305,A man is making music with a flute,A man is playing soccer,1.1,NEUTRAL
+1308,A man is playing flute,A man is playing soccer,1.7,NEUTRAL
+1311,A person is performing a card trick,A person is doing a trick with some cards,4.8,ENTAILMENT
+1317,A person is performing a card trick,A man is frying a tortilla,1,NEUTRAL
+1318,A boy is spanking a man with a plastic sword,A boy is spanking a man with a toy weapon,4.5,ENTAILMENT
+1319,A boy is spanking a man with a plastic sword,A boy is spanking a woman with a plastic sword,3.5,NEUTRAL
+1321,A boy is whacking a man with a sword,A man is being hit by a kid with a weapon,4.4,ENTAILMENT
+1326,A man is whacking a boy with a sword,A boy is spanking a man with a plastic sword,3.5,NEUTRAL
+1328,A boy is whacking a man with a sword,A boy is spanking a woman with a plastic sword,3.5,NEUTRAL
+1329,A boy is whacking a man with a sword,A man is spanking a boy with a plastic sword,3.3,NEUTRAL
+1335,The lady is measuring the ankle of another woman,A woman is being measured by another woman,4.4,ENTAILMENT
+1336,The woman is measuring a man,The lady is measuring the ankle of another woman,3,NEUTRAL
+1341,There is no man making a phone call,A man is making a phone call,3.4,CONTRADICTION
+1342,A man is talking on a cell phone,A man is making a call on a cell phone,4.8,ENTAILMENT
+1344,A man is talking on a cell phone,A man is making a phone call,4.3,NEUTRAL
+1345,A man is hanging up the phone,A man is making a phone call,3.8,NEUTRAL
+1346,A man is making a call on a cell phone,A man is talking on the phone,4.2,NEUTRAL
+1350,There is no dog rolling from side to side,A dog is rolling from side to side,3.8,CONTRADICTION
+1352,There is no puppy rolling,A puppy is repeatedly rolling from side to side on its back,3.8,CONTRADICTION
+1354,A dog is rolling from side to side,There is no puppy rolling,3.6,NEUTRAL
+1355,A puppy is repeatedly rolling from side to side on its back,An animal is rolling from side to side in a garden,4.1,NEUTRAL
+1358,A machine is sharpening a pencil,A pencil is being sharpened,4.5,ENTAILMENT
+1359,A machine is sharpening a knife,A machine is sharpening a pencil,2.9,NEUTRAL
+1361,The machine is not shaving a pencil,The machine is shaving the end of a pencil,3.8,CONTRADICTION
+1365,A machine is sharpening a knife,The machine is shaving the end of a pencil,2.1,NEUTRAL
+1368,There is no man playing a keyboard,A man is playing a keyboard,3.7,CONTRADICTION
+1371,A man is playing a keyboard,A pianist is playing the keyboard,4.2,NEUTRAL
+1372,A person is not playing the keyboard,A man is playing a keyboard,2.6,CONTRADICTION
+1373,A man is playing a keyboard in a park,A person is playing the keyboard,4.3,ENTAILMENT
+1376,A man is rinsing a large steak,A man is rinsing a large piece of meat,4.6,ENTAILMENT
+1378,A steak is being rinsed with water by a person,A person is rinsing a steak with water,5,ENTAILMENT
+1379,Nobody is rinsing a steak with water,A person is rinsing a steak with water,4,CONTRADICTION
+1380,A steak is being rinsed with water by a person,A man is rinsing a large steak,4.2,NEUTRAL
+1381,Nobody is rinsing a steak with water,A man is rinsing a large steak,3.8,CONTRADICTION
+1384,A man is rinsing a large steak,A person is rinsing a steak with water,4.6,NEUTRAL
+1385,A person is chopping a red onion,A person is chopping an onion,4.6,ENTAILMENT
+1386,A person is not chopping an onion,A person is chopping an onion,4.4,CONTRADICTION
+1387,A person is riding an old motorcycle,A person is riding a motorcycle,4.4,ENTAILMENT
+1388,A person is riding a motorcycle,A person is standing near a motorcycle,3.3,CONTRADICTION
+1389,A person is chopping an onion,A person is riding an old motorcycle,1.1,NEUTRAL
+1399,There is no man screaming,A man is crying,2.1,NEUTRAL
+1403,Butter is being chopped into a container by a man,A man is chopping butter into a container,5,ENTAILMENT
+1404,A man is chopping butter into a small container,A man is chopping butter into a container,4.8,ENTAILMENT
+1405,A prawn is being cut by a woman,A woman is cutting shrimps,4,NEUTRAL
+1407,A man is chopping butter into a container,A prawn is being cut by a woman,2.3,NEUTRAL
+1408,A woman is not cutting shrimps,A man is chopping butter into a container,1.8,NEUTRAL
+1409,Butter is being chopped into a container by a man,A woman is cutting shrimps,1.4,NEUTRAL
+1414,Some men are sawing,Men are sawing,4.8,ENTAILMENT
+1415,Some men are sawing,There are no men sawing,3.9,CONTRADICTION
+1417,Men are sawing logs,There are no men sawing,3.9,CONTRADICTION
+1419,Some men are sawing,Women are sawing logs,3.8,NEUTRAL
+1421,A woman is washing her feet,A woman is brushing her feet,3.7,NEUTRAL
+1427,A woman is chopping an onion,A woman is washing her feet,1,NEUTRAL
+1429,A woman is brushing her feet,A woman is chopping an onion,1.2,NEUTRAL
+1431,A man is playing a guitar,A man is not playing a guitar,3.4,CONTRADICTION
+1432,A man is playing a keyboard,A musician is playing a keyboard,4.2,ENTAILMENT
+1434,A man is playing a guitar,A musician is playing a keyboard,2.3,NEUTRAL
+1435,There is no man playing a keyboard,A man is playing a guitar,2.7,NEUTRAL
+1438,A man is playing a guitar,A man is playing a keyboard,3,NEUTRAL
+1444,A man is laughing,A man is spitting,3.3,NEUTRAL
+1446,There is no man spitting,A man is talking,1.7,NEUTRAL
+1448,A man is spreading dough,Dough is being spread by a man,4.8,ENTAILMENT
+1453,A man is spreading dough,There is no woman slicing meat with a knife,1.1,NEUTRAL
+1455,A woman is slicing meat with a knife,A man is lumping dough,1.7,NEUTRAL
+1458,A baby is laughing,A baby is crying,3.1,NEUTRAL
+1461,A man is doing physical activity,A baby is laughing,1.1,NEUTRAL
+1463,A man is exercising,A happy baby is laughing,1,NEUTRAL
+1464,A baby is crying,A man is exercising,1,NEUTRAL
+1466,Three men are jumping off a tall wall,Three men are jumping off a wall,4.9,ENTAILMENT
+1467,Three men are jumping on a wall,Three men are jumping off a wall,4,CONTRADICTION
+1473,"Three young men are running, jumping and kicking near a vending machine",Three men are jumping on a wall,2.8,NEUTRAL
+1474,Three men are jumping off a wall,"Three young men are running, jumping and kicking near a vending machine",2.7,NEUTRAL
+1476,A deer is standing inside a fence,A deer is jumping over a cyclone fence,3.3,NEUTRAL
+1479,The deer is jumping over the low fence,A deer is jumping over a cyclone fence,3.8,NEUTRAL
+1480,A deer is jumping over a cyclone fence,The deer is not jumping over the fence,3.7,CONTRADICTION
+1481,A deer is jumping over a wall,The deer is jumping over the fence,4,NEUTRAL
+1482,A deer is standing inside a fence,The deer is jumping over the fence,3.5,CONTRADICTION
+1483,A deer is jumping over a cyclone fence,The deer is jumping over the fence,4.6,ENTAILMENT
+1484,The oil is being stirred by a man,The man is stirring oil,4.9,ENTAILMENT
+1486,The man is stirring the sauce for the chicken,The man is cooking sauce for the meat,4.1,NEUTRAL
+1488,The man is stirring oil,The man is cooking sauce for the meat,3.2,NEUTRAL
+1489,The man is stirring oil,The man is not stirring the sauce for the chicken,3.2,NEUTRAL
+1494,There is no man playing guitar,A man is playing guitar,4.3,CONTRADICTION
+1498,A man is playing guitar,There is no man playing a guitar,4.1,CONTRADICTION
+1499,A man is playing an electric guitar,A man is playing a guitar,4.5,ENTAILMENT
+1501,A man is playing a guitar,A man is playing guitar,4.9,ENTAILMENT
+1504,Three men are practicing karate in a field,Three men are practicing karate outdoors,4.5,ENTAILMENT
+1505,Three men are practicing karate in a field,Three men are practicing karate in a gym,3.7,NEUTRAL
+1509,Three boys in karate costumes aren't fighting,Three men are practicing karate in a field,2.4,NEUTRAL
+1511,Some women are holding each other in a circle and dancing,A few women are holding each other and dancing together,3.9,ENTAILMENT
+1513,Two men are playing table tennis,Two men are playing ping pong,4.3,ENTAILMENT
+1514,Two men are playing table football,Two men are playing table tennis,2.8,CONTRADICTION
+1517,Some women are holding each other in a circle and dancing,Two men are playing table tennis,1.1,NEUTRAL
+1519,Two men are playing table tennis,A few women are holding each other and dancing together,1.1,NEUTRAL
+1521,There is no woman cutting broccoli,A woman is cutting broccoli,3.4,CONTRADICTION
+1523,A woman is planting some flowers,A woman is cutting some flowers,3.1,NEUTRAL
+1524,A woman is cutting some plants,A woman is cutting broccoli,3.5,NEUTRAL
+1527,A woman is cutting some flowers,There is no woman cutting broccoli,2.3,NEUTRAL
+1531,A woman is cutting a white onion,A woman is cutting an onion,4.4,ENTAILMENT
+1532,A woman is cutting an onion,There is no woman cutting an onion,3.5,CONTRADICTION
+1534,There is no woman cutting an onion,A horse is standing,1,NEUTRAL
+1535,A white horse is standing,A woman is cutting an onion,1,NEUTRAL
+1536,A horse is running,A woman is cutting an onion,1,NEUTRAL
+1538,A cat is playing a piano,A cat is playing a keyboard,4.1,NEUTRAL
+1541,A man is playing two keyboards,There is no man playing two keyboards,2.4,CONTRADICTION
+1545,A man is playing two keyboards,There is no cat playing a keyboard,2.3,NEUTRAL
+1547,Mimes are performing on a small stage,Mimes are performing on a stage,4.8,ENTAILMENT
+1549,The men are acting on a stage,The men are performing on stage,4.4,ENTAILMENT
+1550,Two men are leaving the stage,The men are performing on stage,3.5,NEUTRAL
+1551,The men are acting on a stage,Mimes are performing on a stage,3.6,NEUTRAL
+1552,Two men are leaving the stage,Mimes are performing on a stage,3.1,NEUTRAL
+1553,The men are performing on stage,Mimes are performing on a small stage,3.5,NEUTRAL
+1557,A man is dropping a tree,A man is carrying a tree,3.6,NEUTRAL
+1558,A man is picking up a tree,A tree is being picked up by a man,4.9,ENTAILMENT
+1559,A man is planting a tree,A man is picking up a tree,3.9,NEUTRAL
+1563,A man is picking up a tree,A man is dropping a tree,3.5,NEUTRAL
+1565,A man is passionately playing the guitar,A man is playing the guitar,4.6,ENTAILMENT
+1566,A man is playing the guitar,There is no man playing the guitar,3.5,CONTRADICTION
+1570,A person is listening to a trumpet playing,A person is playing a trumpet,3.5,NEUTRAL
+1573,A man is playing the guitar,A person is listening to a trumpet playing,1.5,NEUTRAL
+1574,A person is playing a trumpet,A man is passionately playing the guitar,2.5,NEUTRAL
+1575,A person is playing a trumpet,There is no man playing the guitar,2.5,NEUTRAL
+1576,A man is playing the guitar owner,A person is playing a trumpet,2.5,NEUTRAL
+1580,"A badger, which is shrewd, is digging the earth",A badger is shrewdly digging the earth,4.5,ENTAILMENT
+1582,"A badger, which is shrewd, is digging the earth",The badger is burrowing a hole,4,ENTAILMENT
+1585,A badger is shrewdly digging the earth,The badger isn't burrowing a hole,2.7,CONTRADICTION
+1586,A badger is shrewdly digging the earth,The badger is burrowing a hole,4.2,ENTAILMENT
+1587,Some liquid is being poured into a pan by a man,A man is pouring liquid into a pot,4.6,ENTAILMENT
+1588,A man is pouring liquid into a pot,There is no man pouring liquid into a pot,3.7,CONTRADICTION
+1591,The chef is carefully pouring oil in the pan,A man is pouring liquid into a pot,3.2,NEUTRAL
+1592,A man is pouring liquid into a pot,The chef is carefully drying the oil from the pan,2.3,NEUTRAL
+1595,A man is pouring liquid into a pot,The chef is carefully pouring some oil into a pan,4.1,NEUTRAL
+1599,The man is operating a stenograph,The man isn't operating a stenograph,3.3,CONTRADICTION
+1601,The man is cautiously operating a stenograph,A man is typing on a machine used for stenography,4.2,NEUTRAL
+1604,The man is typing on a machine used for stenography,The man is operating a stenograph,4.8,ENTAILMENT
+1606,The man is operating a stenograph,A man is typing on a machine used for stenography,4.7,ENTAILMENT
+1607,A snake is being fed a mouse by a man,One man is feeding a mouse to the snake,4.7,ENTAILMENT
+1609,A poor man is being fed snakes and mice,A snake is being fed a mouse by a man,2.3,NEUTRAL
+1610,The man is carefully feeding a mouse to the snake,The man is cautiously feeding a mouse to the snake,4.8,ENTAILMENT
+1612,The man is carefully feeding a mouse to the snake,A snake is being fed a mouse by a man,4.8,ENTAILMENT
+1614,The man is cautiously feeding a mouse to the snake,One man is feeding a mouse to the snake,4.6,ENTAILMENT
+1615,No snake is being fed a mouse by a man,The man is cautiously feeding a mouse to the snake,3.4,CONTRADICTION
+1618,A guy is cheerfully playing with the footbag,A guy is cheerfully playing with a footbag,4.9,ENTAILMENT
+1621,The man isn't playing the piano,The man is playing a piano,3.6,CONTRADICTION
+1625,The man is playing a piano,There is a guy cheerfully playing with a footbag,1.5,NEUTRAL
+1626,The man is playing a piano,A guy is cheerfully playing with a footbag,1.3,NEUTRAL
+1627,A man is mixing a few ingredients in a bowl,Some ingredients are being mixed in a bowl by a person,4.5,ENTAILMENT
+1629,A person is bowling the ingredients to the man at the mixer,Some ingredients are being mixed in a bowl by a person,2.8,NEUTRAL
+1631,A woman is breaking two eggs in a bowl,There is no woman breaking eggs in a bowl,3.4,CONTRADICTION
+1632,A woman is breaking two eggs in a bowl,A woman is bowling two eggs to a break dancer ,2,NEUTRAL
+1635,Some ingredients are being mixed in a bowl by a person,A woman is bowling two eggs to a break dancer ,1.6,NEUTRAL
+1639,A woman is breaking two eggs in a bowl,Some ingredients are being mixed in a bowl by a person,3.3,NEUTRAL
+1640,The girl is recklessly jumping onto a car,The girl is recklessly jumping onto a vehicle,4.6,ENTAILMENT
+1641,The girl is recklessly jumping onto a car,The girl isn't jumping onto the car recklessly,3.6,CONTRADICTION
+1643,One young lady is jumping on the car,One girl is jumping on the car,4.9,ENTAILMENT
+1646,The girl is recklessly jumping onto a car,One young lady is jumping on the car,4.4,ENTAILMENT
+1647,The girl is recklessly jumping onto a car,There is no girl jumping into the car,3.6,NEUTRAL
+1648,A girl is on a jumping car,The girl is recklessly jumping onto a car,4,NEUTRAL
+1649,The girl is recklessly jumping onto a vehicle,One girl is jumping on the car,4.2,NEUTRAL
+1650,The girl isn't jumping onto the car recklessly,One girl is jumping on the car,3.3,NEUTRAL
+1651,A car is riskily jumping over a girl,One girl is jumping on the car,2.9,NEUTRAL
+1652,The girl is recklessly jumping onto a car,One girl is jumping on the car,4.4,ENTAILMENT
+1653,One woman is slowly peeling a potato,One woman is peeling a potato,4.7,ENTAILMENT
+1655,A woman is throwing a potato peel,One woman is peeling a potato,3.6,NEUTRAL
+1657,The potato is being peeled by a woman,The potato isn't being peeled by a woman,3.2,CONTRADICTION
+1659,One woman is peeling a potato,The potato isn't being peeled by a woman,3.6,CONTRADICTION
+1660,One woman is slowly peeling a potato,The potato is being peeled by a woman,4.5,ENTAILMENT
+1661,There is no woman peeling a potato,The potato is being peeled by a woman,3.5,CONTRADICTION
+1663,The potato is being peeled by a woman,One woman is peeling a potato,4.8,ENTAILMENT
+1668,The guitar is being played by the man,The guitar is being played by nobody,3.9,CONTRADICTION
+1669,The guitar is being played by the man,The man is a guitar player,4.8,ENTAILMENT
+1670,A boat is sailing peacefully over the water,The guitar is being played by a man,1,NEUTRAL
+1671,The guitar is being played by nobody,A boat is sailing peacefully over the water,1,NEUTRAL
+1673,A boat is sailing quietly over the water,The guitar is being played by the man,1,NEUTRAL
+1675,A boat's sail is being reflected by the peaceful water,The guitar is being played by the man,1,NEUTRAL
+1677,The man is pouring oil on a few tomatoes,One person pours oil on a few tomatoes,4.6,ENTAILMENT
+1680,Some oil is being poured on the tomatoes by the man,The man is pouring some oil on the tomatoes,4.8,ENTAILMENT
+1682,The man is pouring some oil on the tomatoes,Somebody is pouring tomato oil on the man,2.4,NEUTRAL
+1687,The man is pouring some oil on the tomatoes,A man isn't pouring oil on the tomatoes.,3,CONTRADICTION
+1691,There is no milk being drunk by a cat,The milk is being drunk by a cat,3.7,CONTRADICTION
+1694,A kitten is drinking fresh milk,There is no kitten drinking milk,3.7,CONTRADICTION
+1697,There is no kitten drinking milk,The milk is being drunk by a cat,3.7,NEUTRAL
+1700,A kitten is drinking fresh milk,There is no milk being drunk by a cat,3.7,CONTRADICTION
+1702,A kitten is drinking fresh milk,The milk is being drunk by a cat,4.2,ENTAILMENT
+1705,A frog is being held carelessly by a man,A man is carelessly holding a frog,4.8,ENTAILMENT
+1706,A man is carelessly holding a frog,A man is carelessly dropping a frog,3.6,NEUTRAL
+1707,A man is emptying a container made of plastic,A frog is being held carelessly by a man,1.1,NEUTRAL
+1708,A man is emptying a container made of plastic,A man is carelessly dropping a frog,1.2,NEUTRAL
+1712,A man is slicing an onion,An onion is being sliced by a man,4.9,ENTAILMENT
+1714,A man is eating onion slices,A man is slicing an onion,3.7,NEUTRAL
+1715,An onion is being cut by a man,The onion is being cut by the man,4.9,ENTAILMENT
+1716,No onion is being cut by a man,An onion is being cut by a man,3.1,CONTRADICTION
+1719,An onion is being sliced by a man,An onion is being cut by a man,4.8,ENTAILMENT
+1721,An onion is being cut by a man,A man is eating onion slices,3.2,NEUTRAL
+1723,A man is recklessly riding a horse,A person is recklessly riding a horse,4.2,ENTAILMENT
+1724,A man is recklessly riding a horse,There is no man recklessly riding a horse,4.1,CONTRADICTION
+1729,A man is recklessly riding a horse,The elephant isn't being ridden by the woman,1.4,NEUTRAL
+1733,A man is recklessly riding a horse,The elephant is being ridden by the woman,1,NEUTRAL
+1736,Somebody is playing the piano,The piano is being played by someone,5,ENTAILMENT
+1741,The piano is being played by someone,Nobody is feeding an animal,1,NEUTRAL
+1747,One man is turning on the microwave,One man is turning off the microwave,4,CONTRADICTION
+1751,One man is turning on the microwave,There is no man is pushing the buttons of a microwave,3.7,CONTRADICTION
+1753,One man is turning on the microwave,A man is pushing the buttons of a microwave,4.3,ENTAILMENT
+1755,A flute is being played by a girl,A flute is being put away by a girl,3.1,CONTRADICTION
+1756,A flute is being played by a girl,A girl is making a flute which is not to be played,3.8,NEUTRAL
+1757,One woman is practicing with a flute,One woman is playing a flute,4.485,ENTAILMENT
+1759,A flute is being played by a girl,One woman is practicing with a flute,4.2,NEUTRAL
+1765,A boy is happily playing the piano,One boy is happily playing a piano,5,ENTAILMENT
+1766,The boy isn't playing the piano happily,A boy is happily playing the piano,3.8,CONTRADICTION
+1771,A boy is happily playing the piano,A piano is being played by a person,4.3,ENTAILMENT
+1772,A boy is happily playing the piano,A piano isn't being played by a man,3.3,NEUTRAL
+1773,A boy is happily playing the piano,The piano player is being a tough man,2.1,NEUTRAL
+1776,A piano is being played by a man,The play is about a happy boy playing the piano,2.6,NEUTRAL
+1777,A boy is happily playing the piano,A piano is being played by a man,3.8,NEUTRAL
+1780,A cheetah is quickly running behind its prey.,The cheetah is running quickly behind its prey,4.6,ENTAILMENT
+1781,A cheetah is quickly running behind its prey.,There is no cheetah quickly running behind its prey,3.8,CONTRADICTION
+1782,A cheetah is quickly running behind its prey.,A prey is quickly running behind the cheetah,3.6,CONTRADICTION
+1783,A cheetah is chasing its prey across a field,The cheetah is running quickly behind its prey,4.4,NEUTRAL
+1784,A cheetah is chasing its prey across a field,There is no cheetah quickly running behind its prey,3.6,CONTRADICTION
+1787,A cheetah is shaken off by its prey across a field.,A cheetah is quickly running behind its prey.,3.7,NEUTRAL
+1789,A lion is pacing tiredly in a pen,The lion is pacing tiredly in the pen,4.9,ENTAILMENT
+1791,A lion is tiring the whole pen by pacing,A lion is pacing tiredly in a pen,3.8,NEUTRAL
+1792,A lion is slowly walking,A lion is slowly moving around,4.2,ENTAILMENT
+1798,The lion is pacing tiredly in the pen,A lion is slowly walking,4.4,ENTAILMENT
+1808,There is no man playing the guitar loudly,A flute is being played by a man,1.8,NEUTRAL
+1809,The loud man is not allowed to play the guitar,A flute is being played by a man,2.8,NEUTRAL
+1812,A man is playing the guitar loudly,A flute is being played by a man,3.1,NEUTRAL
+1814,The person isn't dicing up an orange pepper,The person is dicing up a pepper which is orange,3.3,CONTRADICTION
+1815,The person is dicing up a pepper which is orange,The orange colored dices are being cast by a cook to win the pepper,2.9,NEUTRAL
+1818,Some bells are ringing near a cook slicing peppers,A cook is slicing some bell peppers,3.1,NEUTRAL
+1820,There is no cook slicing some bell peppers,The person is dicing up a pepper which is orange,3.4,CONTRADICTION
+1822,A cook is slicing some bell peppers,An orange pepper is being diced up by a person,4.1,NEUTRAL
+1823,The person isn't dicing up an orange pepper,A cook is slicing some bell peppers,3.5,NEUTRAL
+1825,The person is dicing up a pepper which is orange,A cook is slicing some bell peppers,4.3,NEUTRAL
+1829,Some tofu is being sliced by one woman,Tofu is being sliced by a woman,4.9,ENTAILMENT
+1830,Tofu is being sliced by a woman,Tofu isn't being sliced by a woman,3.5,CONTRADICTION
+1832,A girl is cutting butter into two pieces,Some tofu is being sliced by one woman,2.2,NEUTRAL
+1840,"The girl, who is little, is combing her hair into a pony tail.","The girl, who is little, is ruffling her hair",3.5,NEUTRAL
+1841,A girl is combing the hair of a little pony's tail,"The girl, who is little, is combing her hair into a pony tail.",2.8,NEUTRAL
+1842,One man is sitting steadily on the chair,One man is sitting on the chair,4.4,ENTAILMENT
+1844,"The girl, who is little, is combing her hair into a pony tail.",One man is sitting steadily on the chair,1,NEUTRAL
+1846,"The girl, who is little, is carefully combing her hair into a pony tail",One man is sitting on the chair,1,NEUTRAL
+1849,One man is sitting on the chair,"The girl, who is little, is combing her hair into a pony tail.",1.1,NEUTRAL
+1851,The man is carelessly smearing butter on a slice of garlic bread,The man isn't smearing butter on bread ,3.7,CONTRADICTION
+1852,A man is spreading butter on a piece of bread which is big,"A piece of bread, which is big, is having butter spread upon it by a man OR A piece of bread, which is big, is being spread with butter by a man",4.7,ENTAILMENT
+1853,A man is removing the butter from a piece of bread which is big,A man is spreading butter on a piece of bread which is big,4.1,NEUTRAL
+1854,The man is carelessly smearing butter on a slice of garlic bread,"A piece of bread, which is big, is having butter spread upon it by a man OR A piece of bread, which is big, is being spread with butter by a man",4.1,NEUTRAL
+1866,The parrot is talking into the microphone,There is no parrot speaking,3.5,CONTRADICTION
+1869,A parrot is speaking,The parrot is silent in front of the microphone,2.9,CONTRADICTION
+1873,Some kittens are hungry,Some kittens are eating,3.7,NEUTRAL
+1874,A man is eating near the kittens,Some kittens are eating,2.9,NEUTRAL
+1876,The food on the trays isn't being eaten by the kittens,The food on the trays is being eaten by the kittens,3.3,CONTRADICTION
+1878,The kittens are eating the food on the trays,Some kittens are eating,4.7,ENTAILMENT
+1879,The food on the trays isn't being eaten by the kittens,Some kittens are eating,2.8,CONTRADICTION
+1882,Some kittens are hungry,The food on the trays is being eaten by the kittens,2.9,NEUTRAL
+1884,The food on the trays is being eaten by the kittens,Some kittens are eating,4.4,ENTAILMENT
+1886,A person is singing and playing the guitar,There is no person singing and playing the guitar,4.1,CONTRADICTION
+1887,A person is singing and playing the guitar,The singer is playing the guitar in front of a person,4,NEUTRAL
+1888,A man is passionately playing a guitar,One man is passionately playing the guitar,4.9,ENTAILMENT
+1892,A man is putting away a guitar,A person is singing and playing the guitar,3.4,NEUTRAL
+1894,A man is passionately playing a guitar,A person is singing and playing a guitar,4.2,NEUTRAL
+1897,A person is singing and playing the guitar,A man is passionately playing a guitar,4.185,NEUTRAL
+1898,Some animals are playing wildly in the water,A few animals are playing in the water,4.4,ENTAILMENT
+1904,A few animals are playing in the water,Nobody is playing ping pong,1,NEUTRAL
+1907,Two people are playing ping pong,A few animals are out of the water,1,NEUTRAL
+1908,Two people are playing ping pong,A few animals are playing in the water,1,NEUTRAL
+1909,The windows are being polished by a man,The windows are being cleaned by a man,4.4,ENTAILMENT
+1910,The windows are being cleaned by a man,There is no window being cleaned by a man,3.4,CONTRADICTION
+1912,The man is driving a car carefully,The man is driving a car,4.6,ENTAILMENT
+1918,The man is driving a car,The windows are being polished by a man,1.1,NEUTRAL
+1919,The man is driving a car,There is no window being cleaned by a man,1.1,NEUTRAL
+1921,The windows are being cleaned by a man,The man is driving a car,1.4,NEUTRAL
+1927,The woman is pouring oil into a skillet,The skillet is being oiled by a woman who is pouring some water,3.5,NEUTRAL
+1934,The woman is pouring oil into a skillet,A chimp is angrily kicking a target,1,NEUTRAL
+1935,The baby is being put into a trash can by a woman,A woman is putting the baby into a trash can,4.9,ENTAILMENT
+1936,There is no baby being put into a trash can by a woman,The baby is being put into a trash can by a woman,3.8,CONTRADICTION
+1939,The baby is being put into a trash can by a woman,A person is putting meat into a skillet carelessly,1,NEUTRAL
+1940,A person is taking away the meat in the skillet,The baby is being put into a trash can by a woman,1,NEUTRAL
+1942,A person is putting meat into a skillet,There is no baby being put into a trash can by a woman,1,NEUTRAL
+1943,The baby is being put into a trash can by a woman,A person is putting meat into a skillet,1,NEUTRAL
+1946,One small child is greedily drinking water from the cup,One small child is drinking water from the cup,4.8,ENTAILMENT
+1948,The kitten is eagerly drinking some milk from the bowl,One small child is greedily drinking water from the cup,1.6,NEUTRAL
+1949,The kitten is eagerly drinking some milk from the bowl,One small child is filling the cup with water,1.4,NEUTRAL
+1954,The band is singing ,The band isn't singing,3.9,CONTRADICTION
+1955,The singer is leaving the band,The band is singing ,2.9,NEUTRAL
+1961,A woman is putting on makeup carefully,The band isn't singing,1,NEUTRAL
+1963,A woman is putting on makeup carefully,The band is singing ,1,NEUTRAL
+1967,"The woman is happily playing a guitar, which is acoustic, and singing","The woman is playing a guitar, which is acoustic, and singing",4.5,ENTAILMENT
+1969,The singer is playing the guitar at an acoustic concert for a woman,"The woman is playing a guitar, which is acoustic, and singing",3.9,NEUTRAL
+1970,"The woman is happily playing a guitar, which is acoustic, and singing",A person is playing a guitar and singing,4.4,ENTAILMENT
+1972,The singer is playing the guitar at an acoustic concert for a woman,A person is playing a guitar and singing,3.9,ENTAILMENT
+1974,Nobody is playing the guitar and singing,"The woman is playing a guitar, which is acoustic, and singing",3.585,CONTRADICTION
+1975,"The woman is playing a guitar, which is acoustic, and singing",The singer is hiring a person to fire the guitar player,1.9,NEUTRAL
+1978,There is no water being drunk by a cat,Some water is being drunk by a cat,3.8,CONTRADICTION
+1981,A truck is quickly going down a hill,A truck is quickly going up a hill,4,NEUTRAL
+1984,A truck is quickly going down a hill,Some water is being casually drunk by a cat,1,NEUTRAL
+1987,Some water is being drunk by a cat,A truck is quickly going down a hill,1,NEUTRAL
+1988,A young woman is playing the guitar,A girl is playing the guitar,4.5,ENTAILMENT
+1989,A girl is playing the guitar,A girl is not playing the guitar,3.3,CONTRADICTION
+1991,One man is intensely playing a guitar,The man is intensely playing the guitar,4.8,ENTAILMENT
+1992,The man is intensely playing the guitar,The man isn't intensely playing the guitar,2.9,CONTRADICTION
+1993,The man is intensely playing the guitar,The intense man is a guitar player,3.7,NEUTRAL
+1994,A girl is playing the guitar,One man is intensely playing a guitar,3.2,NEUTRAL
+1996,The intense man is a guitar player,A girl is playing the guitar,2.8,NEUTRAL
+1999,The man is intensely playing the guitar,The guitar player is loving one girl,2.7,NEUTRAL
+2000,A girl is playing the guitar,The man is intensely playing the guitar,3.7,NEUTRAL
+2004,A man is riding a motorbike,A man is driving a motorbike,4.6,ENTAILMENT
+2005,A man is parking a motorbike,A man is riding a motorbike,3.3,NEUTRAL
+2006,A man is riding a motorbike,A motorbike rider is running over a man ,3.1,NEUTRAL
+2007,The horse is being ridden by a man,A man is driving a motorbike,1.8,NEUTRAL
+2008,The horse is being ridden by a man,A man is parking a motorbike,1.6,NEUTRAL
+2009,A motorbike rider is running over a man ,The horse is being ridden by a man,1.5,NEUTRAL
+2011,A man is riding the animal,A man is riding a motorbike,3,NEUTRAL
+2012,The man is on the ride with the horse,A man is riding a motorbike,1.9,NEUTRAL
+2014,A magic trick is being performed by the magician,The man is doing a magic trick,4.3,ENTAILMENT
+2015,The man isn't doing a magic trick,The man is doing a magic trick,3.6,CONTRADICTION
+2016,The man is doing a magic trick,"The kid, who is doing magic, is tricking an old man",3.4,NEUTRAL
+2018,A man is dangerously throwing knives at a tree,A man is dangerously extracting knives from a tree,3.6,NEUTRAL
+2020,A man is dangerously throwing knives at the tree,The man is doing a magic trick,2.5,NEUTRAL
+2023,A man is dangerously throwing knives at a tree,A magic trick is being performed by the magician,2.1,NEUTRAL
+2024,A man is dangerously throwing knives at a tree,The man isn't doing a magic trick,2,NEUTRAL
+2025,"The kid, who is doing magic, is tricking an old man",A man is dangerously throwing knives at a tree,1.5,NEUTRAL
+2027,The guitar is being played by a lady,The guitar is being played by a girl,4.3,NEUTRAL
+2029,The guitar is being played by a lady,The play for the ladies requires a guitar,2.6,NEUTRAL
+2030,The man is practicing the guitar,The person is practicing the guitar,4.6,ENTAILMENT
+2035,The practicing person doesn't like the guitar,The guitar is being played by a lady,3.1,NEUTRAL
+2037,The person is practicing the guitar,The guitar is being sold by a lady,2,NEUTRAL
+2038,The person is practicing the guitar,The play for the ladies requires a guitar,2.3,NEUTRAL
+2040,The boy is enthusiastically playing in the mud,The boy is playing in the mud,4.5,ENTAILMENT
+2041,The boy is playing in the mud,The boy isn't playing in the mud,3.4,CONTRADICTION
+2045,A cat is playing with a device,A playing device is amusing a cat,4.085,NEUTRAL
+2047,The boy is playing in the mud,There is no cat playing with a device,1.2,NEUTRAL
+2049,A cat is playing with a device,The boy is enthusiastically playing in the mud,1,NEUTRAL
+2051,A cat is playing with a device,Mud is being thrown to the playing boy,1.2,NEUTRAL
+2052,A cat is playing with a device,The boy is playing in the mud,1.5,NEUTRAL
+2055,The woman is eating some cut pieces of raw meat,Some meat is being cut into pieces by a woman,3.3,NEUTRAL
+2056,A lady is cutting up some meat precisely,A lady is cutting up some meat,4.5,ENTAILMENT
+2059,There is no lady cutting up some meat,Some meat is being cut into pieces by a woman,2.6,CONTRADICTION
+2061,Some meat is being stitched together by a woman,A lady is cutting up some meat,3.5,NEUTRAL
+2064,A boy in his teens is talking to a girl with an internet camera,A boy in his teens is talking to a girl with a webcam,4.7,ENTAILMENT
+2066,A boy in his teens is talking to a girl with a webcam,The teens are talking to a boy and a girl with a webcam,3.9,NEUTRAL
+2067,One man is talking to a girl with an internet camera,One man is chatting with a girl with an internet camera,5,ENTAILMENT
+2068,A man is ignoring a girl via an internet camera,One man is talking to a girl with an internet camera,4.1,NEUTRAL
+2070,A man is ignoring a girl via an internet camera,A boy in his teens is talking to a girl with a webcam,3.2,NEUTRAL
+2072,One man is talking to a girl with an internet camera,A boy in his teens isn't talking to a girl with a webcam,3,NEUTRAL
+2073,One man is talking to a girl with an internet camera,The teens are talking to a boy and a girl with a webcam,3.1,NEUTRAL
+2075,Eggs are being strongly whisked in a bowl by a person,A person is strongly whisking eggs in a bowl,4.8,ENTAILMENT
+2076,A person is strongly whisking eggs in a bowl,A person is removing eggs from a bowl,2.6,NEUTRAL
+2078,A woman is beating two eggs in a bowl and using a whisk made of wire,One woman is beating two eggs in the bowl and using a whisk made of wire,5,ENTAILMENT
+2079,A woman is beating two eggs in a bowl and using a whisk made of wire,There is no woman beating two eggs in a bowl and using a whisk made of wire,4,CONTRADICTION
+2080,"A woman is beating the man that is keeping two eggs in the bowl, using a wire whisk ",A woman is beating two eggs in a bowl and using a whisk made of wire,3.2,NEUTRAL
+2081,A person is strongly whisking eggs in a bowl,One woman is beating two eggs in the bowl and using a whisk made of wire,4.2,NEUTRAL
+2082,A person is strongly whisking eggs in a bowl,There is no woman beating two eggs in a bowl and using a whisk made of wire,3,CONTRADICTION
+2084,A woman is beating two eggs in a bowl and using a whisk made of wire,Eggs are being strongly whisked in a bowl by a person,4.3,ENTAILMENT
+2086,A woman is beating two eggs in a bowl and using a whisk made of wire,A strong person is leaving the whisk in the bowl near the eggs,3.3,NEUTRAL
+2087,A woman is beating two eggs in a bowl and using a whisk made of wire,A person is strongly whisking eggs in a bowl,4.6,ENTAILMENT
+2088,An interview is being granted by the man,The man is granting an interview,4.8,ENTAILMENT
+2090,The interviewer is granting a break to the man,The man is granting an interview,3.2,NEUTRAL
+2091,A white car is being driven by the man,A person is driving the white car,4.7,ENTAILMENT
+2092,There is no white car being driven by the man,A white car is being driven by the man,3.5,CONTRADICTION
+2094,The man is granting an interview,A person is driving the white car,1.1,NEUTRAL
+2097,A white car is being driven by the man,An interview is being granted by the man,1.45,NEUTRAL
+2098,The man is denying an interview,A white car is being driven by the man,1,NEUTRAL
+2100,The man is granting an interview,A white car is being driven by the man,1.2,NEUTRAL
+2102,There is no rope being climbed by a man,A rope is being climbed by a man,3.8,CONTRADICTION
+2103,A man is being roped by a climber,A rope is being climbed by a man,3.3,NEUTRAL
+2104,A man is mindlessly slicing the carrot with a machine,A man is slicing the carrot with a machine,4.3,ENTAILMENT
+2105,A man is removing a carrot from a machine,A man is slicing the carrot with a machine,3.2,NEUTRAL
+2107,A rope is being climbed by a man,A man is mindlessly slicing the carrot with a machine,1.1,NEUTRAL
+2109,A rope is being climbed by a man,A man is eating a carrot sliced by a machine,1,NEUTRAL
+2112,A man is slicing the carrot with a machine,A man is being roped by a climber,1.2,NEUTRAL
+2113,A rope is being climbed by a man,A man is slicing the carrot with a machine,1.3,NEUTRAL
+2115,The cat is licking milk from a saucer,The cat isn't licking milk from a saucer,3.4,CONTRADICTION
+2117,Some milk is being hungrily drunk by a cat,The cat is hungrily drinking milk,4.8,ENTAILMENT
+2118,There is no cat hungrily drinking milk,The cat is hungrily drinking milk,3.7,CONTRADICTION
+2119,The cat is hungrily drinking milk,Drinking milk helps a cat's hunger,3.3,NEUTRAL
+2121,The cat is licking milk from a saucer,There is no cat hungrily drinking milk,2.6,CONTRADICTION
+2122,Drinking milk helps a cat's hunger,The cat is licking milk from a saucer,3.4,NEUTRAL
+2123,The cat is licking a shallow dish full of milk,The cat is hungrily drinking milk,4.1,NEUTRAL
+2124,The cat isn't licking milk from a saucer,The cat is hungrily drinking milk,4.3,NEUTRAL
+2125,The cat is hungrily drinking milk,A lick of milk sauce is being given to the cat,3.7,NEUTRAL
+2132,A baby is playing with a dog ,A small boy is scolding a dog,3,NEUTRAL
+2136,A woman is peeling a potato,A potato is being peeled by a woman,5,ENTAILMENT
+2139,The man is slicing some potatoes,The man is slicing potatoes,5,ENTAILMENT
+2141,The man is eating potato slices,The man is slicing potatoes,3.6,NEUTRAL
+2144,A woman is peeling a potato,The man is eating potato slices,2.5,NEUTRAL
+2145,The man is slicing potatoes,A potato is being peeled by a woman,3.5,NEUTRAL
+2146,The man is slicing potatoes,There is no woman peeling a potato,3.4,NEUTRAL
+2148,The man is slicing potatoes,A woman is peeling a potato,3.4,NEUTRAL
+2150,A man is taking pictures of a lake,A man is tearing up the pictures of a lake,3.4,NEUTRAL
+2153,The man is setting up the camera and taking sunset pictures at the beach,The man is putting away the camera and walks away from the beach,3.5,CONTRADICTION
+2163,A woman is unstitching with a machine,A woman is sewing with a machine,3.6,NEUTRAL
+2164,A woman is using a machine made for sewing,A woman is using a sewing machine,4.8,ENTAILMENT
+2165,A woman is using a sewing machine,There is no woman using a sewing machine,4.1,CONTRADICTION
+2167,A woman is sewing with a machine,There is no woman using a sewing machine,3.2,CONTRADICTION
+2170,A woman is using a sewing machine,A woman is sewing with a machine,5,ENTAILMENT
+2171,An egg is being cracked into a bowl by a woman,A woman is cracking an egg into a bowl,5,ENTAILMENT
+2172,A woman is cracking an egg into a bowl,There is no woman cracking an egg into a bowl,3.8,CONTRADICTION
+2175,The woman is cracking two eggs into a glass bowl,The woman is not cracking two eggs into a glass bowl,3.3,CONTRADICTION
+2176,The woman is cracking two eggs into a bowl made of glass,A woman is cracking an egg into a bowl,4.5,ENTAILMENT
+2179,The woman is cracking two eggs into a glass bowl,There is no woman cracking an egg into a bowl,3.8,CONTRADICTION
+2180,The woman is cracking two eggs into a glass bowl,A woman is placing a bowl with a crack near an egg,3,NEUTRAL
+2181,The woman is cracking two eggs into a glass bowl,A woman is cracking an egg into a bowl,4.3,ENTAILMENT
+2183,A few men are watching cricket,A few men are playing cricket,3.6,NEUTRAL
+2184,People are playing cricket,Some people are playing cricket,4.9,ENTAILMENT
+2188,A few men are cheerfully playing cricket,People are playing cricket,4.4,ENTAILMENT
+2192,A man is putting garlic on some bread slices,A man is removing the garlic from some slices of bread,3.165,NEUTRAL
+2195,A man is sprinkling seasoning on several sliced and buttered loaves of bread,There is no man sprinkling seasoning on several sliced and buttered loaves of bread,3.4,CONTRADICTION
+2196,A man is putting garlic on some bread slices,A person is sprinkling seasoning on several sliced and buttered loaves of bread,3.5,NEUTRAL
+2198,A man is putting garlic on some slices of bread,A man is sprinkling seasoning on several sliced and buttered loaves of bread,4.3,ENTAILMENT
+2199,A man is sprinkling seasoning on several sliced and buttered loaves of bread,A man is removing the garlic from some slices of bread,2.9,NEUTRAL
+2202,Two kids are playing in a swimming pool with a green colored crocodile float,Two kids are playing in a swimming pool with a crocodile float that is green,4.8,ENTAILMENT
+2203,Two kids are playing in a swimming pool with a green colored crocodile float,Two kids are taking out a green colored crocodile float from a swimming pool,4.1,NEUTRAL
+2205,An inflatable crocodile is being pushed by two kids in a pool,Two kids are pushing an inflatable crocodile in a pool,5,ENTAILMENT
+2207,Two kids are pushing an inflatable crocodile in a pool,Two kids are pushing past a crocodile in an inflatable pool,3.2,NEUTRAL
+2208,Two kids are playing in a swimming pool with a green colored crocodile float,An inflatable crocodile is being pushed by two kids in a pool,4.1,NEUTRAL
+2210,Two kids are playing in a swimming pool with a green colored crocodile float,Two kids are pushing past a crocodile in an inflatable pool,4,NEUTRAL
+2212,Two kids are pushing an inflatable crocodile in a pool,Two kids are taking out a green colored crocodile float from a swimming pool,4.2,NEUTRAL
+2213,Two crocodiles are floating in a green colored swimming pool near some playing kids,Two kids are pushing an inflatable crocodile in a pool,3.9,NEUTRAL
+2215,Someone is falling off the horse,Someone is falling off a horse,4.8,ENTAILMENT
+2217,Someone is falling off a horse,A horse is falling on someone,2.9,NEUTRAL
+2218,The man is abruptly knocked off of a horse,The man is being knocked off of a horse,4.3,ENTAILMENT
+2222,The man is being knocked off of a horse,Someone is falling off the horse,3.9,ENTAILMENT
+2226,A woman is tapping her fingers nervously,A woman is tapping her fingers,4.6,ENTAILMENT
+2228,A woman is tapping her fingers on a desk,A woman is tapping her fingers on a table,4.2,ENTAILMENT
+2232,A woman is tapping her fingers on a table,A woman is tapping her fingers nervously,4.4,NEUTRAL
+2233,There is no woman tapping her fingers,A woman is tapping her fingers on a table,3.8,CONTRADICTION
+2234,A woman is tapping her fingers on a table,A woman is tapping her fingers,4.7,ENTAILMENT
+2235,A dog is pushing a toddler into a rain puddle,A dog is pushing a toddler into a puddle of rain,4.9,ENTAILMENT
+2236,A dog is pushing a toddler into a rain puddle,A dog is pulling a toddler out of a rain puddle,3.5,NEUTRAL
+2238,The dog is not knocking the boy into the water,The dog is knocking a boy into the water,3.7,CONTRADICTION
+2239,A boy is knocking a dog with a bottle of water,The dog is knocking a boy into the water,2.85,NEUTRAL
+2240,A dog is pushing a toddler into a rain puddle,A boy is being knocked into the water by the dog,4,NEUTRAL
+2242,A dog is pushing a toddler into a rain puddle,A boy is knocking a dog with a bottle of water,2.1,NEUTRAL
+2243,A dog is pushing a toddler into a puddle of rain,The dog is knocking a boy into the water,3.9,ENTAILMENT
+2247,There is no man eating a bowl of cereal,A man is eating a bowl of cereal,4,CONTRADICTION
+2250,A man is eating a bowl of cereal,Cereal is being eaten by the man,4.8,ENTAILMENT
+2251,There is no man eating cereal,A man is eating a bowl of cereal,4,CONTRADICTION
+2252,A man is hungrily eating a bowl of cereal,The man is eating cereal,4.7,ENTAILMENT
+2253,The man is eating cereal,There is no man eating a bowl of cereal,3.7,CONTRADICTION
+2259,The person is playing the flute,A man is playing the guitar,2.6,NEUTRAL
+2260,A man is playing the guitar,The man in not playing the flute,3.065,NEUTRAL
+2261,A man is strumming the guitar,The man is playing the flute,2.5,NEUTRAL
+2263,The man is playing the flute,A man is playing the guitar,2.9,NEUTRAL
+2266,The woman is adding sugar to the meat slowly,The woman is adding sugar to the meat,4.55,ENTAILMENT
+2272,The woman is adding sugar to the meat,A woman is adding spices to some meat,3.9,ENTAILMENT
+2274,A dog is biting a can,A dog is dropping a can,3.3,NEUTRAL
+2275,A dog is opening a can of food,A dog is opening a jar of food,4.3,NEUTRAL
+2277,A dog is biting a can,A dog is opening a jar of food,3.4,NEUTRAL
+2281,A dog is opening a can of food,A dog is biting a can,3.3,ENTAILMENT
+2282,A cat is playing with a watermelon,One cat is playing with a watermelon,4.9,ENTAILMENT
+2287,A cat is playing with a watermelon,The cat isn't playing with a watermelon,3.7,CONTRADICTION
+2288,One cat is playing with a watermelon,The cat is playing with a watermelon,5,ENTAILMENT
+2289,The cat is playing with a watermelon,There is no cat playing with a watermelon,3.4,CONTRADICTION
+2291,The boy is playing a guitar,A boy is playing a guitar,4.8,ENTAILMENT
+2297,The boy is playing a guitar,A kid is playing a guitar,4.5,ENTAILMENT
+2299,A boy is playing a guitar,A kid is playing a guitar,4.8,ENTAILMENT
+2302,The woman is waterskiing fearlessly,The woman is waterskiing,4.5,ENTAILMENT
+2303,The woman is waterskiing,The woman is not waterskiing,4.1,CONTRADICTION
+2304,A woman is wakeboarding on a lake,The woman is waterskiing fearlessly,3.4,NEUTRAL
+2305,A woman is wakeboarding on a lake,The woman is not waterskiing,3.6,CONTRADICTION
+2307,The woman is waterskiing,A woman is watching the lake,3.5,NEUTRAL
+2308,The woman is waterskiing,A woman is wakeboarding on a lake,3.6,NEUTRAL
+2309,Someone is banging the lens of a camera against a nail,Someone is banging a camera lens against a nail,4.9,ENTAILMENT
+2310,Someone is banging a camera lens against a nail,There is no one banging a camera lens against a nail,3.3,CONTRADICTION
+2311,Someone is nailing a camera lens with loud bangs,Someone is banging a camera lens against a nail,4.1,NEUTRAL
+2314,The man is hammering a nail with a camera,The camera man is nailing a hammer to the wall,3.1,NEUTRAL
+2315,Someone is banging a camera lens against a nail,A camera is being hammered onto the nail by the man,3.535,NEUTRAL
+2316,Someone is banging a camera lens against a nail,The man is not hammering a nail with a camera,3.6,CONTRADICTION
+2317,The camera man is nailing a hammer to the wall,Someone is banging a camera lens against a nail,2.3,NEUTRAL
+2318,Someone is banging the lens of a camera against a nail,The man is hammering a nail with a camera,4.5,ENTAILMENT
+2319,There is no one banging a camera lens against a nail,The man is hammering a nail with a camera,4.2,NEUTRAL
+2322,A person is slicing an onion,A person is cutting an onion,4.8,ENTAILMENT
+2327,A person is eating a cut onion,A person is cutting an onion,3.6,NEUTRAL
+2329,There is no person cutting an onion,A person is cutting an onion,4,CONTRADICTION
+2330,A person is cutting an onion,A person is eating a cut onion,3.4,NEUTRAL
+2332,A person is wrapping up an onion,A person is cutting an onion,3.5,NEUTRAL
+2333,A person near an onion has a cut,A person is cutting an onion,3.2,NEUTRAL
+2338,The oriental lady is cutting a carrot into thin pieces,The oriental lady is not cutting a carrot into thin pieces,4.1,CONTRADICTION
+2339,A thin lady is piecing together oriental carrot cuts,The oriental lady is cutting a carrot into thin pieces,3.1,NEUTRAL
+2340,The oriental lady is cutting a carrot into pieces that are thin,A woman is slicing a carrot,4,ENTAILMENT
+2341,The oriental lady is not cutting a carrot into thin pieces,A woman is slicing a carrot,2.7,NEUTRAL
+2344,There is no woman slicing a carrot,The oriental lady is cutting a carrot into thin pieces,2.4,CONTRADICTION
+2348,A man is pouring a plate of shredded cheese into a pot of sauce,A man is pouring a pot of cheese sauce into a shredded plate,3,NEUTRAL
+2350,The lady is adding cheese to the sauce,The woman is removing cheese from the sauce,3.4,CONTRADICTION
+2351,A man is pouring a plate of shredded cheese into a pot of sauce,The woman is adding cheese to the sauce,2.6,NEUTRAL
+2352,A man is pouring a plate of shredded cheese into a pot of sauce,The woman is removing cheese from the sauce,2.6,NEUTRAL
+2358,A person is burning some cameras with a blow torch,A person is repairing some cameras with a blow torch,3.6,NEUTRAL
+2359,A person by some cameras is blowing on a burning torch,A person is burning some cameras with a blow torch,3.3,NEUTRAL
+2360,The tall person is setting fire to the cameras,The person is setting fire to the cameras,4.5,ENTAILMENT
+2363,There is no person setting fire to the cameras,A person is burning some cameras with a blow torch,3.9,CONTRADICTION
+2365,The person is setting fire to the cameras,A person is repairing some cameras with a blow torch,3.1,NEUTRAL
+2368,A man is playing the guitar,One man is playing the guitar,4.9,ENTAILMENT
+2369,A man is playing the guitar,There is no man playing the guitar,3.4,CONTRADICTION
+2374,The man is playing an acoustic guitar,One man is playing the guitar,4.1,ENTAILMENT
+2375,The man is playing an acoustic guitar,There is no man playing the guitar,4.2,CONTRADICTION
+2377,A person is cutting an onion into pieces,A person is dicing an onion,4.7,ENTAILMENT
+2381,A carrot is being sliced into pieces by a person,A person is cutting an onion into pieces,3.2,NEUTRAL
+2383,A person is slicing a carrot into pieces,A person is dicing an onion,2.9,NEUTRAL
+2386,The man is slicing a potato,The person is carefully slicing a potato,4.2,NEUTRAL
+2388,The man is cooking slices of potato,The man is slicing a potato,3.7,NEUTRAL
+2391,The man is slicing a potato,The person is slicing the potato,4.6,ENTAILMENT
+2397,Somebody is cutting a tomato,Someone is cutting a tomato,5,ENTAILMENT
+2400,The woman is holding a whole tomato,The lady is slicing a tomato,3.7,NEUTRAL
+2401,The woman is slicing a tomato,Someone is cutting a tomato,4.5,ENTAILMENT
+2407,A man is cleaning a dish,A man is preparing some dish,3.2,NEUTRAL
+2409,The woman is not slicing an onion with a knife,The woman is slicing an onion with a knife,3.3,CONTRADICTION
+2413,A man is cleaning a dish,The woman is slicing an onion with a knife,1.4,NEUTRAL
+2414,The woman is slicing an onion with a knife,A man is preparing some dish,2.2,NEUTRAL
+2415,Some runners are competing in a race,Runners are competing in a race,4.9,ENTAILMENT
+2422,Some runners are competing in a race,The runners are racing around a track,3.835,NEUTRAL
+2423,The runners are racing around a track,Runners are not taking part in the race,3.8,CONTRADICTION
+2426,A man is racing,A man is running,4.1,NEUTRAL
+2429,There is no man running down the road,A man is running down the road,3.4,CONTRADICTION
+2431,A man is running,There is no man running down the road,3.6,NEUTRAL
+2436,A man is idling,A man is playing the keyboard with his nose,1.8,NEUTRAL
+2438,The man is funnily playing the piano with his nose,The man is playing the piano with his nose,4.6,ENTAILMENT
+2440,The man is funnily playing the piano with his nose,A man is playing the keyboard with his nose,4.7,ENTAILMENT
+2441,There is no man playing the piano with his nose,A man is playing the keyboard with his nose,2.9,CONTRADICTION
+2445,The man is playing the piano with his nose,A man is playing the keyboard with his nose,4.5,ENTAILMENT
+2447,A baby rhino is shunning an adult rhino,A baby rhino is following an adult rhino,3.5,CONTRADICTION
+2450,A baby rhino is walking around a pen with its mother,A baby rhino and its mother are standing in a pen,3.6,NEUTRAL
+2455,A baby rhino is walking around a pen with its mother,"A rhino, which is little, is following an adult rhino",4.2,ENTAILMENT
+2456,A baby rhino is shunning an adult rhino,A baby rhino is walking around a pen with its mother,3.215,NEUTRAL
+2457,A baby rhino is walking around a pen with its mother,A baby and an adult are being followed by a rhino,2.8,NEUTRAL
+2458,A baby rhino is walking around a pen with its mother,A baby rhino is following an adult rhino,4.1,ENTAILMENT
+2459,A man is riding a motorbike,A man is riding a motorcycle,5,ENTAILMENT
+2465,A man is riding a motorcycle through the town,A man is riding a motorbike,4.6,ENTAILMENT
+2466,A man is riding a motorcycle through the town,A man is getting off the motorcycle,2.865,NEUTRAL
+2467,A man is riding a motorcycle through the town,A man is riding a motorcycle,4.4,ENTAILMENT
+2472,Some persons are singing,A group of people is singing,4.8,ENTAILMENT
+2474,Some people are singing,A few people are singing,4.7,ENTAILMENT
+2486,One man is dancing,A man is dancing,4.6,ENTAILMENT
+2491,A man is dancing,A man is silent,2.3,NEUTRAL
+2494,A man is dancing,A man is speaking,1.7,NEUTRAL
+2495,A man is carefully climbing a rope,A man is climbing a rope,4.5,ENTAILMENT
+2496,A man is untying a rope,A man is climbing a rope,3.15,NEUTRAL
+2497,A man is being roped before a climb,A man is climbing a rope,3.1,NEUTRAL
+2499,There is no panda climbing,A panda is climbing,3.3,CONTRADICTION
+2500,One panda is climbing,A man is climbing a rope,1.6,NEUTRAL
+2505,A panda is climbing,A man is climbing a rope,1.6,NEUTRAL
+2506,A woman is dancing beautifully in a cage,A woman is dancing in a cage,4.8,ENTAILMENT
+2508,A woman is being caged for the dance,A woman is dancing in a cage,3.9,NEUTRAL
+2509,The woman is dancing,The lady is dancing,5,ENTAILMENT
+2510,The woman is dancing,The woman is not dancing,3.8,CONTRADICTION
+2514,There is no woman dancing in a cage,The woman is dancing,3.4,NEUTRAL
+2515,A woman is being caged for the dance,The woman is dancing,3.3,NEUTRAL
+2518,Four people are floating on a raft,Nobody is floating on a raft,4.15,CONTRADICTION
+2521,People are riding and paddling a raft,People are paddling near a raft that is being ridden,4,NEUTRAL
+2529,A cat is eating corn on the cob,There is no cat eating corn on the cob,3.8,CONTRADICTION
+2530,A cat is eating some corn,The cat is eating some corn,5,ENTAILMENT
+2538,Someone is slicing a tomato,Nobody is slicing a tomato,3.9,CONTRADICTION
+2539,The person is quickly slicing a vegetable,The person is slicing a vegetable,4.6,ENTAILMENT
+2540,The person isn't slicing a vegetable,The person is slicing a vegetable,4.085,CONTRADICTION
+2543,Someone is cutting a tomato,The person is slicing a vegetable,4.6,ENTAILMENT
+2545,Someone is slicing a tomato,The person is slicing a vegetable,4.1,ENTAILMENT
+2549,There is no little girl playing the piano,A little girl is playing the piano,3.5,CONTRADICTION
+2551,There is no little girl playing the piano,A little girl is playing a grand piano on stage,2.6,CONTRADICTION
+2553,A little girl is playing the piano,There is no little girl playing a grand piano on stage,3.6,NEUTRAL
+2554,A little girl is playing a grand piano on stage,A little girl is playing the piano,4.4,ENTAILMENT
+2555,A man is playing the guitar,A man is playing a guitar,4.9,ENTAILMENT
+2561,A man is playing the guitar,Someone is playing the guitar,4.6,ENTAILMENT
+2569,The man is dancing,Three women are standing still,1.7,NEUTRAL
+2572,The man is dancing,Three women are dancing,2.8,NEUTRAL
+2574,There is no man playing a bamboo flute,A man is playing a bamboo flute,4,CONTRADICTION
+2577,A man is playing a bamboo flute,A flute is being played by the man,4.3,ENTAILMENT
+2578,A man is playing a bamboo flute,The man is not playing a flute,3.5,CONTRADICTION
+2579,A man is playing a flute made of bamboo,The man is playing a flute,4.1,ENTAILMENT
+2582,A person is absently cutting mushrooms with a knife,A person is cutting mushrooms with a knife,3.7,ENTAILMENT
+2583,A person is cutting mushrooms with a knife,A person is putting away the mushrooms,3.3,NEUTRAL
+2588,A person is absently cutting mushrooms with a knife,A person is cutting some mushrooms,4.2,ENTAILMENT
+2589,A person is cutting some mushrooms,A person is putting away the mushrooms,3.5,NEUTRAL
+2590,A person is cutting mushrooms with a knife,A person is cutting some mushrooms,4.8,ENTAILMENT
+2591,A tiger is pacing around a cage,A tiger is walking around a cage,4.8,ENTAILMENT
+2592,A tiger is walking outside a cage,A tiger is walking around a cage,4.4,ENTAILMENT
+2593,A tiger is walking around with no aim,A tiger is walking around aimlessly,3.965,ENTAILMENT
+2594,A tiger is walking around aimlessly,A tiger is sitting,3.4,NEUTRAL
+2596,A tiger is walking around with no aim,A tiger is walking around a cage,3.8,NEUTRAL
+2597,A tiger is sitting,A tiger is walking around a cage,2.9,NEUTRAL
+2599,A tiger is walking around aimlessly,A tiger is pacing around a cage,4.4,NEUTRAL
+2601,A tiger is walking around aimlessly,A tiger is walking around a cage,3.9,NEUTRAL
+2602,A monkey is brushing the dog,The monkey is brushing the dog,5,ENTAILMENT
+2608,A monkey is brushing the dog,The monkey is not brushing a bull dog,3.2,CONTRADICTION
+2615,The lady is dicing onions,The woman is dicing onions,5,ENTAILMENT
+2619,The woman is dicing onions,A woman is swiftly cutting an onion,4.5,NEUTRAL
+2622,A man is wearing a hard hat and dancing,A man is wearing a hat which is hard and is dancing,4.9,ENTAILMENT
+2623,A man is wearing a hard hat and dancing,A man is naked and standing still,1.9,NEUTRAL
+2625,A man with a hard hat is dancing,The man with a hard hat is dancing,4.9,ENTAILMENT
+2626,There is no man with a hard hat dancing,A man with a hard hat is dancing,3.9,CONTRADICTION
+2627,The man with a hard hat is dancing,A man is wearing a hard hat and dancing,5,ENTAILMENT
+2628,A man is wearing a hard hat and dancing,There is no man with a hard hat dancing,3.6,CONTRADICTION
+2630,A man is naked and standing still,A man with a hard hat is dancing,1.6,NEUTRAL
+2632,A man is wearing a hard hat and dancing,A man with a hard hat is dancing,4.7,ENTAILMENT
+2634,Two boys are studying,Two boys are playing a video game,2.6,NEUTRAL
+2636,Two boys on a couch are reading a book,Two boys on a couch are playing video games,3,NEUTRAL
+2637,Video games of two playing boys are on a couch,Two boys on a couch are playing video games,3.9,NEUTRAL
+2638,Two boys on a couch are playing games on the TV,Two boys are playing a video game,4,ENTAILMENT
+2640,Video games of two playing boys are on a couch,Two boys are playing a video game,2.9,NEUTRAL
+2643,Two boys on a couch are playing video games,Two boys are playing a video game,4.3,ENTAILMENT
+2650,The man is slicing vegetables,A woman is cutting a potato,3,NEUTRAL
+2651,The man is slicing vegetables,There is no woman slicing a potato,2.5,NEUTRAL
+2654,The lady is cracking an egg for the mixer,The lady isn't cracking an egg for the mixer,2.9,CONTRADICTION
+2655,The lady is carefully slicing up the meat,The lady is slicing up the meat,4.3,ENTAILMENT
+2656,The lady is slicing up the meat,The lady isn't slicing up the meat,4.1,CONTRADICTION
+2657,The lady is eating slices of meat,The lady is slicing up the meat,3.4,NEUTRAL
+2660,The lady is cracking an egg for the mixer,The lady is eating slices of meat,1.7,NEUTRAL
+2664,Some ferrets are climbing down from a shelf,Ferrets are climbing down from a shelf,4.9,ENTAILMENT
+2666,A few ferrets are climbing out of the cage,Several ferrets are climbing out of the cage,4.8,ENTAILMENT
+2670,Some ferrets are climbing down from a shelf,Several ferrets are climbing out of the cage,3.7,NEUTRAL
+2672,Ferrets are climbing down from a shelf,Several ferrets are climbing out of the cage,3.5,NEUTRAL
+2673,A man is getting into an automobile,A man is getting into a car,4.8,ENTAILMENT
+2675,A man is hurriedly getting into a car in a garage,A man is getting into a car in a garage,4.7,ENTAILMENT
+2680,A man is getting a garage for the car,A man is getting into a car,2.7,NEUTRAL
+2682,A man is getting into a car in a garage,A man is getting off the car,3,NEUTRAL
+2684,A person is cutting a capsicum into pieces,A capsicum is being cut into pieces by a person,4.9,ENTAILMENT
+2688,A person is cutting a capsicum into pieces,One person is slicing a clove of garlic into pieces,3.5,NEUTRAL
+2689,A person is cutting a capsicum into pieces,The person is not slicing a clove of garlic into pieces,3.5,ENTAILMENT
+2691,Nobody is cutting a capsicum into pieces,The person is slicing a clove of garlic into pieces,3.1,NEUTRAL
+2692,The person is slicing a clove of garlic into pieces,A person is cutting a capsicum into pieces,3.1,NEUTRAL
+2696,There is no man singing and playing the guitar,The man is singing and playing the guitar,4,CONTRADICTION
+2701,The man is singing and playing the guitar,A man is playing a guitar,4.3,ENTAILMENT
+2702,The person is boiling noodles,A person is boiling noodles,5,ENTAILMENT
+2703,A person is boiling noodles,There is no person boiling noodles,3.8,CONTRADICTION
+2705,A woman is drying noodles,A woman is boiling noodles in water,3.3,NEUTRAL
+2707,A woman is drying noodles,A person is boiling noodles,3.4,NEUTRAL
+2708,A woman is boiling noodles in water,The person is boiling noodles,4.6,ENTAILMENT
+2709,There is no person boiling noodles,A woman is boiling noodles in water,2.9,CONTRADICTION
+2710,A woman is boiling noodles in water,A person is boiling noodles,4.3,ENTAILMENT
+2711,A karate practitioner is kicking at another man who is wearing protective boxing gloves,A karate practitioner is kicking at another man who is wearing protective gloves for boxing,4.8,ENTAILMENT
+2713,The man is clumsily kick boxing with a trainer,The man is kick boxing with a trainer,4.5,ENTAILMENT
+2714,The man is not kick boxing with a trainer,The man is kick boxing with a trainer,3.7,CONTRADICTION
+2715,The man is kicking a boxing trainer,The man is kick boxing with a trainer,3.65,ENTAILMENT
+2716,The man is clumsily kick boxing with a trainer,A karate practitioner is kicking at another man who is wearing protective boxing gloves,2.8,NEUTRAL
+2718,The man is kicking a boxing trainer,A karate practitioner is kicking at another man who is wearing protective boxing gloves,4.2,NEUTRAL
+2724,A woman on a boulder is lying on a blanket and reading a book,A woman on a rock is lying on a blanket and reading a book,4.615,ENTAILMENT
+2728,A seated woman is singing a song and playing the guitar,A woman on a rock is standing and looking around,1.7,NEUTRAL
+2730,A woman on a rock is lying on a blanket and reading a book,"A woman, who is seated, is singing a song and playing the guitar",1.8,NEUTRAL
+2731,A woman on a rock is lying on a blanket and reading a book,There is no seated woman singing a song and playing the guitar,2.1,NEUTRAL
+2734,A man is packing away an acoustic guitar,A man is playing an acoustic guitar,3.6,NEUTRAL
+2735,The woman is playing a guitar which is electric,The woman is playing an electric guitar,4.8,ENTAILMENT
+2739,The woman is playing an electric guitar,A man is playing a guitar that is acoustic,3.5,NEUTRAL
+2741,The woman is playing an electric guitar,A man is playing an acoustic guitar,3.6,NEUTRAL
+2744,The woman is cracking eggs into a bowl,Eggs are being cracked into a bowl by the woman,5,ENTAILMENT
+2748,The lady is breaking eggs that are raw into a bowl,The woman is cracking eggs into a bowl,4.4,ENTAILMENT
+2751,A soccer player is scoring a goal,A player of soccer is scoring a goal,4.7,ENTAILMENT
+2752,A soccer player is scoring a goal,A soccer player is missing a goal,4.1,NEUTRAL
+2754,Soccer players are kicking a soccer ball into the goal,There are no soccer players kicking a soccer ball into the goal,3,CONTRADICTION
+2755,Some people who play soccer are kicking a soccer ball into the goal,A soccer player is scoring a goal,4.1,NEUTRAL
+2756,A soccer player is scoring a goal,There are no soccer players kicking a soccer ball into the goal,2.9,CONTRADICTION
+2757,A player of soccer is scoring a goal,Soccer players are kicking a soccer ball into the goal,4.3,ENTAILMENT
+2758,Soccer players are kicking a soccer ball into the goal,A soccer player is missing a goal,3.1,NEUTRAL
+2761,A man and a woman are eating,A man and a woman are not eating,3.3,CONTRADICTION
+2763,A man and woman are talking,A man and a woman are silent,3.4,CONTRADICTION
+2764,A man and a woman are eating,A man and a woman are having a conversation,2.8,NEUTRAL
+2765,A man and a woman are silent,A man and a woman are eating,3.3,NEUTRAL
+2768,A man and a woman are eating,A man and woman are talking,3.4,NEUTRAL
+2770,There is no person pouring olive oil into a pot on the stove,A person is pouring olive oil into a pot on the stove,3.6,CONTRADICTION
+2774,A person is pouring olive oil into a pot on the stove,A person is pouring oil for cooking into a pot,4.3,ENTAILMENT
+2775,A person is cleaning a pot of cooking oil,A person is pouring olive oil into a pot on the stove,3.1,NEUTRAL
+2776,A person is pouring oil made with olives into a pot on the stove,A person is pouring cooking oil into a pot,4.2,ENTAILMENT
+2777,There is no person pouring olive oil into a pot on the stove,A person is pouring cooking oil into a pot,3.8,NEUTRAL
+2778,A person is pouring cooking oil into a pot,A person is pouring olive oil into the stove from a pot,3.9,NEUTRAL
+2779,A person is pouring olive oil into a pot on the stove,A person is pouring cooking oil into a pot,4.2,ENTAILMENT
+2783,The woman is not walking the dog,The woman is walking the dog,3.8,CONTRADICTION
+2784,A woman is walking the dog down the street,The dog is being walked by the woman,4.715,ENTAILMENT
+2787,The woman is walking the dog,A woman is restraining the dog,3.6,NEUTRAL
+2788,A woman is walking the dog down the street,The woman is walking the dog,4.4,ENTAILMENT
+2789,A guinea pig is devouring a carrot,A guinea pig is eating a carrot,5,ENTAILMENT
+2792,A small guinea pig is gnawing and eating a piece of carrot on the floor,There is no small guinea pig gnawing and eating a piece of carrot on the floor,3.2,CONTRADICTION
+2797,A small guinea pig is gnawing and eating a piece of carrot on the floor,A guinea pig is eating a carrot,4.6,ENTAILMENT
+2799,A man is slicing a carrot with a knife,A man is putting away a carrot,2.8,NEUTRAL
+2800,The woman is slicing an onion,An onion is being sliced by the woman,5,ENTAILMENT
+2802,An onion is being sliced by the woman,A man is slicing a carrot with a knife,3.2,NEUTRAL
+2803,A man is slicing a carrot with a knife,The woman is not slicing an onion,2.7,NEUTRAL
+2807,The plane is landing,A plane is landing,4.9,ENTAILMENT
+2809,A cartoon airplane is landing,An animated airplane is landing,4.7,ENTAILMENT
+2811,A cartoon airplane is landing,A plane is landing,4.3,ENTAILMENT
+2813,An animated airplane is landing,The plane is landing,4.1,ENTAILMENT
+2815,An animated airplane is landing,A plane is landing,4.4,ENTAILMENT
+2817,A woman is preparing an egg in a skillet,There is no woman preparing an egg in a skillet,3.6,CONTRADICTION
+2818,A woman is preparing a skillet for the eggs,A woman is preparing an egg in a skillet,3.7,NEUTRAL
+2821,A woman is carefully pouring a mixture into a bowl and mixing it,A woman is preparing an egg in a skillet,2.4,NEUTRAL
+2827,The girl is using an eye pencil on her eyelid,The girl is using a pencil for the eyes on her eyelid,4.9,ENTAILMENT
+2828,The girl is using an eye pencil on her eyelid,The girl is not using an eye pencil on her eyelid,3.7,CONTRADICTION
+2837,There is no girl playing the piano,A girl is playing the piano,3.8,CONTRADICTION
+2838,"A girl, who is little, is playing a grand piano on stage",A little girl is playing a grand piano on stage,4.8,ENTAILMENT
+2839,A little girl is playing a grand piano on stage,A little girl is walking off the stage,3,NEUTRAL
+2844,A little girl is playing a grand piano on stage,A girl is playing the piano,4.3,ENTAILMENT
+2845,The woman is cooking eggs,A woman is cooking eggs,5,ENTAILMENT
+2850,The woman is not cooking something,A woman is cooking eggs,4.2,CONTRADICTION
+2851,The woman is cooking eggs,The woman is cooking something,4.4,ENTAILMENT
+2853,A woman is cooking eggs,The woman is cooking something,4.2,ENTAILMENT
+2854,Some cats are playing with each other,The cats are playing with each other,4.8,ENTAILMENT
+2856,Two cats are playfully fighting each other,Two cats are fighting each other,4.4,ENTAILMENT
+2857,Two cats are lying together,Two cats are fighting each other,3,NEUTRAL
+2860,Some cats are playing with each other,Two cats are fighting each other,2.9,NEUTRAL
+2861,The cats are not playing with each other,Two cats are fighting each other,3.6,NEUTRAL
+2862,Two cats are fighting each other,The cats are playing with each other,3.435,NEUTRAL
+2863,Two bikes are being ridden by two people,Two people are riding a bike,4.6,ENTAILMENT
+2864,Nobody is riding a bike,Two people are riding a bike,4.3,CONTRADICTION
+2865,Two people are riding a motorcycle,Two people are driving a motorcycle,4.5,ENTAILMENT
+2867,Two people are riding a bike,Two people are driving a motorcycle,3.7,NEUTRAL
+2868,Two people are stopping on a motorcycle,Two people are riding a bike,2.9,ENTAILMENT
+2870,Two people are riding a motorcycle,Nobody is riding a bike,2.5,NEUTRAL
+2874,The man is riding a mechanical bull,The man is riding a bull which is mechanical,4.8,ENTAILMENT
+2875,The man is not riding a mechanical bull,The man is riding a mechanical bull,3.3,CONTRADICTION
+2879,There is no man riding a mechanical bull,The man is riding a mechanical bull,3.5,CONTRADICTION
+2881,A woman is skillfully playing a flute,A woman is playing a flute,4.3,ENTAILMENT
+2883,The woman is playing the flute,The flute is being played by the woman,4.9,ENTAILMENT
+2890,The man is lifting barbells,A man is lifting barbells,4.9,ENTAILMENT
+2891,The man is lifting barbells,The man is lowering barbells,4,NEUTRAL
+2894,The man is lifting barbells,Weights are being lifted by the man,4.4,ENTAILMENT
+2896,A man is lifting barbells,The man is lifting weights,4.6,ENTAILMENT
+2899,A man is chopping down a tree with an axe,A person is chopping down a tree with an axe,4.6,ENTAILMENT
+2900,A man is chopping down a tree with an axe,A person is planting a tree,2.8,NEUTRAL
+2903,A tree is being cut by a man with an axe,A man is chopping down a tree with an axe,4.7,ENTAILMENT
+2905,A man is cutting a tree with an axe,A person is chopping down a tree with an axe,4.6,ENTAILMENT
+2907,A man is cutting a tree with an axe,A man is chopping down a tree with an axe,4.7,ENTAILMENT
+2908,A girl is applying makeup to her face,The girl is applying makeup to her face,4.9,ENTAILMENT
+2909,A girl is applying makeup to her face,There is no girl applying makeup to her face,4.3,CONTRADICTION
+2910,A lady is putting on makeup,A woman is putting on makeup,5,ENTAILMENT
+2913,A girl is applying makeup to her face,There is no woman putting on makeup,3.1,CONTRADICTION
+2915,There is no girl applying makeup to her face,A woman is putting on makeup,4,NEUTRAL
+2916,A girl is applying makeup to her face,A woman is putting on makeup,3.5,NEUTRAL
+2917,A herd of deer is crossing the street,One herd of deer is crossing the street,4.8,ENTAILMENT
+2918,A herd of deer is crossing the street,A herd of deer is stopping at the street,3,NEUTRAL
+2919,The herd of caribous is crossing a road quickly,The herd of caribous is crossing a road,4.2,ENTAILMENT
+2920,The herd of caribous is crossing a road,The herd of caribous is not crossing a road,3.4,CONTRADICTION
+2924,The herd of caribous is crossing a road,A herd of deer is stopping at the street,2.8,NEUTRAL
+2926,A woman is slicing an onion,An onion is being sliced by a woman,4.9,ENTAILMENT
+2927,There is no woman slicing an onion,A woman is slicing an onion,3.1,CONTRADICTION
+2930,The woman is dicing a carrot,A woman is slicing an onion,2.5,NEUTRAL
+2933,The woman is cutting a carrot,There is no woman slicing an onion,2.9,NEUTRAL
+2935,Two men are fighting in a cattle pen,Two men are fighting in a pen for cattle,4.6,ENTAILMENT
+2937,Two men are fighting in a cow pasture,Two men are fighting in a pasture for cows,4.9,ENTAILMENT
+2938,Two men are fighting in a cow pasture,Nobody is fighting in a cow pasture,3.7,CONTRADICTION
+2939,Two men are fighting in a cow pasture,Two cows are fighting in a pasture by a man,3.2,NEUTRAL
+2941,Two men are fighting in a cattle pen,Nobody is fighting in a cow pasture,3.3,NEUTRAL
+2943,Two men are fighting in a cow pasture,Two men are fighting in a pen for cattle,3.8,NEUTRAL
+2945,Two men are fighting in a cow pasture,Two men are fighting in a cattle pen,4,NEUTRAL
+2951,There is no woman penciling on eyeshadow,A woman is putting cosmetics on her eyelid,3.2,NEUTRAL
+2952,The woman is penciling on eyeshadow,A woman is applying cosmetics to her eyelid,4.7,ENTAILMENT
+2955,A man is eating a banana,A banana is being eaten by a man,4.8,ENTAILMENT
+2957,The man is absently eating a banana by a tree,The man is eating a banana by a tree,4.5,ENTAILMENT
+2958,The man is not eating a banana by a tree,The man is eating a banana by a tree,3.4,CONTRADICTION
+2959,The man is absently eating a banana by a tree,A man is eating a banana,3.8,ENTAILMENT
+2960,A man is eating a banana,The man is not eating a banana by a tree,4,NEUTRAL
+2961,The man is eating a banana by a tree,A banana is being eaten by a man,4.7,ENTAILMENT
+2964,A big green ball is knocking a potato,"A ball, which is green and big, is knocking a potato",4.9,ENTAILMENT
+2966,A big potato is knocking a green ball,A big green ball is knocking a potato,3.5,NEUTRAL
+2969,A large green colored ball is hitting a potato,A big green ball is knocking a potato,4.7,ENTAILMENT
+2970,A big green ball is knocking a potato,A large green ball is missing a potato,3.5,NEUTRAL
+2971,"A ball, which is green and big, is knocking a potato",A large green ball is hitting a potato,4.6,ENTAILMENT
+2974,A large green ball is hitting a potato,A big green ball is knocking a potato,4.8,ENTAILMENT
+2976,Different teams are playing football on a field,Different teams are resting on a field,3.4,NEUTRAL
+2977,Different teams are playing football on a field,Different football players are teaming on a field,3.9,ENTAILMENT
+2980,Two teams are enthusiastically playing soccer,Different teams are playing football on a field,3.8,ENTAILMENT
+2981,Different teams are playing football on a field,There is no team playing soccer,3.4,NEUTRAL
+2983,Two teams are playing soccer,Different teams are resting on a field,2.8,NEUTRAL
+2984,Two teams are playing soccer,Different football players are teaming on a field,2.8,NEUTRAL
+2988,A boy is comfortably sitting in a room and playing a piano by a lamp,A boy is sitting in a room and playing a piano by lamp light,4.1,ENTAILMENT
+2989,A boy is standing in a room by a lamp light,A boy is sitting in a room and playing a piano by lamp light,3.7,NEUTRAL
+2992,A boy is practicing the keyboard,A boy is sitting in a room and playing a piano by lamp light,3.5,NEUTRAL
+2994,A boy is sitting in a room and playing a piano by lamp light,A boy is playing a keyboard,4,ENTAILMENT
+2997,A woman is playing an electric guitar,A woman is playing a guitar which is electric,5,ENTAILMENT
+2998,There is no woman playing an electric guitar,A woman is playing an electric guitar,4.2,CONTRADICTION
+3005,There is no man in a suit standing at a microphone and singing,A man in a suit is standing at a microphone and singing,3.1,CONTRADICTION
+3007,The man on stage is singing into the microphone,The man on stage isn't singing into the microphone,3.5,CONTRADICTION
+3010,The man on stage isn't singing into the microphone,A man in a suit is standing at a microphone and singing,3.3,NEUTRAL
+3014,A man in a suit is standing at a microphone and singing,The man on stage is singing into the microphone,4.3,ENTAILMENT
+3015,Some teenage girls are dancing for the camera,Some girls in their teens are dancing for the camera,4.6,ENTAILMENT
+3016,Some teenage girls are dancing for the camera,Some teenage girls are standing still in front of the camera,3.5,NEUTRAL
+3018,Three teenage girls are dancing in the room,Three teenage girls are idling in the room,3.5,NEUTRAL
+3019,Three young girls are dancing in the room,Some teenage girls are dancing for the camera,3.7,NEUTRAL
+3022,Three teenage girls are dancing in the room,Some teenage girls are standing still in front of the camera,2.1,NEUTRAL
+3024,A few children are jumping on a trampoline,Some children are jumping on a trampoline,4.6,ENTAILMENT
+3027,Two boy are playing on a trampoline,Nobody is playing on a trampoline,3.8,CONTRADICTION
+3031,Some children are jumping off a trampoline,Two boy are playing on a trampoline,4.1,NEUTRAL
+3038,The dog is playing with a plastic container,The puppy is not playing with a plastic container,3.8,CONTRADICTION
+3039,The puppy is playing with a plastic container,The dog is playing with a plastic container,4.4,ENTAILMENT
+3041,The puppy is playing with a plastic container,The dog is playing with a plastic container,4.4,ENTAILMENT
+3042,A man is athletically jumping a wall,A man is jumping a wall,4.5,ENTAILMENT
+3043,A man is jumping a wall,A man is standing in front of a wall,3.1,NEUTRAL
+3046,A man is jumping a wall,A man is jumping onto a wall which is low,3.7,NEUTRAL
+3047,A man is jumping off a low wall,A man is jumping a wall,4.2,ENTAILMENT
+3049,A man is jumping onto a low wall,A man is standing in front of a wall,3,NEUTRAL
+3050,A man is jumping onto a low wall,A man is jumping a wall,4.4,NEUTRAL
+3054,A man is pouring oil into a skillet,A man is taking the oil out off a skillet,3.1,CONTRADICTION
+3059,A man is pouring oil into a pan,A man is pouring oil into a skillet,4.5,ENTAILMENT
+3062,A man is talking to the woman who is seated beside him and is driving a car,A woman is driving a car and is talking to the man who is seated beside her,4.3,ENTAILMENT
+3065,A woman is driving a car and is talking to the man who is seated beside her,The woman and the man are travelling by automobile,4.2,ENTAILMENT
+3068,There is no woman driving a car and talking to the man seated beside her,The woman and the man are travelling by car,3.8,ENTAILMENT
+3069,A man is talking to the woman who is seated beside him and is driving a car,The woman and the man are travelling by car,4.2,ENTAILMENT
+3071,The person is brushing a cat,A person is brushing a cat,5,ENTAILMENT
+3072,A person is brushing a cat,Nobody is brushing a cat,3.6,CONTRADICTION
+3073,A person is combing the fur of a cat,The fur of a cat is being combed by a person,4.9,ENTAILMENT
+3079,A person is brushing a cat,A person is combing the fur of a cat,4.6,ENTAILMENT
+3081,A woman is chopping broccoli,A woman is storing broccoli,3.9,NEUTRAL
+3085,A woman is chopping broccoli,The woman is not chopping garlic,3.1,NEUTRAL
+3091,Three men are dancing,A few men are dancing,4.5,ENTAILMENT
+3092,Three men are dancing,The men are not dancing,3.6,CONTRADICTION
+3094,Some women are dancing,The men are not dancing,3,NEUTRAL
+3097,Three men are dancing,Some women are dancing,3.5,NEUTRAL
+3100,A man is flooring a sitting guitar player,A man is sitting on the floor and is playing a guitar,3.4,NEUTRAL
+3102,The man is pacing around a room,A man is sitting on the floor in a room and strumming a guitar,2.5,NEUTRAL
+3110,There is no man eating some food,A man is eating some food,3.3,CONTRADICTION
+3111,The man is eating,The person is eating,4.4,ENTAILMENT
+3114,A man is eating some food,The man is fasting,4.2,CONTRADICTION
+3121,There is no woman using an eye pencil and applying eye liner to her eyelid,A woman is using an eye pencil and is applying eye liner to her eyelid,3.8,CONTRADICTION
+3126,A woman is using an eye pencil and is applying eye liner to her eyelid,A woman is applying cosmetics to her eyelid,4.4,ENTAILMENT
+3129,A baby is sneezing and scaring another baby,A baby is sneezing and frightening another baby,4.9,ENTAILMENT
+3130,A baby is sneezing and scaring another baby,A baby is cheering another baby,3.3,NEUTRAL
+3132,A baby is crawling happily,A baby is cheering another baby,2.7,NEUTRAL
+3134,A baby is sitting,A baby is sneezing and scaring another baby,2.8,NEUTRAL
+3140,The monkey isn't practicing martial arts,The monkey is practicing martial arts,3.5,CONTRADICTION
+3150,A man is performing tricks with a soccer ball,A man is running away from the soccer ball,3.1,NEUTRAL
+3153,A man is performing tricks with a soccer ball,A man is powerfully kicking a soccer ball,3.9,NEUTRAL
+3156,A man is cutting a box,A box is being cut by a man,4.9,ENTAILMENT
+3157,A man is cutting a box,There is no man cutting a box,3.9,CONTRADICTION
+3158,The man is cutting the tape on the box,A man is cutting the tape on the box,5,ENTAILMENT
+3161,A man is cutting the tape on the box,A man is cutting a box,3.9,NEUTRAL
+3162,The man is not cutting the tape on the box,A man is cutting a box,3.1,NEUTRAL
+3164,A box is being cut by a man,The man is cutting the tape on the box,3.4,NEUTRAL
+3165,The man is cutting the tape on the box,There is no man cutting a box,3.7,NEUTRAL
+3166,A man is cutting a box,The man is cutting the tape on the box,3.7,NEUTRAL
+3170,There is no young boy playing a wind instrument,A young boy is playing a wind instrument,4.3,CONTRADICTION
+3182,A man is slowly trekking in the woods,The man is hiking in the woods,4.5,ENTAILMENT
+3186,A man is slicing a tomato,There is no man slicing a tomato,3,CONTRADICTION
+3187,A woman is slicing a carrot,A woman is cutting a carrot,4.9,ENTAILMENT
+3188,A woman is putting away a carrot,A woman is slicing a carrot,3.9,NEUTRAL
+3192,A woman is slicing a carrot,There is no man slicing a tomato,2.1,NEUTRAL
+3200,The woman is stirring meat in a bowl,A lady is mixing a mixture of meat in a bowl,4.7,ENTAILMENT
+3201,The woman is stirring meat in a bowl,There is no lady mixing a meat mixture in a bowl,4.1,CONTRADICTION
+3202,A lady is mixing a meat mixture in a bowl,The woman is stirring meat in a bowl,4.6,ENTAILMENT
+3203,A lemon is being squeezed by a woman,A woman is squeezing a lemon,4.9,ENTAILMENT
+3208,There is no woman squeezing juice out of a lemon,A woman is squeezing a lemon,3.7,CONTRADICTION
+3213,A kitten is getting bored,A kitten is playing with a blue rope toy,2.6,NEUTRAL
+3214,The little cat is playing with a toy,The kitten is playing with a toy,4.8,ENTAILMENT
+3217,A kitten is playing with a blue rope toy,The kitten is not playing with a toy,4,CONTRADICTION
+3218,A kitten is playing with a toy made of blue rope,The kitten is playing with a toy,4.6,ENTAILMENT
+3221,A boy is fearfully walking across a bridge,A boy is walking across a bridge,4.7,ENTAILMENT
+3223,A man is walking slowly across a rope bridge,A man is walking slowly across a bridge made of rope,4.9,ENTAILMENT
+3224,A man is being stopped on a rope bridge,A man is walking slowly across a rope bridge,3.8,NEUTRAL
+3227,A man is walking slowly across a rope bridge,A boy is fearfully walking across a bridge,3.4,NEUTRAL
+3228,There is no boy walking across a bridge,A man is walking slowly across a rope bridge,2.7,NEUTRAL
+3230,A boy is hanging a fishing rod and running in front of a fish ,A boy is hanging a rod for fishing and running in front of a fish,5,ENTAILMENT
+3232,A boy is running away from the fishing line,A young man is running away from the fishing line,4.1,NEUTRAL
+3238,A boy is running away from the fishing line,A boy is hanging a fishing rod and running in front of a fish ,3.6,NEUTRAL
+3242,An animal is resting,An animal is running in circles,3.3,NEUTRAL
+3243,A squirrel is running in circles,An animal is running tiredly in circles,3.9,NEUTRAL
+3248,A woman is boiling eggs,Eggs are being boiled by a woman,4.9,ENTAILMENT
+3252,A woman is putting two eggs into a pot of water,A woman is boiling eggs,4.2,NEUTRAL
+3253,A woman is taking two eggs out of a pot of water,A woman is boiling eggs,3.9,NEUTRAL
+3254,Eggs are being boiled by a woman,A woman is placing two eggs into a pot of water,4.1,NEUTRAL
+3255,A woman is placing two eggs into a pot of water,A woman is drying eggs,3.5,NEUTRAL
+3256,A woman is placing two eggs into a pot of water,A woman is boiling eggs,4.2,ENTAILMENT
+3257,A man is playing the guitar,The man is playing the guitar,5,ENTAILMENT
+3260,A man is playing the guitar,A man is dropping the guitar,3.2,NEUTRAL
+3261,A man is playing the guitar,A guitar is being played by a man,5,ENTAILMENT
+3262,A man is playing the guitar,A man is dropping the guitar,3.3,NEUTRAL
+3264,A man is playing the guitar,Nobody is playing the guitar,3.7,CONTRADICTION
+3271,The soccer player is not kicking the ball between somebody's legs,A person is kicking a soccer ball between their feet,3.1,NEUTRAL
+3272,The soccer player is kicking the ball between somebody's legs,A person is kicking a ball for a soccer game between somebody's feet,4.2,ENTAILMENT
+3273,There is no person kicking a soccer ball between somebody's feet,The soccer player is kicking the ball between somebody's legs,3.8,CONTRADICTION
+3274,The soccer player is kicking the ball between somebody's legs,A person is kicking a soccer ball between their feet,3.9,NEUTRAL
+3277,"The boy, who is young, is running through the ocean waves",The young boy is running through the ocean waves,5,ENTAILMENT
+3278,The young boy is running through the ocean waves,The young boy is not running through the ocean waves,3.8,CONTRADICTION
+3280,"The boy, who is young, is running through the ocean waves",A child is running in and out of the ocean waves,4.4,ENTAILMENT
+3281,A child is running in and out of the ocean waves,The young boy is not running through the ocean waves,3.6,NEUTRAL
+3283,The young boy is running through the ocean waves,A child is running in and out of the waves of the ocean,4.5,ENTAILMENT
+3285,The young boy is running through the ocean waves,A child is running in and out of the ocean waves,4,ENTAILMENT
+3286,A woman is coating a pork chop,A cook is coating a pork chop,4.3,ENTAILMENT
+3287,A woman is coating a pork chop,There is no woman coating a pork chop,3.7,CONTRADICTION
+3288,A woman is grating carrots,Carrots are being grated by a woman,5,ENTAILMENT
+3294,A woman is grating carrots,A woman is coating a pork chop,2,NEUTRAL
+3298,The man and woman are strolling,The man and woman are walking,4.5,ENTAILMENT
+3299,The man and woman are not walking,The man and woman are walking,2.8,CONTRADICTION
+3303,A man and a woman are standing still in the woods,The man and woman are walking,3.2,NEUTRAL
+3304,A man is walking a woman through the woods,The man and woman are walking,4,ENTAILMENT
+3311,The south African plane is not flying in a blue sky,An airplane is flying through the air,2.7,NEUTRAL
+3313,The south African plane is flying in a blue sky,An airplane is being stationed on the ground,2.3,NEUTRAL
+3314,The south African plane is flying in a blue sky,An airplane is flying through the air,3.9,ENTAILMENT
+3316,There is no woman cooking a breaded pork chop,A woman is cooking a breaded pork chop,3.4,CONTRADICTION
+3319,The woman is chopping some bread and fried pork,The woman is frying a breaded pork chop,2.9,NEUTRAL
+3321,A woman is cooking a breaded pork chop,The woman is not frying a breaded pork chop,4,NEUTRAL
+3324,There is no woman cooking a breaded pork chop,The woman is frying a breaded pork chop,3.7,CONTRADICTION
+3325,The woman is frying a breaded pork chop,A woman is cooking a breaded pork chop,4.7,ENTAILMENT
+3327,The man is slicing bread,The man is putting away the bread,3.1,NEUTRAL
+3329,The woman is slicing herbs,The woman is not slicing herbs,3.8,CONTRADICTION
+3330,The man is slicing bread,A woman is slicing herbs,2.4,NEUTRAL
+3332,Bread is being sliced by the man,The woman is slicing herbs,1.8,NEUTRAL
+3336,A man is standing on a roof,A man is dancing on a roof ,3.8,NEUTRAL
+3339,A top violin player is standing on the roof over a man,A man is standing on a roof top and playing a violin,3.6,NEUTRAL
+3340,A man is standing on the top of a roof and playing a violin,A man is dancing on a roof ,3.2,NEUTRAL
+3342,A man is dancing on a roof ,A top violin player is standing on the roof over a man,2.7,NEUTRAL
+3344,A man is standing on a roof top and playing a violin,A man is standing on a roof,4,ENTAILMENT
+3345,A man is dancing on a roof ,A man is standing on a roof top and playing a violin,3,NEUTRAL
+3346,Someone is writing,Someone is typing,3.7,NEUTRAL
+3347,There is no one typing,Someone is typing,4,CONTRADICTION
+3349,Someone is putting away a keyboard,Someone is typing on a keyboard,3.315,NEUTRAL
+3351,Someone is typing,Someone is putting away a keyboard,2.9,NEUTRAL
+3353,There is no one typing,Someone is typing on a keyboard,2.7,CONTRADICTION
+3357,A woman is peeling a potato,A potato is being peeled by a woman,4.9,ENTAILMENT
+3358,A woman is peeling a potato,A woman is putting away a potato,3.3,NEUTRAL
+3359,A potato is being peeled by a woman,A woman is peeling a potato,5,ENTAILMENT
+3362,A woman is peeling a potato,There is no woman peeling a potato,3.4,CONTRADICTION
+3366,Someone is cleaning an animal,Someone is cleansing an animal,4.5,ENTAILMENT
+3367,Someone is cleaning an animal,Someone is dirtying an animal,3.4,CONTRADICTION
+3368,A woman is cleaning a shrimp,Someone is cleansing an animal,3.4,ENTAILMENT
+3369,Someone is dirtying an animal,A woman is cleaning a shrimp,2,NEUTRAL
+3370,The woman is cleaning a shrimp,Someone is cleaning an animal,3.9,ENTAILMENT
+3371,There is no woman cleaning a shrimp,Someone is cleaning an animal,2.6,NEUTRAL
+3372,A woman is cleaning a shrimp,Someone is cleaning an animal,4.2,ENTAILMENT
+3374,There is no woman riding a water scooter,A woman is riding a water scooter,3.4,CONTRADICTION
+3375,A woman is riding a water scooter,A woman is riding a scooter towards the water,3.815,NEUTRAL
+3376,The boy is speedily riding a tricycle,The boy is riding a tricycle,4.385,ENTAILMENT
+3378,The boy is speedily riding a tricycle,A woman is riding a water scooter,1.4,NEUTRAL
+3382,The boy is riding a tricycle,A woman is riding a scooter towards the water,1.6,NEUTRAL
+3385,There is no panda bear eating some bamboo,A panda bear is eating some bamboo,3.9,CONTRADICTION
+3386,One panda is eating a bamboo cane,The panda is eating bamboo,4.6,ENTAILMENT
+3389,A panda bear is eating some bamboo,The panda is not eating bamboo,2.6,CONTRADICTION
+3395,The woman is stirring eggs in a bowl,The lady is stirring eggs in a bowl,4.9,ENTAILMENT
+3396,The woman is stirring eggs in a bowl,The woman isn't stirring eggs in a bowl,3.9,CONTRADICTION
+3397,Someone is beating an egg,The lady is stirring eggs in a bowl,3.9,NEUTRAL
+3400,Nobody is beating an egg,The woman is stirring eggs in a bowl,4.1,CONTRADICTION
+3405,A person is unfolding a tortilla,A person is folding a tortilla,3.1,CONTRADICTION
+3407,A person is unfolding a tortilla,A man is folding a tortilla,3.6,NEUTRAL
+3411,The man is catching a fish,A man is catching a fish,4.9,ENTAILMENT
+3412,A man is freeing a fish,A man is catching a fish,4,NEUTRAL
+3413,A big fish is catching a man,A man is catching a fish,2.6,NEUTRAL

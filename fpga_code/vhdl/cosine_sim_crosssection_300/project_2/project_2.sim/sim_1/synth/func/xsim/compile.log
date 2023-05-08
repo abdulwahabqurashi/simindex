@@ -1,0 +1,13 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.sim/sim_1/synth/func/xsim/cfg_tb_cosine_sim_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'divider_main'
+INFO: [VRFC 10-3107] analyzing entity 'mac_3x1_array'
+INFO: [VRFC 10-3107] analyzing entity 'mac_3x1_array_1'
+INFO: [VRFC 10-3107] analyzing entity 'mac_3x1_array_2'
+INFO: [VRFC 10-3107] analyzing entity 'multiplier'
+INFO: [VRFC 10-3107] analyzing entity 'multiplier_0'
+INFO: [VRFC 10-3107] analyzing entity 'mac_main1'
+INFO: [VRFC 10-3107] analyzing entity 'multiplier_main1'
+INFO: [VRFC 10-3107] analyzing entity 'cosine_sim'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sources_1/new/mult_2x2_pack.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_cosine_sim'

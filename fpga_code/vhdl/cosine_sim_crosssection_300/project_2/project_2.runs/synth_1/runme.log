@@ -1,0 +1,61 @@
+
+*** Running vivado
+    with args -log cosine_sim.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source cosine_sim.tcl
+
+
+
+****** Vivado v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source cosine_sim.tcl -notrace
+Command: synth_design -top cosine_sim -part xc7a100tfgg676-2
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 22164
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 1073.109 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'cosine_sim' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/cosine_sim.vhd:18]
+INFO: [Synth 8-3491] module 'mac_main1' declared at 'C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_main1.vhd:10' bound to instance 'Stage1' of component 'mac_main1' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/cosine_sim.vhd:68]
+INFO: [Synth 8-638] synthesizing module 'mac_main1' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_main1.vhd:20]
+INFO: [Synth 8-3491] module 'mac_3x1_array' declared at 'C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_3x1_array.vhd:11' bound to instance 'MAC1' of component 'mac_3x1_array' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_main1.vhd:34]
+INFO: [Synth 8-638] synthesizing module 'mac_3x1_array' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_3x1_array.vhd:20]
+INFO: [Synth 8-256] done synthesizing module 'mac_3x1_array' (1#1) [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_3x1_array.vhd:20]
+INFO: [Synth 8-3491] module 'mac_3x1_array' declared at 'C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_3x1_array.vhd:11' bound to instance 'MAC2' of component 'mac_3x1_array' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_main1.vhd:35]
+INFO: [Synth 8-3491] module 'mac_3x1_array' declared at 'C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_3x1_array.vhd:11' bound to instance 'MAC3' of component 'mac_3x1_array' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_main1.vhd:36]
+INFO: [Synth 8-256] done synthesizing module 'mac_main1' (2#1) [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/mac_main1.vhd:20]
+INFO: [Synth 8-3491] module 'multiplier_main1' declared at 'C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier_main1.vhd:7' bound to instance 'Stage2' of component 'multiplier_main1' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/cosine_sim.vhd:77]
+INFO: [Synth 8-638] synthesizing module 'multiplier_main1' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier_main1.vhd:18]
+INFO: [Synth 8-3491] module 'multiplier' declared at 'C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier.vhd:8' bound to instance 'MULTIPLIER1' of component 'multiplier' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier_main1.vhd:33]
+INFO: [Synth 8-638] synthesizing module 'multiplier' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier.vhd:17]
+INFO: [Synth 8-256] done synthesizing module 'multiplier' (3#1) [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier.vhd:17]
+INFO: [Synth 8-3491] module 'multiplier' declared at 'C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier.vhd:8' bound to instance 'MULTIPLIER2' of component 'multiplier' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier_main1.vhd:37]
+INFO: [Synth 8-256] done synthesizing module 'multiplier_main1' (4#1) [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/multiplier_main1.vhd:18]
+INFO: [Synth 8-3491] module 'divider_main' declared at 'C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/divider_main.vhd:7' bound to instance 'Stage3' of component 'divider_main' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/cosine_sim.vhd:85]
+INFO: [Synth 8-638] synthesizing module 'divider_main' [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/divider_main.vhd:16]
+INFO: [Synth 8-256] done synthesizing module 'divider_main' (5#1) [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/divider_main.vhd:16]
+INFO: [Synth 8-256] done synthesizing module 'cosine_sim' (6#1) [C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.srcs/sources_1/new/cosine_sim.vhd:18]
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1073.109 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:12 ; elapsed = 00:00:13 . Memory (MB): peak = 1073.109 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a100tfgg676-2
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:12 ; elapsed = 00:00:13 . Memory (MB): peak = 1073.109 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a100tfgg676-2
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:16 ; elapsed = 00:00:16 . Memory (MB): peak = 1073.109 ; gain = 0.000
+---------------------------------------------------------------------------------
+ERROR: [Common 17-222] Fail to create message file C:/Users/NR/OneDrive - University of Huddersfield/PhD third year/fully tested code versions/FPGA codes/cosine_sim_crosssection_300_15-03-2021/project_1/project_1.runs/synth_1/.Xil/Vivado-21348-DESKTOP-SNREISG//incrSyn/1203279060/u/g//53000766.rtd.straps.rtd.pb. Please check permission of the directory.
+TclStackFree: incorrect freePtr. Call out of sequence?

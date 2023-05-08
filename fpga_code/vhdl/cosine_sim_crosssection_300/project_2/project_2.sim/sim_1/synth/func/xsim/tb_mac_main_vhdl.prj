@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"tb_mac_main_func_synth.vhd" \
+"../../../../../mac_array.srcs/sources_1/new/mult_2x2_pack.vhd" \
+"../../../../../mac_array.srcs/sources_1/new/mac_main.vhd" \
+"../../../../../mac_array.srcs/sim_1/new/tb_mac_main.vhd" \
+
+# Do not sort compile order
+nosort

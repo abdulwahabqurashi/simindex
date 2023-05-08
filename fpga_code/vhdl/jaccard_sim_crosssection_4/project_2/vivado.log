@@ -1,0 +1,1980 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Mar 29 02:11:35 2021
+# Process ID: 7608
+# Current directory: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16744 D:\Mac array 161120\jaccard_sim_crosssection_4_250321\project_2\project_2.xpr
+# Log file: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/vivado.log
+# Journal file: D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Mac array 161120/jaccard_sim_crosssection_4_250321/project_2/project_2.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/xilinx/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:22 ; elapsed = 00:00:13 . Memory (MB): peak = 1054.098 ; gain = 0.000
+update_compile_order -fileset sources_1
+close_project
+open_project {D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/xilinx/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:08 . Memory (MB): peak = 1054.098 ; gain = 0.000
+update_compile_order -fileset sources_1
+set_property top mac_3x1_array [current_fileset]
+update_compile_order -fileset sources_1
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_mac_3x1_array' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_mac_3x1_array_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_mac_3x1_array.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_mac_3x1_array'
+run_program: Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 1054.098 ; gain = 0.000
+INFO: [USF-XSim-69] 'compile' step finished in '5' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_3x1_array_behav xil_defaultlib.cfg_tb_mac_3x1_array -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_3x1_array_behav xil_defaultlib.cfg_tb_mac_3x1_array -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture rtl of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture tb of entity xil_defaultlib.tb_mac_3x1_array [tb_mac_3x1_array]
+Built simulation snapshot cfg_tb_mac_3x1_array_behav
+
+****** Webtalk v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source D:/Mac -notrace
+couldn't read file "D:/Mac": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Mon Mar 29 02:17:51 2021...
+run_program: Time (s): cpu = 00:00:01 ; elapsed = 00:00:28 . Memory (MB): peak = 1054.098 ; gain = 0.000
+INFO: [USF-XSim-69] 'elaborate' step finished in '27' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_mac_3x1_array_behav -key {Behavioral:sim_1:Functional:cfg_tb_mac_3x1_array} -tclbatch {cfg_tb_mac_3x1_array.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_mac_3x1_array.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+xsim: Time (s): cpu = 00:00:08 ; elapsed = 00:00:06 . Memory (MB): peak = 1054.098 ; gain = 0.000
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_mac_3x1_array_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:11 ; elapsed = 00:00:42 . Memory (MB): peak = 1054.098 ; gain = 0.000
+run all
+set_property top mac_main [current_fileset]
+update_compile_order -fileset sources_1
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+close_sim: Time (s): cpu = 00:00:05 ; elapsed = 00:00:07 . Memory (MB): peak = 1054.098 ; gain = 0.000
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_mac_3x1_array' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_mac_3x1_array_vhdl.prj"
+INFO: [USF-XSim-69] 'compile' step finished in '3' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_3x1_array_behav xil_defaultlib.cfg_tb_mac_3x1_array -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_3x1_array_behav xil_defaultlib.cfg_tb_mac_3x1_array -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_mac_3x1_array_behav -key {Behavioral:sim_1:Functional:cfg_tb_mac_3x1_array} -tclbatch {cfg_tb_mac_3x1_array.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_mac_3x1_array.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_mac_3x1_array_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:09 ; elapsed = 00:00:10 . Memory (MB): peak = 1054.098 ; gain = 0.000
+set_property top cfg_tb_mac_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+update_compile_order -fileset sim_1
+launch_simulation
+Command: launch_simulation 
+boost::filesystem::remove: The process cannot access the file because it is being used by another process: "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim/simulate.log"
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_mac_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_mac_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_mac_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_mac_main'
+INFO: [USF-XSim-69] 'compile' step finished in '3' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_main_behav xil_defaultlib.cfg_tb_mac_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_main_behav xil_defaultlib.cfg_tb_mac_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture rtl of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_mac_main [tb_mac_main]
+Built simulation snapshot cfg_tb_mac_main_behav
+
+****** Webtalk v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source D:/Mac -notrace
+couldn't read file "D:/Mac": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Mon Mar 29 02:22:34 2021...
+run_program: Time (s): cpu = 00:00:00 ; elapsed = 00:00:07 . Memory (MB): peak = 1054.098 ; gain = 0.000
+INFO: [USF-XSim-69] 'elaborate' step finished in '7' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_mac_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_mac_main} -tclbatch {cfg_tb_mac_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_mac_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_mac_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:07 ; elapsed = 00:00:15 . Memory (MB): peak = 1054.098 ; gain = 0.000
+set_property top adder_main [current_fileset]
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+close_sim: Time (s): cpu = 00:00:04 ; elapsed = 00:00:07 . Memory (MB): peak = 1054.098 ; gain = 0.000
+update_compile_order -fileset sources_1
+set_property top cfg_tb_adder_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+update_compile_order -fileset sim_1
+set_property top mac_main [current_fileset]
+update_compile_order -fileset sources_1
+set_property top cfg_tb_mac_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+update_compile_order -fileset sim_1
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_mac_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_mac_main_vhdl.prj"
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_main_behav xil_defaultlib.cfg_tb_mac_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_main_behav xil_defaultlib.cfg_tb_mac_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+INFO: [USF-XSim-69] 'elaborate' step finished in '2' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_mac_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_mac_main} -tclbatch {cfg_tb_mac_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_mac_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_mac_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:06 ; elapsed = 00:00:09 . Memory (MB): peak = 1054.098 ; gain = 0.000
+set_property top adder_main [current_fileset]
+set_property top cfg_tb_adder_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_adder_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_adder_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_adder_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_adder_main'
+INFO: [USF-XSim-69] 'compile' step finished in '3' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_adder_main_behav xil_defaultlib.cfg_tb_adder_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_adder_main_behav xil_defaultlib.cfg_tb_adder_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_adder_main [tb_adder_main]
+Built simulation snapshot cfg_tb_adder_main_behav
+
+****** Webtalk v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source D:/Mac -notrace
+couldn't read file "D:/Mac": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Mon Mar 29 02:29:58 2021...
+run_program: Time (s): cpu = 00:00:00 ; elapsed = 00:00:05 . Memory (MB): peak = 1054.098 ; gain = 0.000
+INFO: [USF-XSim-69] 'elaborate' step finished in '5' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_adder_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_adder_main} -tclbatch {cfg_tb_adder_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_adder_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_adder_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:12 . Memory (MB): peak = 1054.098 ; gain = 0.000
+set_property top subtract_main [current_fileset]
+set_property top cfg_tb_subtract_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+close_sim: Time (s): cpu = 00:00:03 ; elapsed = 00:00:06 . Memory (MB): peak = 1054.098 ; gain = 0.000
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_subtract_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_subtract_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_subtract_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_subtract_main [tb_subtract_main]
+Built simulation snapshot cfg_tb_subtract_main_behav
+
+****** Webtalk v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source D:/Mac -notrace
+couldn't read file "D:/Mac": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Mon Mar 29 02:33:03 2021...
+run_program: Time (s): cpu = 00:00:01 ; elapsed = 00:00:05 . Memory (MB): peak = 1054.098 ; gain = 0.000
+INFO: [USF-XSim-69] 'elaborate' step finished in '5' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_subtract_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_subtract_main} -tclbatch {cfg_tb_subtract_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_subtract_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_subtract_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:12 . Memory (MB): peak = 1054.098 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_subtract_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_subtract_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'subtract_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_subtract_main [tb_subtract_main]
+Built simulation snapshot cfg_tb_subtract_main_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '2' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_subtract_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_subtract_main} -tclbatch {cfg_tb_subtract_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_subtract_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_subtract_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:06 ; elapsed = 00:00:10 . Memory (MB): peak = 1054.098 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_subtract_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_subtract_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_subtract_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_subtract_main [tb_subtract_main]
+Built simulation snapshot cfg_tb_subtract_main_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_subtract_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_subtract_main} -tclbatch {cfg_tb_subtract_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_subtract_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_subtract_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:09 . Memory (MB): peak = 1054.098 ; gain = 0.000
+set_property top divider_main [current_fileset]
+update_compile_order -fileset sources_1
+set_property top subtract_main [current_fileset]
+update_compile_order -fileset sources_1
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_subtract_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_subtract_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_subtract_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_subtract_main [tb_subtract_main]
+Built simulation snapshot cfg_tb_subtract_main_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_subtract_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_subtract_main} -tclbatch {cfg_tb_subtract_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_subtract_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_subtract_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:06 ; elapsed = 00:00:10 . Memory (MB): peak = 1054.098 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_subtract_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_subtract_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_subtract_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_subtract_main [tb_subtract_main]
+Built simulation snapshot cfg_tb_subtract_main_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_subtract_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_subtract_main} -tclbatch {cfg_tb_subtract_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_subtract_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_subtract_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:06 ; elapsed = 00:00:09 . Memory (MB): peak = 1054.098 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_subtract_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_subtract_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_subtract_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_subtract_main [tb_subtract_main]
+Built simulation snapshot cfg_tb_subtract_main_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_subtract_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_subtract_main} -tclbatch {cfg_tb_subtract_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_subtract_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_subtract_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:09 . Memory (MB): peak = 1054.098 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_subtract_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_subtract_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'subtract_main'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_subtract_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_subtract_main [tb_subtract_main]
+Built simulation snapshot cfg_tb_subtract_main_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_subtract_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_subtract_main} -tclbatch {cfg_tb_subtract_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_subtract_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_subtract_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 1054.098 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_subtract_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_subtract_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sim_1/new/tb_subtract_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_subtract_main'
+INFO: [USF-XSim-69] 'compile' step finished in '3' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_subtract_main_behav xil_defaultlib.cfg_tb_subtract_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_subtract_main [tb_subtract_main]
+Built simulation snapshot cfg_tb_subtract_main_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_subtract_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_subtract_main} -tclbatch {cfg_tb_subtract_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_subtract_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_subtract_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:09 . Memory (MB): peak = 1054.098 ; gain = 0.000
+set_property top jaccard_sim [current_fileset]
+update_compile_order -fileset sources_1
+set_property top cfg_tb_jaccard_sim [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+update_compile_order -fileset sim_1
+launch_simulation
+Command: launch_simulation 
+boost::filesystem::remove: The process cannot access the file because it is being used by another process: "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim/simulate.log"
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture rtl of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+ERROR: File: D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/divider_main.vhd Line: 36 : Division by zero is not allowed.
+Time: 0 ps  Iteration: 2  Process: /tb_jaccard_sim/dut/Stage4/line__36
+  File: D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/divider_main.vhd
+
+HDL Line: D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/divider_main.vhd:36
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:07 ; elapsed = 00:00:10 . Memory (MB): peak = 1054.098 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/adder_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adder_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+"xelab -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8bdf8a9a74c64b7583c4935b52d6ad62 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture rtl of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '4' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+ERROR: File: D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/divider_main.vhd Line: 36 : Division by zero is not allowed.
+Time: 0 ps  Iteration: 2  Process: /tb_jaccard_sim/dut/Stage4/line__36
+  File: D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/divider_main.vhd
+
+HDL Line: D:/Mac array 161120/jaccard_sim_crosssection_4_27-03-21/project_3/project_3.srcs/sources_1/new/divider_main.vhd:36
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:06 ; elapsed = 00:00:10 . Memory (MB): peak = 1071.156 ; gain = 0.457
+run all
+ERROR: [Simulator 45-1] A fatal run-time error was detected.  Simulation cannot continue.
+open_project {D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/xilinx/Vivado/2020.1/data/ip'.
+update_compile_order -fileset sources_1
+current_project project_3
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+close_project
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:06 ; elapsed = 00:00:08 . Memory (MB): peak = 1157.234 ; gain = 42.891
+run all
+ERROR: File: D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sources_1/new/divider_main.vhd Line: 36 : Division by zero is not allowed.
+Time: 1500 ns  Iteration: 1  Process: /tb_jaccard_sim/dut/Stage4/p_synchronous_reset
+  File: D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sources_1/new/divider_main.vhd
+
+HDL Line: D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sources_1/new/divider_main.vhd:36
+set_property top mac_main [current_fileset]
+update_compile_order -fileset sources_1
+set_property top cfg_tb_mac_main [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+update_compile_order -fileset sim_1
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+close_sim: Time (s): cpu = 00:00:02 ; elapsed = 00:00:05 . Memory (MB): peak = 1160.887 ; gain = 0.000
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_mac_main' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_mac_main_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_mac_main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_mac_main'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_main_behav xil_defaultlib.cfg_tb_mac_main -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_mac_main_behav xil_defaultlib.cfg_tb_mac_main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture tb of entity xil_defaultlib.tb_mac_main [tb_mac_main]
+Built simulation snapshot cfg_tb_mac_main_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_mac_main_behav -key {Behavioral:sim_1:Functional:cfg_tb_mac_main} -tclbatch {cfg_tb_mac_main.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_mac_main.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_mac_main_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:03 ; elapsed = 00:00:09 . Memory (MB): peak = 1161.637 ; gain = 0.750
+set_property top jaccard_sim [current_fileset]
+update_compile_order -fileset sources_1
+set_property top cfg_tb_jaccard_sim [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+update_compile_order -fileset sim_1
+launch_simulation
+Command: launch_simulation 
+boost::filesystem::remove: The process cannot access the file because it is being used by another process: "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim/simulate.log"
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '4' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 1168.469 ; gain = 6.832
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:09 . Memory (MB): peak = 1168.469 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 1177.254 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 1238.855 ; gain = 0.188
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '3' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:04 ; elapsed = 00:00:09 . Memory (MB): peak = 1241.105 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sources_1/new/mult_2x2_pack.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sources_1/new/mac_3x1_array.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mac_3x1_array'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 1241.105 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sources_1/new/mult_2x2_pack.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sources_1/new/mac_3x1_array.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mac_3x1_array'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:06 ; elapsed = 00:00:12 . Memory (MB): peak = 1241.105 ; gain = 0.000
+run all
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sources_1/new/mac_3x1_array.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mac_3x1_array'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '4' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 1256.582 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:04 ; elapsed = 00:00:09 . Memory (MB): peak = 1256.582 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '5' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 1256.582 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '4' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 1256.582 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '3' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '4' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 1256.582 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '3' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 1256.582 ; gain = 0.000
+run all
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'cfg_tb_jaccard_sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj cfg_tb_jaccard_sim_vhdl.prj"
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.srcs/sim_1/new/tb_jaccard_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_jaccard_sim'
+INFO: [USF-XSim-69] 'compile' step finished in '4' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto acf5c2a40d414547b65ecc5070a4266b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_jaccard_sim_behav xil_defaultlib.cfg_tb_jaccard_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.mult_2x2_pack
+Compiling architecture behavioral of entity xil_defaultlib.mac_3x1_array [mac_3x1_array_default]
+Compiling architecture behavioral of entity xil_defaultlib.mac_main [mac_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.adder_main [adder_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtract_main [subtract_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider_main [divider_main_default]
+Compiling architecture behavioral of entity xil_defaultlib.jaccard_sim [jaccard_sim_default]
+Compiling architecture tb of entity xil_defaultlib.tb_jaccard_sim [tb_jaccard_sim]
+Built simulation snapshot cfg_tb_jaccard_sim_behav
+run_program: Time (s): cpu = 00:00:00 ; elapsed = 00:00:05 . Memory (MB): peak = 1256.582 ; gain = 0.000
+INFO: [USF-XSim-69] 'elaborate' step finished in '5' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/Mac array 161120/jaccard_sim_crosssection_300_28-03-21/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "cfg_tb_jaccard_sim_behav -key {Behavioral:sim_1:Functional:cfg_tb_jaccard_sim} -tclbatch {cfg_tb_jaccard_sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+source cfg_tb_jaccard_sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'cfg_tb_jaccard_sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:08 ; elapsed = 00:00:14 . Memory (MB): peak = 1256.582 ; gain = 0.000
+run all
+run all
+run all

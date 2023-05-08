@@ -1,0 +1,21 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 1cfc921ece9d486b95c5371415c7964c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_cosine_sim_func_synth xil_defaultlib.cfg_tb_cosine_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-718] formal port <clk> does not exist in entity <cosine_sim>.  Please compare the definition of block <cosine_sim> to its component declaration and its instantion to detect the mismatch. [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:165]
+ERROR: [VRFC 10-718] formal port <S1_vec> does not exist in entity <cosine_sim>.  Please compare the definition of block <cosine_sim> to its component declaration and its instantion to detect the mismatch. [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:166]
+ERROR: [VRFC 10-718] formal port <S2_vec> does not exist in entity <cosine_sim>.  Please compare the definition of block <cosine_sim> to its component declaration and its instantion to detect the mismatch. [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:167]
+ERROR: [VRFC 10-3290] entity port 'm1_outp' does not match with type integer of component port [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:168]
+ERROR: [VRFC 10-664] expression has 0 elements ; expected 32 [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:168]
+ERROR: [VRFC 10-3290] entity port 'm2_outp' does not match with type integer of component port [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:169]
+ERROR: [VRFC 10-664] expression has 0 elements ; expected 32 [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:169]
+ERROR: [VRFC 10-3290] entity port 'm3_outp' does not match with type integer of component port [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:170]
+ERROR: [VRFC 10-664] expression has 0 elements ; expected 32 [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:170]
+ERROR: [VRFC 10-3290] entity port 'multi1_outp' does not match with type integer of component port [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:171]
+ERROR: [VRFC 10-664] expression has 0 elements ; expected 32 [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:171]
+ERROR: [VRFC 10-3290] entity port 'multi2_outp' does not match with type integer of component port [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:172]
+ERROR: [VRFC 10-664] expression has 0 elements ; expected 32 [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:172]
+ERROR: [VRFC 10-3290] entity port 'cosine_outp' does not match with type integer of component port [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:173]
+ERROR: [VRFC 10-664] expression has 0 elements ; expected 32 [D:/Mac array 161120/cosine_sim_crosssection_4_281120/cosine_sim_crosssection_4_281120.srcs/sim_1/new/tb_cosine_sim.vhd:173]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit cfg_tb_cosine_sim in library work failed.
